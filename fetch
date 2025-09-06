@@ -1,0 +1,18 @@
+#!/bin/bash
+curl -s 'https://webwidgets.prod.btwb.com/webwidgets/wods?sections=all&track_ids=573806&activity_length=0&leaderboard_length=0&days=8&date=Sun%20Sep%2007%202025%2012%3A35%3A59%20GMT%2B0200%20(Mitteleurop%C3%A4ische%20Sommerzeit)' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:142.0) Gecko/20100101 Firefox/142.0' \
+  -H 'Accept: application/vnd.btwb.v1.webwidgets+json' \
+  -H 'Accept-Language: en-US,en;q=0.8,de-DE;q=0.5,zh-CN;q=0.3' \
+  -H 'Accept-Encoding: gzip, deflate, br, zstd' \
+  -H "Authorization: $BTWB_TOKEN" \
+  -H 'Origin: https://crossfitwerk.de' \
+  -H 'DNT: 1' \
+  -H 'Sec-GPC: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://crossfitwerk.de/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Pragma: no-cache' \
+  -H 'Cache-Control: no-cache' \
+  -H 'TE: trailers' | tee wod.json | jq
