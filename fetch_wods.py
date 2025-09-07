@@ -86,7 +86,7 @@ def scrape(db):
         #example_queries(conn)
         conn.execute(f"EXPORT DATABASE '{db}'")
 
-def generate_feed(db_file):
+def generate_feed(db):
     query = """
     SELECT
         ws.id,
@@ -98,7 +98,8 @@ def generate_feed(db_file):
     ORDER BY ws.date DESC, w.id ASC
     """
 
-    with duckdb.connect(db_file) as conn:
+    with duckdb.connect() as conn:
+        conn.execute(f"IMPORT DATABASE '{db}'")
         results = conn.execute(query).fetchall()
 
         workouts_by_date = {}
