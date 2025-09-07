@@ -87,13 +87,13 @@ def generate_feed(db):
 
     feed = FeedGenerator()
     feed.title("Crossfit Werk WODs")
-    feed.subtitle("Crossfit Werk WODs")
-    #feed.link( href='http://larskiesow.de/test.atom', rel='self' )
+    feed.subtitle('scraped from https://crossfitwerk.de/workout-of-the-day')
+    feed.id('https://github.com/znull/werk_feed')
+    feed.link(href='https://znull.github.io/werk_feed', rel='self')
     feed.link(href='https://crossfitwerk.de/workout-of-the-day', rel='alternate')
+    feed.author( {'name':'Jason Lunz','email':'znull@github.com'} )
     feed.language('en')
     feed.logo('https://images.squarespace-cdn.com/content/v1/638096caaf6dba73fe17c5c8/a599d2e8-074d-4aa0-a6db-f99537367f72/253590-2015_12_17_09_38_50.png?format=1500w')
-    feed.id('https://github.com/znull/werk/wods.atom')
-    #feed.author( {'name':'John Doe','email':'john@example.de'} )
 
     now = datetime.datetime.now(ZoneInfo('Europe/Berlin'))
     for date, workouts in workouts_by_date.items():
