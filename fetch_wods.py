@@ -82,7 +82,7 @@ def scrape(db):
 
     with duckdb.connect() as conn:
         conn.execute(f"IMPORT DATABASE '{db}'")
-        #populate_db(db, conn, data)
+        populate_db(conn, data)
         #example_queries(conn)
         conn.execute(f"EXPORT DATABASE '{db}'")
 
