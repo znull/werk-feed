@@ -34,29 +34,6 @@ def populate_db(conn, data):
                 workout["wod_results_count"], workout["wod_results_url"]
             ])
 
-def example_queries(conn):
-    print("\n--- Example Queries ---\n")
-
-    print("1. All workout dates and names:")
-    result = conn.execute("""
-        SELECT w.date, wo.workout_name
-        FROM wodsets w
-        JOIN workouts wo ON w.id = wo.wodset_id
-        ORDER BY w.date, wo.id ASC
-    """).fetchall()
-    for row in result:
-        print(f"{row[0]}: {row[1]}")
-
-    print("\n2. Workouts with description:")
-    result = conn.execute("""
-        SELECT w.date, wo.workout_name, wo.workout_description
-        FROM wodsets w
-        JOIN workouts wo ON w.id = wo.wodset_id
-        ORDER BY w.date, wo.id ASC
-    """).fetchall()
-    for row in result:
-        print(f"# {row[0]}: {row[1]}\n\n{row[2]}\n")
-
 def fetch_wod_json(url):
     try:
         headers = {
@@ -83,7 +60,6 @@ def scrape(db):
     with duckdb.connect() as conn:
         conn.execute(f"IMPORT DATABASE '{db}'")
         populate_db(conn, data)
-        #example_queries(conn)
         conn.execute(f"EXPORT DATABASE '{db}'")
 
 def generate_feed(db):
