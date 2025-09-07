@@ -63,6 +63,7 @@ def generate_feed(db):
     SELECT
         ws.id,
         ws.date,
+        ws.scraped_at,
         w.workout_name,
         w.workout_description
     FROM workouts w
@@ -75,7 +76,7 @@ def generate_feed(db):
         results = conn.execute(query).fetchall()
 
         workouts_by_date = {}
-        for workout_id, date, name, description in results:
+        for workout_id, date, scraped_at, name, description in results:
             if date not in workouts_by_date:
                 workouts_by_date[date] = []
 
@@ -83,6 +84,7 @@ def generate_feed(db):
                 'id': workout_id,
                 'name': name,
                 'description': description,
+                'scraped_at': scraped_at,
             })
 
     feed = FeedGenerator()
@@ -95,10 +97,7 @@ def generate_feed(db):
     feed.language('en')
     feed.logo('https://images.squarespace-cdn.com/content/v1/638096caaf6dba73fe17c5c8/a599d2e8-074d-4aa0-a6db-f99537367f72/253590-2015_12_17_09_38_50.png?format=1500w')
 
-    now = datetime.datetime.now(ZoneInfo('Europe/Berlin'))
     for date, workouts in workouts_by_date.items():
-        date_str = date.strftime("%Y-%m-%d")
-
         content = ""
         for workout in workouts:
             content += f"<h2>{workout['name']}</h2>\n"
@@ -106,10 +105,9 @@ def generate_feed(db):
 
         entry = feed.add_entry()
         entry.id(str(workout['id']))
-        entry.title(f"Workout for {date_str}")
+        entry.title(f"Workout for {date.strftime("%Y-%m-%d")}")
         entry.description(content)
-        entry.updated(now)  # TODO: track content
-        #link = f"https://workoutoftheday.com/workouts/{date_str}/"  # Replace with your actual URL structure
+        entry.updated(scraped_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
 
     return feed
 
