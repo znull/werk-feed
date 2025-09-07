@@ -36,18 +36,13 @@ def populate_db(conn, data):
             ])
 
 def fetch_wod_json(url):
-    try:
-        headers = {
-            'Accept': 'application/vnd.btwb.v1.webwidgets+json',
-            'Authorization': os.environ['BTWB_TOKEN'],
-        }
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        return response.json()
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching data: {e}")
-    except json.JSONDecodeError as e:
-        print(f"Error parsing JSON: {e}")
+    headers = {
+        'Accept': 'application/vnd.btwb.v1.webwidgets+json',
+        'Authorization': os.environ['BTWB_TOKEN'],
+    }
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    return response.json()
 
 def scrape(db):
     url = 'https://webwidgets.prod.btwb.com/webwidgets/wods?track_ids=573806&activity_length=0&leaderboard_length=0&days=40'
