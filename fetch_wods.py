@@ -7,34 +7,6 @@ import os
 import requests
 import uuid
 
-# Initialize the database
-def init_db(db_name="wods.db"):
-    conn = duckdb.connect(db_name)
-    conn.execute("""
-        CREATE TABLE IF NOT EXISTS wodsets (
-            id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-            track_name VARCHAR,
-            date DATE UNIQUE,
-            scraped_at TIMESTAMP
-        )
-    """)
-    conn.execute('CREATE SEQUENCE IF NOT EXISTS seq_workout_id START 1')
-    conn.execute("""
-        CREATE TABLE IF NOT EXISTS workouts (
-            id INTEGER PRIMARY KEY DEFAULT nextval('seq_workout_id'),
-            wodset_id UUID,
-            wod_section VARCHAR,
-            wod_title VARCHAR,
-            workout_name VARCHAR,
-            workout_description VARCHAR,
-            wod_results_count INTEGER,
-            wod_results_url VARCHAR,
-            FOREIGN KEY (wodset_id) REFERENCES wodsets(id)
-        )
-    """)
-    return conn
-
-# Insert data into the database
 def populate_db(conn, data):
     now = datetime.datetime.now()
     for i, wodset in enumerate(data["wodsets"]):
@@ -62,7 +34,6 @@ def populate_db(conn, data):
                 workout["wod_results_count"], workout["wod_results_url"]
             ])
 
-# Query examples
 def example_queries(conn):
     print("\n--- Example Queries ---\n")
 
@@ -109,9 +80,11 @@ def scrape(db):
     url = 'https://webwidgets.prod.btwb.com/webwidgets/wods?track_ids=573806&activity_length=0&leaderboard_length=0&days=40'
     data = fetch_wod_json(url)
 
-    with init_db(db) as conn:
-        populate_db(conn, data)
+    with duckdb.connect() as conn:
+        conn.execute(f"IMPORT DATABASE '{db}'")
+        #populate_db(db, conn, data)
         #example_queries(conn)
+        conn.execute(f"EXPORT DATABASE '{db}'")
 
 def generate_feed(db_file):
     query = """
@@ -173,8 +146,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='wod feed generator')
     parser.add_argument('action', type=str, choices=['scrape', 'feed'],
                         help='Action to perform: "scrape" to collect data or "feed" to generate atom feed')
-    parser.add_argument('--db', type=str, default='wods.duckdb',
-                        help='Path to DuckDB database file')
+    parser.add_argument('--db', type=str, default='db', help='Path to DuckDB database export')
     parser.add_argument('--output', type=str, default='workouts.atom',
                         help='Path to output feed file')
 
