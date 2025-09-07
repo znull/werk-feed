@@ -128,7 +128,7 @@ def generate_feed(db):
 
         entry = feed.add_entry()
         entry.guid(str(workout['id']))
-        entry.title(f"Workout for {date.strftime("%b %-d, %Y")}")
+        entry.title(f"Workout for {date.strftime("%a %b %-d, %Y")}")
         entry.content(content, type='xhtml')
         #entry.updated(scraped_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
         entry.updated(datetime.combine(date, time(), tzinfo=ZoneInfo('Europe/Berlin')))
