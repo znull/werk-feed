@@ -10,10 +10,9 @@ import uuid
 # Initialize the database
 def init_db(db_name="wods.db"):
     conn = duckdb.connect(db_name)
-    conn.execute('CREATE SEQUENCE IF NOT EXISTS seq_wodset_id START 1')
     conn.execute("""
         CREATE TABLE IF NOT EXISTS wodsets (
-            id INTEGER PRIMARY KEY DEFAULT nextval('seq_wodset_id'),
+            id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
             track_name VARCHAR,
             date DATE UNIQUE,
             scraped_at TIMESTAMP
@@ -23,7 +22,7 @@ def init_db(db_name="wods.db"):
     conn.execute("""
         CREATE TABLE IF NOT EXISTS workouts (
             id INTEGER PRIMARY KEY DEFAULT nextval('seq_workout_id'),
-            wodset_id INTEGER,
+            wodset_id UUID,
             wod_section VARCHAR,
             wod_title VARCHAR,
             workout_name VARCHAR,
@@ -117,7 +116,7 @@ def scrape(db):
 def generate_feed(db_file):
     query = """
     SELECT
-        w.id,
+        ws.id,
         ws.date,
         w.workout_name,
         w.workout_description
@@ -160,7 +159,7 @@ def generate_feed(db_file):
             content += f"<p>{workout['description']}</p>\n\n"
 
         entry = feed.add_entry()
-        entry.id
+        entry.id(str(workout['id']))
         entry.title(f"Workout for {date_str}")
         entry.description(content)
         entry.updated(now)  # TODO: track content
