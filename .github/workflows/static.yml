@@ -32,23 +32,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Install uv
-        uses: astral-sh/setup-uv@v4
-      - name: Set up Python
-        run: uv python install
+        uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.8.15"
       - name: Install dependencies
-        run: uv sync
+        run: uv sync --locked
       - name: Scrape WOD data
-        run: uv run python fetch_wods.py scrape --db db
+        run: uv run python fetch_wods.py scrape
         env:
           BTWB_TOKEN: ${{ secrets.BTWB_TOKEN }}
       - name: Generate Atom feed
-        run: uv run python fetch_wods.py feed --db db > wods.atom
+        run: uv run python fetch_wods.py feed > wods.atom
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
           path: 'wods.atom'
       - name: Deploy to GitHub Pages
         id: deployment
