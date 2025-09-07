@@ -11,7 +11,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -41,6 +41,19 @@ jobs:
         run: uv run python fetch_wods.py scrape
         env:
           BTWB_TOKEN: ${{ secrets.BTWB_TOKEN }}
+      - name: Configure git for wodbot
+        run: |
+          git config --global user.name "wodbot"
+          git config --global user.email "wodbot@users.noreply.github.com"
+      - name: Commit and push db changes
+        run: |
+          git add db/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update WOD database (automated by wodbot)"
+            git push
+          fi
       - name: Generate Atom feed
         run: |
           mkdir _site
