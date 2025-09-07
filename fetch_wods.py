@@ -112,8 +112,9 @@ def generate_feed(db):
     feed = FeedGenerator()
     feed.title("Crossfit Werk WODs")
     feed.subtitle('scraped from https://crossfitwerk.de/workout-of-the-day')
-    feed.id('https://github.com/znull/werk-feed/v2')
-    feed.link(href='https://znull.github.io/werk-feed/workouts.atom', rel='self')
+    feed_url = 'https://znull.github.io/werk-feed/workouts.atom'
+    feed.id(feed_url)
+    feed.link(href=feed_url, rel='self')
     feed.link(href='https://crossfitwerk.de/workout-of-the-day', rel='alternate')
     feed.language('en')
     feed.logo('https://images.squarespace-cdn.com/content/v1/638096caaf6dba73fe17c5c8/a599d2e8-074d-4aa0-a6db-f99537367f72/253590-2015_12_17_09_38_50.png?format=1500w')
