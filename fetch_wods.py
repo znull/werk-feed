@@ -64,7 +64,7 @@ def generate_feed(db):
         w.workout_description
     FROM workouts w
     JOIN wodsets ws ON w.wodset_id = ws.id
-    ORDER BY ws.date DESC, w.id ASC
+    ORDER BY ws.date, w.id
     """
 
     with duckdb.connect() as conn:
@@ -93,7 +93,7 @@ def generate_feed(db):
     feed.language('en')
     feed.logo('https://images.squarespace-cdn.com/content/v1/638096caaf6dba73fe17c5c8/a599d2e8-074d-4aa0-a6db-f99537367f72/253590-2015_12_17_09_38_50.png?format=1500w')
 
-    for date, workouts in workouts_by_date.items():
+    for date, workouts in sorted(workouts_by_date.items(), reverse=True):
         content = ""
         for workout in workouts:
             content += f"<h2>{workout['title'] or workout['name']}</h2>\n"
@@ -101,8 +101,8 @@ def generate_feed(db):
 
         entry = feed.add_entry()
         entry.guid(str(workout['id']))
-        entry.title(f"Workout for {date.strftime("%Y-%m-%d")}")
-        entry.description(content)
+        entry.title(f"Workout for {date.strftime("%b %-d, %Y")}")
+        entry.content(content, type='html')
         entry.updated(scraped_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
 
     return feed
