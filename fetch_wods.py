@@ -1,6 +1,6 @@
 from feedgen.feed import FeedGenerator
 from zoneinfo import ZoneInfo
-import datetime
+from datetime import datetime, time
 import duckdb
 import json
 import os
@@ -9,7 +9,7 @@ import sys
 import uuid
 
 def populate_db(conn, data):
-    now = datetime.datetime.now()
+    now = datetime.now()
     for i, wodset in enumerate(data["wodsets"]):
         try:
             wodset_id = conn.execute("""
@@ -93,7 +93,7 @@ def generate_feed(db):
     feed.language('en')
     feed.logo('https://images.squarespace-cdn.com/content/v1/638096caaf6dba73fe17c5c8/a599d2e8-074d-4aa0-a6db-f99537367f72/253590-2015_12_17_09_38_50.png?format=1500w')
 
-    for date, workouts in sorted(workouts_by_date.items(), reverse=True):
+    for date, workouts in sorted(workouts_by_date.items()):
         content = ""
         for workout in workouts:
             content += f"<h2>{workout['title'] or workout['name']}</h2>\n"
@@ -103,7 +103,8 @@ def generate_feed(db):
         entry.guid(str(workout['id']))
         entry.title(f"Workout for {date.strftime("%b %-d, %Y")}")
         entry.content(content, type='html')
-        entry.updated(scraped_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
+        #entry.updated(scraped_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
+        entry.updated(datetime.combine(date, time(), tzinfo=ZoneInfo('Europe/Berlin')))
 
     return feed
 
