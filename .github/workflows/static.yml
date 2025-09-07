@@ -43,8 +43,8 @@ jobs:
           BTWB_TOKEN: ${{ secrets.BTWB_TOKEN }}
       - name: Configure git for wodbot
         run: |
-          git config --global user.name "wodbot"
-          git config --global user.email "wodbot@users.noreply.github.com"
+          git config user.name "wodbot"
+          git config user.email "wodbot@users.noreply.github.com"
       - name: Commit and push db changes
         run: |
           git add db/
