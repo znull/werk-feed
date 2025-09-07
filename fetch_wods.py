@@ -4,6 +4,7 @@ from datetime import datetime, time, timedelta
 import duckdb
 import json
 import os
+import re
 import requests
 import sys
 import urllib.parse
@@ -122,11 +123,12 @@ def generate_feed(db):
         for workout in workouts:
             content += f"<h2>{workout['title'] or workout['name']}</h2>\n"
             content += f"<p>{workout['description']}</p>\n\n"
+        content = re.sub(r'(&#13;|&#10;|\r|\n)', '<br/>\n', content)
 
         entry = feed.add_entry()
         entry.guid(str(workout['id']))
         entry.title(f"Workout for {date.strftime("%b %-d, %Y")}")
-        entry.content(content, type='html')
+        entry.content(content, type='xhtml')
         #entry.updated(scraped_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
         entry.updated(datetime.combine(date, time(), tzinfo=ZoneInfo('Europe/Berlin')))
 
