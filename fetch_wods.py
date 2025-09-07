@@ -40,14 +40,9 @@ def fetch_wod_json(url):
         headers = {
             'Accept': 'application/vnd.btwb.v1.webwidgets+json',
             'Authorization': os.environ['BTWB_TOKEN'],
-            #'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:142.0) Gecko/20100101 Firefox/142.0' \
-            #'Accept-Language: en-US,en;q=0.8,de-DE;q=0.5,zh-CN;q=0.3' \
-            #'Accept-Encoding: gzip, deflate, br, zstd' \
-            #'Origin: https://crossfitwerk.de' \
-            #'Referer: https://crossfitwerk.de/' \
         }
         response = requests.get(url, headers=headers)
-        response.raise_for_status()  # Raise exception for HTTP errors
+        response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data: {e}")
