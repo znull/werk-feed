@@ -64,6 +64,7 @@ def generate_feed(db):
         ws.id,
         ws.date,
         ws.scraped_at,
+        w.wod_title,
         w.workout_name,
         w.workout_description
     FROM workouts w
@@ -76,12 +77,13 @@ def generate_feed(db):
         results = conn.execute(query).fetchall()
 
         workouts_by_date = {}
-        for workout_id, date, scraped_at, name, description in results:
+        for workout_id, date, scraped_at, title, name, description in results:
             if date not in workouts_by_date:
                 workouts_by_date[date] = []
 
             workouts_by_date[date].append({
                 'id': workout_id,
+                'title': title,
                 'name': name,
                 'description': description,
                 'scraped_at': scraped_at,
@@ -100,11 +102,11 @@ def generate_feed(db):
     for date, workouts in workouts_by_date.items():
         content = ""
         for workout in workouts:
-            content += f"<h2>{workout['name']}</h2>\n"
+            content += f"<h2>{workout['title'] or workout['name']}</h2>\n"
             content += f"<p>{workout['description']}</p>\n\n"
 
         entry = feed.add_entry()
-        entry.id(str(workout['id']))
+        entry.guid(str(workout['id']))
         entry.title(f"Workout for {date.strftime("%Y-%m-%d")}")
         entry.description(content)
         entry.updated(scraped_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
