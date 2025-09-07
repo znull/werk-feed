@@ -5,6 +5,7 @@ import duckdb
 import json
 import os
 import requests
+import sys
 import uuid
 
 def populate_db(conn, data):
@@ -124,15 +125,12 @@ if __name__ == "__main__":
     parser.add_argument('action', type=str, choices=['scrape', 'feed'],
                         help='Action to perform: "scrape" to collect data or "feed" to generate atom feed')
     parser.add_argument('--db', type=str, default='db', help='Path to DuckDB database export')
-    parser.add_argument('--output', type=str, default='workouts.atom',
-                        help='Path to output feed file')
 
     args = parser.parse_args()
 
     if args.action == 'feed':
         feed = generate_feed(args.db)
-        with open(args.output, 'wb') as fh:
-            fh.write(feed.atom_str(pretty=True))
+        sys.stdout.buffer.write(feed.atom_str(pretty=True))
     elif args.action == 'scrape':
         scrape(args.db)
     else:
