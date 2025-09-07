@@ -106,7 +106,7 @@ def fetch_wod_json(url):
         print(f"Error parsing JSON: {e}")
 
 def scrape(db):
-    url = 'https://webwidgets.prod.btwb.com/webwidgets/wods?sections=all&track_ids=573806&activity_length=0&leaderboard_length=0&days=8&date=Sun%20Sep%2007%202025%2012%3A35%3A59%20GMT%2B0200%20(Mitteleurop%C3%A4ische%20Sommerzeit)'
+    url = 'https://webwidgets.prod.btwb.com/webwidgets/wods?track_ids=573806&activity_length=0&leaderboard_length=0&days=40'
     data = fetch_wod_json(url)
 
     with init_db(db) as conn:
