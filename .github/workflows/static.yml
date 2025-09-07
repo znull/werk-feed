@@ -52,7 +52,7 @@ jobs:
       - name: Generate Atom feed
         run: |
           mkdir _site
-          uv run python fetch_wods.py feed > _site/wods.atom
+          uv run python fetch_wods.py feed > _site/workouts.atom
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
