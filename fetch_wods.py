@@ -1,11 +1,12 @@
 from feedgen.feed import FeedGenerator
 from zoneinfo import ZoneInfo
-from datetime import datetime, time
+from datetime import datetime, time, timedelta
 import duckdb
 import json
 import os
 import requests
 import sys
+import urllib.parse
 import uuid
 
 def populate_db(conn, data):
@@ -44,8 +45,31 @@ def fetch_wod_json(url):
     response.raise_for_status()
     return response.json()
 
+# date=Sun Sep 14 2025 23:01:22 GMT+0200 (Mitteleuropäische Sommerzeit)
+def next_sunday():
+    today = datetime.now(ZoneInfo("Europe/Berlin"))
+    dt = today + timedelta(days=(7 - (today.weekday()+1)%7))
+
+    # Get timezone offset in +HHMM format
+    offset = dt.strftime('%z')
+    offset = offset[:3] + offset[3:]  # e.g., +0200
+
+    tzname = dt.tzname()  # returns 'CEST' for Europe/Berlin in summer
+
+    return dt.strftime(f'%a %b %d %Y %H:%M:%S GMT{offset} ({tzname})')
+
 def scrape(db):
-    url = 'https://webwidgets.prod.btwb.com/webwidgets/wods?track_ids=573806&activity_length=0&leaderboard_length=0&days=40'
+    base = 'https://webwidgets.prod.btwb.com/webwidgets/wods'
+    params = dict(
+        track_ids = 573806,
+        activity_length = 0,
+        leaderboard_length = 0,
+        days = 32,
+        date = next_sunday(),
+    )
+    custom_quote = lambda s, safe, encoding=None, errors=None: urllib.parse.quote(s, safe + '()', encoding, errors)
+    query = urllib.parse.urlencode(params, quote_via=custom_quote)
+    url = f"{base}?{query}"
     data = fetch_wod_json(url)
 
     with duckdb.connect() as conn:
