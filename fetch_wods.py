@@ -8,33 +8,25 @@ import re
 import requests
 import sys
 import urllib.parse
-import uuid
+from uuid import uuid5, NAMESPACE_OID
 
 def populate_db(conn, data):
     now = datetime.now()
-    for i, wodset in enumerate(data["wodsets"]):
-        try:
-            wodset_id = conn.execute("""
-                INSERT INTO wodsets (track_name, date, scraped_at)
-                VALUES (?, ?, ?)
-                RETURNING id
-            """, [wodset["track_name"], wodset["date"], now]).fetchone()[0]
-        except duckdb.ConstraintException as e:
-            print(f"Error inserting: {e}")
-            continue
-
-        for j, entry in enumerate(wodset["entries"]):
+    for wodset in data["wodsets"]:
+        for i, entry in enumerate(wodset["entries"]):
             workout = entry["workout"]
             conn.execute("""
-                INSERT INTO workouts (
-                    wodset_id, wod_section, wod_title, workout_name,
-                    workout_description, wod_results_count, wod_results_url
+                INSERT OR IGNORE INTO workouts (
+                    date, seq, wod_section, updated_at, wod_title,
+                    workout_name, wod_results_count, wod_results_url,
+                    workout_description
                 )
-                VALUES (?, ?, ?, ?, ?, ?, ?)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
             """, [
-                wodset_id, entry["wod_section"], entry["wod_title"],
-                workout["workout_name"], workout["workout_description"],
-                workout["wod_results_count"], workout["wod_results_url"]
+                wodset['date'], i, entry["wod_section"], now,
+                entry["wod_title"], workout["workout_name"],
+                workout["wod_results_count"], workout["wod_results_url"],
+                workout["workout_description"]
             ])
 
 def fetch_wod_json(url):
@@ -81,33 +73,31 @@ def scrape(db):
 def generate_feed(db):
     query = """
     SELECT
-        ws.id,
-        ws.date,
-        ws.scraped_at,
-        w.wod_title,
-        w.workout_name,
-        w.workout_description
-    FROM workouts w
-    JOIN wodsets ws ON w.wodset_id = ws.id
-    ORDER BY ws.date, w.id
+        date,
+        updated_at,
+        wod_title,
+        workout_name,
+        workout_description
+    FROM workouts
+    ORDER BY date, seq
     """
 
     with duckdb.connect() as conn:
         conn.execute(f"IMPORT DATABASE '{db}'")
         results = conn.execute(query).fetchall()
 
-        workouts_by_date = {}
-        for workout_id, date, scraped_at, title, name, description in results:
-            if date not in workouts_by_date:
-                workouts_by_date[date] = []
-
-            workouts_by_date[date].append({
-                'id': workout_id,
+        wodsets = []
+        for date, updated_at, title, name, description in results:
+            wod = {
+                'date': date,
                 'title': title,
                 'name': name,
                 'description': description,
-                'scraped_at': scraped_at,
-            })
+            }
+            if wodsets and wodsets[-1][0]['date'] == date:
+                wodsets[-1].append(wod)
+            else:
+                wodsets.append([wod])
 
     feed = FeedGenerator()
     feed.title("Crossfit Werk WODs")
@@ -119,16 +109,17 @@ def generate_feed(db):
     feed.language('en')
     feed.logo('https://images.squarespace-cdn.com/content/v1/638096caaf6dba73fe17c5c8/a599d2e8-074d-4aa0-a6db-f99537367f72/253590-2015_12_17_09_38_50.png?format=1500w')
 
-    for date, workouts in sorted(workouts_by_date.items()):
+    for ws in wodsets:
         content = ""
-        for workout in workouts:
+        for workout in ws:
             content += f"<h3>{workout['title'] or workout['name']}</h3>\n"
             content += f"<p>{workout['description']}</p>\n\n"
         content = re.sub(r'(&#13;|&#10;|\r|\n)', '<br/>\n', content)
         content = re.sub(r'\n*(<br/>\n*){2,}', '\n<br/><br/>\n', content)
 
         entry = feed.add_entry()
-        entry.guid(str(workout['id']))
+        date = workout['date']
+        entry.guid(str(uuid5(NAMESPACE_OID, str(date))))
         entry.title(f"Workout for {date.strftime("%a %b %-d, %Y")}")
         entry.content(content, type='xhtml')
         #entry.updated(scraped_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
