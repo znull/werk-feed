@@ -122,7 +122,7 @@ def generate_feed(db):
     for date, workouts in sorted(workouts_by_date.items()):
         content = ""
         for workout in workouts:
-            content += f"<h2>{workout['title'] or workout['name']}</h2>\n"
+            content += f"<h3>{workout['title'] or workout['name']}</h3>\n"
             content += f"<p>{workout['description']}</p>\n\n"
         content = re.sub(r'(&#13;|&#10;|\r|\n)', '<br/>\n', content)
 
