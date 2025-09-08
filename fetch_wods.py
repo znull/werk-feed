@@ -125,6 +125,7 @@ def generate_feed(db):
             content += f"<h3>{workout['title'] or workout['name']}</h3>\n"
             content += f"<p>{workout['description']}</p>\n\n"
         content = re.sub(r'(&#13;|&#10;|\r|\n)', '<br/>\n', content)
+        content = re.sub(r'\n*(<br/>\n*){2,}', '\n<br/><br/>\n', content)
 
         entry = feed.add_entry()
         entry.guid(str(workout['id']))
