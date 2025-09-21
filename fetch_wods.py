@@ -179,8 +179,8 @@ def feed_entries(conn):
         entry.link({'href': workout['results_url'], 'rel': 'related', 'title': 'BTWB'})
         entry.content(content, type='CDATA')
         entry.published(wi.created_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
-        if wi.updated_at:
-            entry.updated(wi.updated_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
+        updated_at = updated_at or wi.created_at
+        entry.updated(updated_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
         #print(lxml.etree.tostring(entry.atom_entry()), file=sys.stderr)
         entry.wod_date = date
         yield entry
