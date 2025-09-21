@@ -149,7 +149,7 @@ class WodInfo(object):
         entry.guid(str(self.uuid or uuid5(NAMESPACE_OID, str(date))))
         entry.title(f"Workout for {date.strftime("%a %b %-d, %Y")}")
         entry.link({'href': workout['results_url'], 'rel': 'related', 'title': 'BTWB'})
-        entry.content(content, type='CDATA')
+        entry.content(content, type='html')
         entry.published(self.created_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
         updated_at = self.updated_at or self.created_at
         entry.updated(updated_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
