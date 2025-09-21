@@ -1,29 +1,31 @@
-from feedgen.feed import FeedGenerator
+from feedgen.feed import FeedGenerator, FeedEntry
 from zoneinfo import ZoneInfo
 from datetime import datetime, time, timedelta
 import duckdb
+import hashlib
 import json
 import os
 import re
 import requests
 import sys
 import urllib.parse
+import lxml.etree
+from urllib.parse import urlparse, urlunparse, quote, urlencode
 from uuid import uuid5, NAMESPACE_OID
 
-def populate_db(conn, data):
-    now = datetime.now()
+def populate_workouts(conn, data):
     for wodset in data["wodsets"]:
         for i, entry in enumerate(wodset["entries"]):
             workout = entry["workout"]
             conn.execute("""
-                INSERT OR IGNORE INTO workouts (
-                    date, seq, wod_section, updated_at, wod_title,
+                INSERT OR REPLACE INTO workouts (
+                    date, seq, wod_section, wod_title,
                     workout_name, wod_results_count, wod_results_url,
                     workout_description
                 )
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
             """, [
-                wodset['date'], i, entry["wod_section"], now,
+                wodset['date'], i, entry["wod_section"],
                 entry["wod_title"], workout["workout_name"],
                 workout["wod_results_count"], workout["wod_results_url"],
                 workout["workout_description"]
@@ -38,6 +40,7 @@ def fetch_wod_json(url):
     response.raise_for_status()
     return response.json()
 
+# BTWB API wants a specific date format:
 # date=Sun Sep 14 2025 23:01:22 GMT+0200 (Mitteleuropäische Sommerzeit)
 def next_sunday():
     today = datetime.now(ZoneInfo("Europe/Berlin"))
@@ -60,14 +63,15 @@ def scrape(db):
         days = 32,
         date = next_sunday(),
     )
-    custom_quote = lambda s, safe, encoding=None, errors=None: urllib.parse.quote(s, safe + '()', encoding, errors)
-    query = urllib.parse.urlencode(params, quote_via=custom_quote)
+    custom_quote = lambda s, safe, encoding=None, errors=None: quote(s, safe + '()', encoding, errors)
+    query = urlencode(params, quote_via=custom_quote)
     url = f"{base}?{query}"
     data = fetch_wod_json(url)
 
     with duckdb.connect() as conn:
         conn.execute(f"IMPORT DATABASE '{db}'")
-        populate_db(conn, data)
+        populate_workouts(conn, data)
+        update_entries(conn)
         conn.execute(f"EXPORT DATABASE '{db}'")
 
     # normalize db dump csv
@@ -75,35 +79,37 @@ def scrape(db):
         conn.execute(f"IMPORT DATABASE '{db}'")
         conn.execute(f"EXPORT DATABASE '{db}'")
 
-def generate_feed(db):
-    query = """
-    SELECT
-        date,
-        updated_at,
-        wod_title,
-        workout_name,
-        workout_description
-    FROM workouts
-    ORDER BY date, seq
-    """
+def update_entries(conn):
+    offset = 1
+    for entry in feed_entries(conn):
+        # init entry if not already present
+        now = datetime.now()
+        conn.execute("""
+            INSERT OR IGNORE INTO atom_entries (date, created_at, csum)
+            VALUES (?, ?, ?)
+        """, [ entry.wod_date, now, entry_csum(entry) ])
 
+        # update if changed
+        query = 'SELECT 1 FROM atom_entries WHERE date = ? AND csum = ?'
+        csum = entry_csum(entry)
+        if conn.execute(query, [entry.wod_date, csum]).fetchone():
+            pass # csum unchanged
+        else:
+            query = '''
+                UPDATE atom_entries
+                SET csum = ?, updated_at = ?
+                WHERE date = ?
+            '''
+            conn.execute(query, [csum, now + timedelta(seconds=offset), entry.wod_date])
+            offset += 1
+
+def dump_feed(db, fh):
     with duckdb.connect() as conn:
         conn.execute(f"IMPORT DATABASE '{db}'")
-        results = conn.execute(query).fetchall()
+        feed = generate_feed(conn)
+    fh.write(feed.atom_str(pretty=True))
 
-        wodsets = []
-        for date, updated_at, title, name, description in results:
-            wod = {
-                'date': date,
-                'title': title,
-                'name': name,
-                'description': description,
-            }
-            if wodsets and wodsets[-1][0]['date'] == date:
-                wodsets[-1].append(wod)
-            else:
-                wodsets.append([wod])
-
+def generate_feed(conn):
     feed = FeedGenerator()
     feed.title("Crossfit Werk WODs")
     feed.subtitle('scraped from https://crossfitwerk.de/workout-of-the-day')
@@ -114,6 +120,37 @@ def generate_feed(db):
     feed.language('en')
     feed.logo('https://images.squarespace-cdn.com/content/v1/638096caaf6dba73fe17c5c8/a599d2e8-074d-4aa0-a6db-f99537367f72/253590-2015_12_17_09_38_50.png?format=1500w')
 
+    for entry in feed_entries(conn):
+        feed.add_entry(entry)
+
+    return feed
+
+def feed_entries(conn):
+    query = """
+    SELECT
+        date,
+        wod_title,
+        workout_name,
+        workout_description,
+        wod_results_url
+    FROM workouts
+    ORDER BY date, seq
+    """
+    results = conn.execute(query).fetchall()
+    wodsets = []
+    for date, title, name, description, results_url in results:
+        wod = {
+            'date': date,
+            'title': title,
+            'name': name,
+            'description': description,
+            'results_url': results_url,
+        }
+        if wodsets and wodsets[-1][0]['date'] == date:
+            wodsets[-1].append(wod)
+        else:
+            wodsets.append([wod])
+
     for ws in wodsets:
         content = ""
         for workout in ws:
@@ -122,15 +159,27 @@ def generate_feed(db):
         content = re.sub(r'(&#13;|&#10;|\r|\n)', '<br/>\n', content)
         content = re.sub(r'\n*(<br/>\n*){2,}', '\n<br/><br/>\n', content)
 
-        entry = feed.add_entry()
+        entry = FeedEntry()
         date = workout['date']
         entry.guid(str(uuid5(NAMESPACE_OID, str(date))))
         entry.title(f"Workout for {date.strftime("%a %b %-d, %Y")}")
+        entry.link({'href': workout['results_url'], 'rel': 'related', 'title': 'BTWB'})
         entry.content(content, type='CDATA')
-        #entry.updated(scraped_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
-        entry.updated(datetime.combine(date, time(), tzinfo=ZoneInfo('Europe/Berlin')))
+        #entry.published(created_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
+        #entry.updated(datetime.combine(date, time(), tzinfo=ZoneInfo('Europe/Berlin')))
+        #print(lxml.etree.tostring(entry.atom_entry()), file=sys.stderr)
+        entry.wod_date = date
+        yield entry
 
-    return feed
+def entry_csum(entry):
+    hasher = hashlib.md5()
+    hasher.update(entry.__dict__['_FeedEntry__atom_title'].encode('utf-8'))
+    hasher.update(entry.__dict__['_FeedEntry__atom_content']['content'].encode('utf-8'))
+    hasher.update(entry.__dict__['_FeedEntry__atom_link'][0]['href'].encode('utf-8'))
+    return hasher.hexdigest()
+
+def strip_query(url):
+    return urlunparse(urlparse(url)._replace(query=""))
 
 if __name__ == "__main__":
     import argparse
@@ -143,8 +192,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.action == 'feed':
-        feed = generate_feed(args.db)
-        sys.stdout.buffer.write(feed.atom_str(pretty=True))
+        dump_feed(args.db, sys.stdout.buffer)
     elif args.action == 'scrape':
         scrape(args.db)
     else:
