@@ -125,20 +125,33 @@ def generate_feed(conn):
 
     return feed
 
+class WodInfo(object):
+    def __init__(self, wod, created_at, updated_at):
+        self.wods = [ wod ]
+        self.date = wod['date']
+        self.created_at = created_at
+        self.updated_at = updated_at
+
+    def add(self, wod):
+        self.wods.append(wod)
+
 def feed_entries(conn):
     query = """
     SELECT
-        date,
+        w.date,
         wod_title,
         workout_name,
         workout_description,
-        wod_results_url
-    FROM workouts
-    ORDER BY date, seq
+        wod_results_url,
+        created_at,
+        updated_at
+    FROM workouts w LEFT JOIN atom_entries ae
+    ON w.date = ae.date
+    ORDER BY w.date, seq
     """
     results = conn.execute(query).fetchall()
-    wodsets = []
-    for date, title, name, description, results_url in results:
+    wodinfo = []
+    for date, title, name, description, results_url, created_at, updated_at in results:
         wod = {
             'date': date,
             'title': title,
@@ -146,14 +159,14 @@ def feed_entries(conn):
             'description': description,
             'results_url': results_url,
         }
-        if wodsets and wodsets[-1][0]['date'] == date:
-            wodsets[-1].append(wod)
+        if wodinfo and wodinfo[-1].date == date:
+            wodinfo[-1].add(wod)
         else:
-            wodsets.append([wod])
+            wodinfo.append(WodInfo(wod, created_at, updated_at))
 
-    for ws in wodsets:
+    for wi in wodinfo:
         content = ""
-        for workout in ws:
+        for workout in wi.wods:
             content += f"<h3>{workout['title'] or workout['name']}</h3>\n"
             content += f"<p>{workout['description']}</p>\n\n"
         content = re.sub(r'(&#13;|&#10;|\r|\n)', '<br/>\n', content)
@@ -165,8 +178,9 @@ def feed_entries(conn):
         entry.title(f"Workout for {date.strftime("%a %b %-d, %Y")}")
         entry.link({'href': workout['results_url'], 'rel': 'related', 'title': 'BTWB'})
         entry.content(content, type='CDATA')
-        #entry.published(created_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
-        #entry.updated(datetime.combine(date, time(), tzinfo=ZoneInfo('Europe/Berlin')))
+        entry.published(wi.created_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
+        if wi.updated_at:
+            entry.updated(wi.updated_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
         #print(lxml.etree.tostring(entry.atom_entry()), file=sys.stderr)
         entry.wod_date = date
         yield entry
