@@ -120,7 +120,7 @@ def generate_feed(conn):
     feed.logo('https://images.squarespace-cdn.com/content/v1/638096caaf6dba73fe17c5c8/a599d2e8-074d-4aa0-a6db-f99537367f72/253590-2015_12_17_09_38_50.png?format=1500w')
 
     for entry in feed_entries(conn):
-        feed.add_entry(entry)
+        feed.add_entry(entry, order='append')
 
     return feed
 
