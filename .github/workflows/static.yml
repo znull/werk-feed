@@ -3,7 +3,7 @@ name: Update Atom Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 4-20 * * 0'
+    - cron: '*/15 4-18 * * 0'
 
 permissions:
   contents: write
