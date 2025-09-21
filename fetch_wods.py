@@ -84,7 +84,6 @@ def update_entries(conn):
     for i, entry in enumerate(feed_entries(conn)):
         # init entry if not already present
         offset = timedelta(seconds=i)
-        print(entry.wod_date, file=sys.stderr)
         conn.execute("""
             INSERT OR IGNORE INTO atom_entries (date, created_at, csum)
             VALUES (?, ?, ?)
