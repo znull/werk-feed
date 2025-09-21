@@ -70,6 +70,11 @@ def scrape(db):
         populate_db(conn, data)
         conn.execute(f"EXPORT DATABASE '{db}'")
 
+    # normalize db dump csv
+    with duckdb.connect() as conn:
+        conn.execute(f"IMPORT DATABASE '{db}'")
+        conn.execute(f"EXPORT DATABASE '{db}'")
+
 def generate_feed(db):
     query = """
     SELECT
