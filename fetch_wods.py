@@ -80,14 +80,15 @@ def scrape(db):
         conn.execute(f"EXPORT DATABASE '{db}'")
 
 def update_entries(conn):
-    offset = 1
-    for entry in feed_entries(conn):
+    now = datetime.now()
+    for i, entry in enumerate(feed_entries(conn)):
         # init entry if not already present
-        now = datetime.now()
+        offset = timedelta(seconds=i)
+        print(entry.wod_date, file=sys.stderr)
         conn.execute("""
             INSERT OR IGNORE INTO atom_entries (date, created_at, csum)
             VALUES (?, ?, ?)
-        """, [ entry.wod_date, now, entry_csum(entry) ])
+        """, [ entry.wod_date, now+offset, entry_csum(entry) ])
 
         # update if changed
         query = 'SELECT 1 FROM atom_entries WHERE date = ? AND csum = ?'
@@ -100,8 +101,7 @@ def update_entries(conn):
                 SET csum = ?, updated_at = ?
                 WHERE date = ?
             '''
-            conn.execute(query, [csum, now + timedelta(seconds=offset), entry.wod_date])
-            offset += 1
+            conn.execute(query, [csum, now+offset, entry.wod_date])
 
 def dump_feed(db, fh):
     with duckdb.connect() as conn:
