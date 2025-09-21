@@ -126,11 +126,12 @@ def generate_feed(conn):
     return feed
 
 class WodInfo(object):
-    def __init__(self, wod, created_at, updated_at):
+    def __init__(self, wod, created_at, updated_at, uuid):
         self.wods = [ wod ]
         self.date = wod['date']
         self.created_at = created_at
         self.updated_at = updated_at
+        self.uuid = uuid
 
     def add(self, wod):
         self.wods.append(wod)
@@ -144,14 +145,15 @@ def feed_entries(conn):
         workout_description,
         wod_results_url,
         created_at,
-        updated_at
+        updated_at,
+        uuid
     FROM workouts w LEFT JOIN atom_entries ae
     ON w.date = ae.date
     ORDER BY w.date, seq
     """
     results = conn.execute(query).fetchall()
     wodinfo = []
-    for date, title, name, description, results_url, created_at, updated_at in results:
+    for date, title, name, description, results_url, created_at, updated_at, uuid in results:
         wod = {
             'date': date,
             'title': title,
@@ -162,7 +164,7 @@ def feed_entries(conn):
         if wodinfo and wodinfo[-1].date == date:
             wodinfo[-1].add(wod)
         else:
-            wodinfo.append(WodInfo(wod, created_at, updated_at))
+            wodinfo.append(WodInfo(wod, created_at, updated_at, uuid))
 
     for wi in wodinfo:
         content = ""
@@ -174,7 +176,7 @@ def feed_entries(conn):
 
         entry = FeedEntry()
         date = workout['date']
-        entry.guid(str(uuid5(NAMESPACE_OID, str(date))))
+        entry.guid(str(wi.uuid or uuid5(NAMESPACE_OID, str(date))))
         entry.title(f"Workout for {date.strftime("%a %b %-d, %Y")}")
         entry.link({'href': workout['results_url'], 'rel': 'related', 'title': 'BTWB'})
         entry.content(content, type='CDATA')
