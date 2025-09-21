@@ -172,6 +172,7 @@ def feed_entries(conn):
         uuid
     FROM workouts w LEFT JOIN atom_entries ae
     ON w.date = ae.date
+    WHERE wod_title IS NULL OR wod_title NOT ILIKE '%endurance%'
     ORDER BY w.date, seq
     """
     results = conn.execute(query).fetchall()

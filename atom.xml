@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-09-21T14:17:31.021014+00:00</updated>
+  <updated>2025-09-21T15:09:26.387411+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -644,14 +644,7 @@ Only include the heaviest 1 rep, do not include sets prior to it.&lt;/p&gt;
     <id>5adaec7a-cad7-421f-a369-f70265028533</id>
     <title>Workout for Tue Sep 9, 2025</title>
     <updated>2025-09-09T00:00:00+02:00</updated>
-    <content type="html">&lt;h3&gt;EnduranceWOD&lt;/h3&gt;&lt;br/&gt;
-&lt;p&gt;Complete as many rounds as possible in 30 mins of:&lt;br/&gt;
-Run, 400 m&lt;br/&gt;
-25 Wall Balls, 9/6 kg&lt;br/&gt;
-20 Burpees&lt;br/&gt;
-25 Med Ball Lunges, 9/6 kg&lt;/p&gt;
-&lt;br/&gt;&lt;br/&gt;
-&lt;h3&gt;6 RF-ME / 30 secs Stations: Rows and Burpee-to-Targets&lt;/h3&gt;&lt;br/&gt;
+    <content type="html">&lt;h3&gt;6 RF-ME / 30 secs Stations: Rows and Burpee-to-Targets&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;6 rounds, 30 secs per station, for max reps of:&lt;br/&gt;
 Row&lt;br/&gt;
 Rest 30 secs&lt;br/&gt;
@@ -810,13 +803,8 @@ Sled Push, pick load, 50 m&lt;/p&gt;
 48 Double Unders&lt;br/&gt;
 Rest 1 min&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
-&lt;h3&gt;TEAM ENDURANCE WOD&lt;/h3&gt;&lt;br/&gt;
-&lt;p&gt;Complete as many rounds as possible in 30 mins of:&lt;br/&gt;
-max rep Row Calories&lt;br/&gt;
-[ 20 Sandbag Lunges + 20 Single Dumbbell Push Press + 5 Single Arm Devil Press ]&lt;/p&gt;
-&lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/18232637-amrap-30-mins-row-calories-sandbag-lunges-single-dumbbell-push-press-and-single-arm-devil-press?ed=2025-09-16&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-09-16"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18225981-6-rft-dumbbell-box-step-overs-dumbbell-snatches-and-double-unders?ed=2025-09-16&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-09-16"/>
     <published>2025-09-16T00:00:00+02:00</published>
   </entry>
   <entry>
