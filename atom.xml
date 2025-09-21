@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-09-21T15:09:26.387411+00:00</updated>
+  <updated>2025-09-21T15:35:22.050413+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -643,7 +643,7 @@ Only include the heaviest 1 rep, do not include sets prior to it.&lt;/p&gt;
   <entry>
     <id>5adaec7a-cad7-421f-a369-f70265028533</id>
     <title>Workout for Tue Sep 9, 2025</title>
-    <updated>2025-09-09T00:00:00+02:00</updated>
+    <updated>2025-09-21T15:35:52.748267+02:00</updated>
     <content type="html">&lt;h3&gt;6 RF-ME / 30 secs Stations: Rows and Burpee-to-Targets&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;6 rounds, 30 secs per station, for max reps of:&lt;br/&gt;
 Row&lt;br/&gt;
@@ -795,7 +795,7 @@ Sled Push, pick load, 50 m&lt;/p&gt;
   <entry>
     <id>eb8d4f77-ba93-5390-a84e-a70ca8288a3d</id>
     <title>Workout for Tue Sep 16, 2025</title>
-    <updated>2025-09-16T00:00:00+02:00</updated>
+    <updated>2025-09-21T15:35:59.748267+02:00</updated>
     <content type="html">&lt;h3&gt;6 RFT: Dumbbell Box Step Overs, Dumbbell Snatches, and Double Unders&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;6 rounds for time of:&lt;br/&gt;
 8 Dumbbell Box Step Overs, 22.5/15 kg, 20 in&lt;br/&gt;
