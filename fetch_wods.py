@@ -128,7 +128,7 @@ class WodInfo(object):
     def __init__(self, wod, created_at, updated_at, uuid):
         self.wods = [ wod ]
         self.date = wod['date']
-        self.created_at = created_at
+        self.created_at = created_at or datetime.now(ZoneInfo("Europe/Berlin"))
         self.updated_at = updated_at
         self.uuid = uuid
 
