@@ -136,24 +136,24 @@ class WodInfo(object):
         self.wods.append(wod)
 
     def entry(self):
+        entry = FeedEntry()
+        entry.wod_date = self.date
+        entry.guid(str(self.uuid or uuid5(NAMESPACE_OID, str(self.date))))
+        entry.title(f"Workout for {self.date.strftime("%a %b %-d, %Y")}")
+        entry.published(self.created_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
+        updated_at = self.updated_at or self.created_at
+        entry.updated(updated_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
+
         content = ""
         for workout in self.wods:
             content += f"<h3>{workout['title'] or workout['name']}</h3>\n"
             content += f"<p>{workout['description']}</p>\n\n"
+            entry.link({'href': workout['results_url'], 'rel': 'related', 'title': 'BTWB'})
         content = re.sub(r'(&#13;|&#10;|\r|\n)', '<br/>\n', content)
         content = re.sub(r'\n*(<br/>\n*){2,}', '\n<br/><br/>\n', content)
-
-        entry = FeedEntry()
-        date = workout['date']
-        entry.guid(str(self.uuid or uuid5(NAMESPACE_OID, str(date))))
-        entry.title(f"Workout for {date.strftime("%a %b %-d, %Y")}")
-        entry.link({'href': workout['results_url'], 'rel': 'related', 'title': 'BTWB'})
         entry.content(content, type='html')
-        entry.published(self.created_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
-        updated_at = self.updated_at or self.created_at
-        entry.updated(updated_at.replace(tzinfo=ZoneInfo('Europe/Berlin')))
+
         #print(lxml.etree.tostring(entry.atom_entry()), file=sys.stderr)
-        entry.wod_date = date
         return entry
 
     def __str__(self):
