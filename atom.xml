@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-10-05T14:23:36.951171+00:00</updated>
+  <updated>2025-10-06T12:15:14.667549+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -1301,7 +1301,7 @@ Only include the heaviest 10 rep, do not include sets prior to it.&lt;/p&gt;
   <entry>
     <id>bec12a9f-d166-5483-a339-b5b680a6f73d</id>
     <title>Workout for Tue Oct 7, 2025</title>
-    <updated>2025-10-05T04:09:52.656394+02:00</updated>
+    <updated>2025-10-06T12:16:13.327546+02:00</updated>
     <content type="html">&lt;h3&gt;10-9-8-7-6-5-4-3-2-1: Double Dumbbell Devil Press and Box Jumps&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;10-9-8-7-6-5-4-3-2-1 reps, for time of:&lt;br/&gt;
 Double Dumbbell Devil Press, 22.5/15 kg&lt;br/&gt;
@@ -1312,9 +1312,17 @@ Box Jump, 30/24 in&lt;/p&gt;
 Wall Sit, 30 secs&lt;br/&gt;
 Wall Sit March, 30 secs&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;FT: Row Calories; Wall Balls and Sit-ups&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+50/40 Row Calories&lt;br/&gt;
+-- then --&lt;br/&gt;
+100 Wall Balls&lt;br/&gt;
+80 Sit-ups&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18295675-10-9-8-7-6-5-4-3-2-1-double-dumbbell-devil-press-and-box-jumps?ed=2025-10-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-07"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18295676-4-rfq-wall-sits-and-wall-sit-marches?ed=2025-10-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-07"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18303381-ft-row-calories-wall-balls-and-sit-ups?ed=2025-10-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-07"/>
     <published>2025-10-05T04:09:52.656394+02:00</published>
   </entry>
   <entry>
@@ -1377,6 +1385,22 @@ Run, 400 m&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18295663-every-5-mins-for-30-mins-strict-pull-ups-alternating-dumbbell-snatches-and-400-m?ed=2025-10-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-10"/>
     <published>2025-10-05T04:09:55.656394+02:00</published>
+  </entry>
+  <entry>
+    <id>2b0650e8-dd04-5b52-a4ac-70a7a8337cc9</id>
+    <title>Workout for Sat Oct 11, 2025</title>
+    <updated>2025-10-06T12:16:17.327546+02:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;7 rounds for max reps of:&lt;br/&gt;
+Partner&lt;br/&gt;
+max rep Clean &amp; Jerks, 70/47.5 kg&lt;br/&gt;
+Partner&lt;br/&gt;
+10 Toes-to-bars&lt;br/&gt;
+15 Wall Balls, 9/6 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18301730-7-rf-me-partners-clean-jerks-partners-and-2-more?ed=2025-10-11&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-11"/>
+    <published>2025-10-06T12:16:17.327546+02:00</published>
   </entry>
   <entry>
     <id>bab3f2dc-c983-55e8-83a2-00363c072858</id>
