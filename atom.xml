@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-10-07T12:15:48.467543+00:00</updated>
+  <updated>2025-10-08T12:15:52.316718+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -1339,7 +1339,36 @@ Russian Twist, 2 mins&lt;/p&gt;
   <entry>
     <id>dd3b7291-e68b-5781-98d2-ba272b3f1441</id>
     <title>Workout for Thu Oct 9, 2025</title>
-    <updated>2025-10-05T04:09:54.656394+02:00</updated>
+    <updated>2025-10-08T12:16:52.991268+02:00</updated>
+    <content type="html">&lt;h3&gt;Every 5 mins for 30 mins: Strict Pull-ups, Alternating Dumbbell Snatches, and 400 m&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Every 5 mins for 30 mins do:&lt;br/&gt;
+10 Strict Pull-ups&lt;br/&gt;
+20 Alternating Dumbbell Snatches, 22.5/15 kg&lt;br/&gt;
+Run, 400 m&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;AMReps 13 mins: Thrusters, Burpee Over Bars, Bar Muscle-ups, and 9 more&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;As many reps as possible in 13 mins of:&lt;br/&gt;
+[ 10 Thrusters + Burpee Over Bar ], 42.5/30 kg&lt;br/&gt;
+Rest 1 min&lt;br/&gt;
+[ 3 Bar Muscle-ups + Burpee Over Bar ]&lt;br/&gt;
+Rest 2 mins&lt;br/&gt;
+[ 10 Thrusters + Burpee Over Bar ], 42.5/30 kg&lt;br/&gt;
+Rest 1 min&lt;br/&gt;
+[ 3 Bar Muscle-ups + Burpee Over Bar ]&lt;br/&gt;
+Rest 2 mins&lt;br/&gt;
+[ 10 Thrusters + Burpee Over Bar ], 42.5/30 kg&lt;br/&gt;
+Rest 1 min&lt;br/&gt;
+[ 3 Bar Muscle-ups + Burpee Over Bar ]&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18295663-every-5-mins-for-30-mins-strict-pull-ups-alternating-dumbbell-snatches-and-400-m?ed=2025-10-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-09"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18295694-amreps-13-mins-thrusters-burpee-over-bars-bar-muscle-ups-and-9-more?ed=2025-10-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-09"/>
+    <published>2025-10-05T04:09:54.656394+02:00</published>
+  </entry>
+  <entry>
+    <id>8e7f23fe-09ab-55b1-8bfc-f4000cb91763</id>
+    <title>Workout for Fri Oct 10, 2025</title>
+    <updated>2025-10-08T12:16:53.991268+02:00</updated>
     <content type="html">&lt;h3&gt;Snatch Balance : 4x3 at 90% 1RM&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Snatch Balance 4x3 at 90% 1RM
 &lt;br/&gt;&lt;br/&gt;
@@ -1360,22 +1389,8 @@ Rest 1 min&lt;br/&gt;
 [ 3 Bar Muscle-ups + Burpee Over Bar ]&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/2517504-snatch-balance-4x3-at-90-1rm?ed=2025-10-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-09"/>
-    <link href="https://www.beyondthewhiteboard.com/workouts/18295694-amreps-13-mins-thrusters-burpee-over-bars-bar-muscle-ups-and-9-more?ed=2025-10-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-09"/>
-    <published>2025-10-05T04:09:54.656394+02:00</published>
-  </entry>
-  <entry>
-    <id>8e7f23fe-09ab-55b1-8bfc-f4000cb91763</id>
-    <title>Workout for Fri Oct 10, 2025</title>
-    <updated>2025-10-05T04:09:55.656394+02:00</updated>
-    <content type="html">&lt;h3&gt;Every 5 mins for 30 mins: Strict Pull-ups, Alternating Dumbbell Snatches, and 400 m&lt;/h3&gt;&lt;br/&gt;
-&lt;p&gt;Every 5 mins for 30 mins do:&lt;br/&gt;
-10 Strict Pull-ups&lt;br/&gt;
-20 Alternating Dumbbell Snatches, 22.5/15 kg&lt;br/&gt;
-Run, 400 m&lt;/p&gt;
-&lt;br/&gt;&lt;br/&gt;
-</content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/18295663-every-5-mins-for-30-mins-strict-pull-ups-alternating-dumbbell-snatches-and-400-m?ed=2025-10-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-10"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/2517504-snatch-balance-4x3-at-90-1rm?ed=2025-10-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-10"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18295694-amreps-13-mins-thrusters-burpee-over-bars-bar-muscle-ups-and-9-more?ed=2025-10-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-10"/>
     <published>2025-10-05T04:09:55.656394+02:00</published>
   </entry>
   <entry>
