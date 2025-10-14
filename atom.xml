@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-10-13T12:15:42.880034+00:00</updated>
+  <updated>2025-10-14T12:15:55.092949+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -1565,5 +1565,41 @@ For each cycle restart the AMRAP.&lt;/p&gt;
     <link href="https://www.beyondthewhiteboard.com/workouts/18321236-every-1-min-for-6-mins-depth-drops-and-skater-jumps?ed=2025-10-17&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-17"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18321245-2x-amrap-4-mins-rows-hang-power-snatches-burpee-over-bars-and-hang-power-snatches?ed=2025-10-17&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-17"/>
     <published>2025-10-12T04:10:19.157552+02:00</published>
+  </entry>
+  <entry>
+    <id>d9b243ad-d263-5470-992c-846080793fb2</id>
+    <title>Workout for Sat Oct 18, 2025</title>
+    <updated>2025-10-14T12:17:04.752515+02:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;10 rounds for time of:
+&lt;br/&gt;&lt;br/&gt;
+10 Strict Chest-to-bar Pull-ups
+&lt;br/&gt;&lt;br/&gt;
+20 Dumbbell Push Press, 22.5/15 kg
+&lt;br/&gt;&lt;br/&gt;
+30 AbMat Sit-ups&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/11289895-10-rft-strict-chest-to-bar-pull-ups-dumbbell-push-press-and-abmat-sit-ups?ed=2025-10-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-18"/>
+    <published>2025-10-14T12:17:04.752515+02:00</published>
+  </entry>
+  <entry>
+    <id>872b5ce9-39ba-5355-89ca-bbec39e48ed9</id>
+    <title>Workout for Sun Oct 19, 2025</title>
+    <updated>2025-10-14T12:17:05.752515+02:00</updated>
+    <content type="html">&lt;h3&gt;Wittman&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;7 rounds for time of:
+&lt;br/&gt;&lt;br/&gt;
+15 Kettlebell Swings, 1.5/1 pood
+&lt;br/&gt;&lt;br/&gt;
+15 Power Cleans, 95/65 lbs
+&lt;br/&gt;&lt;br/&gt;
+15 Box Jumps, 24/20 in
+&lt;br/&gt;&lt;br/&gt;
+U.S. Army Sergeant Jeremiah Wittman, 26, of Darby, Montana, assigned to the 1st Battalion, 12th Infantry Regiment, 4th Brigade Combat Team, 4th Infantry Division, based out of Fort Carson, Colorado, was killed on February 13, 2010, when insurgents attacked his unit with a roadside bomb in Zhari province, Afghanistan. He is survived by his daughters Miah and Ariauna, wife Karyn, siblings Robert H., Charity, Jenell, and Natasha, father Robert, and mother Cynthia Church.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/134112-wittman?ed=2025-10-19&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-19"/>
+    <published>2025-10-14T12:17:05.752515+02:00</published>
   </entry>
 </feed>
