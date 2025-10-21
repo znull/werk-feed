@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-10-20T12:15:47.992063+00:00</updated>
+  <updated>2025-10-21T12:16:04.418248+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -1677,12 +1677,18 @@ max rep Sit-ups&lt;/p&gt;
   <entry>
     <id>d623174d-8d25-584f-91cb-1266354c5e5a</id>
     <title>Workout for Fri Oct 24, 2025</title>
-    <updated>2025-10-19T04:11:59.703175+02:00</updated>
-    <content type="html">&lt;h3&gt;FT: Clean &amp; Jerks&lt;/h3&gt;&lt;br/&gt;
+    <updated>2025-10-21T12:17:20.069558+02:00</updated>
+    <content type="html">&lt;h3&gt;Every 2 mins for 8 mins: Front Squats and Jerks&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;1x [ 3 Front Squats + 1 Jerk ], pick load
+&lt;br/&gt;&lt;br/&gt;
+Every 2 mins for 8 mins.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;FT: Clean &amp; Jerks&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;For time:&lt;br/&gt;
 75 Clean &amp; Jerks, 42.5/30 kg&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18352899-every-2-mins-for-8-mins-front-squats-and-jerks?ed=2025-10-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-24"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18343861-ft-clean-jerks?ed=2025-10-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-24"/>
     <published>2025-10-19T04:11:59.703175+02:00</published>
   </entry>
