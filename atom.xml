@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-10-26T05:49:34.049164+00:00</updated>
+  <updated>2025-10-26T11:49:45.358352+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -1795,12 +1795,12 @@ then in the remaining time, AMRAP of:&lt;br/&gt;
   <entry>
     <id>48310444-c92b-58a9-b3da-3d82221af80c</id>
     <title>Workout for Thu Oct 30, 2025</title>
-    <updated>2025-10-26T04:10:42.504338+01:00</updated>
+    <updated>2025-10-26T11:51:07.002998+01:00</updated>
     <content type="html">&lt;h3&gt;"Tabata" - Air Squats, Hang Power Snatches, Goblet Squats, and 2 more : 6 x 20 secs / 10 secs&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Tabata Air Squat&lt;br/&gt;
-Tabata Hang Power Snatch, 35/25 lbs&lt;br/&gt;
+Tabata Hang Power Snatch, 35/25 kg&lt;br/&gt;
 Tabata Goblet Squat, 24/16 kg&lt;br/&gt;
-Tabata Hang Power Clean, 35/25 lbs&lt;br/&gt;
+Tabata Hang Power Clean, 35/25 kg&lt;br/&gt;
 Tabata Jumping Squat
 &lt;br/&gt;&lt;br/&gt;
 The Tabata interval is 20 secs of work followed&lt;br/&gt;
@@ -1813,7 +1813,7 @@ Tabata score is the total reps performed in all of the intervals.&lt;/p&gt;
 15 Overhead Tricep Extensions, pick load&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/18368691-tabata-air-squats-hang-power-snatches-goblet-squats-and-2-more-6-x-20-secs-10-secs?ed=2025-10-30&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-30"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18371266-tabata-air-squats-hang-power-snatches-goblet-squats-and-2-more-6-x-20-secs-10-secs?ed=2025-10-30&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-30"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18368692-3-rfq-dumbbell-curls-and-overhead-tricep-extensions?ed=2025-10-30&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-10-30"/>
     <published>2025-10-26T04:10:42.504338+01:00</published>
   </entry>
