@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-11-02T04:10:51.090628+00:00</updated>
+  <updated>2025-11-02T08:37:59.770126+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -1899,7 +1899,7 @@ Dumbbell Snatch, 22.5/15 kg&lt;/p&gt;
   <entry>
     <id>d8d04d3c-b095-5c1a-9168-46f367e440e0</id>
     <title>Workout for Tue Nov 4, 2025</title>
-    <updated>2025-11-02T04:12:17.721341+01:00</updated>
+    <updated>2025-11-02T08:39:26.395842+01:00</updated>
     <content type="html">&lt;h3&gt;AMReps 12 mins: Wall Balls and Box Jumps&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;As many reps as possible in 12 mins of:&lt;br/&gt;
 Wall Ball, 9/6 kg, 10/9 ft, 50 secs&lt;br/&gt;
@@ -1907,14 +1907,22 @@ Rest 10 secs&lt;br/&gt;
 Box Jump, 24/20 in, 50 secs&lt;br/&gt;
 Rest 10 secs&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;3 RFQ: Weighted Russian Twists, Hollow Holds, and Elbow Planks&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds for quality of:&lt;br/&gt;
+30 Weighted Russian Twists, pick load&lt;br/&gt;
+Hollow Hold, 30 secs&lt;br/&gt;
+Elbow Plank, 1 min&lt;br/&gt;
+Rest 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18392078-amreps-12-mins-wall-balls-and-box-jumps?ed=2025-11-04&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-11-04"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18394796-3-rfq-weighted-russian-twists-hollow-holds-and-elbow-planks?ed=2025-11-04&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-11-04"/>
     <published>2025-11-02T04:12:17.721341+01:00</published>
   </entry>
   <entry>
     <id>6cc04fbb-4da3-5aa8-8660-4ad5d6f3c175</id>
     <title>Workout for Wed Nov 5, 2025</title>
-    <updated>2025-11-02T04:12:18.721341+01:00</updated>
+    <updated>2025-11-02T08:39:27.395842+01:00</updated>
     <content type="html">&lt;h3&gt;Strict Press : 3 @ 70%, 3 @ 75%, 3 @ 80%, 3 @ 75%, 3 @ 80%, 3 @ 85%&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Strict Press 1x3 at 70% 1RM&lt;br/&gt;
 Strict Press 1x3 at 75% 1RM&lt;br/&gt;
@@ -1925,8 +1933,8 @@ Strict Press 1x3 at 85% 1RM
 &lt;br/&gt;&lt;br/&gt;
 Rest as needed between sets.&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
-&lt;h3&gt;5x AMRAP 3 mins: Handstand Push-ups, Deadlifts, and Double Unders&lt;/h3&gt;&lt;br/&gt;
-&lt;p&gt;For 5 cycles:&lt;br/&gt;
+&lt;h3&gt;4x AMRAP 3 mins: Handstand Push-ups, Deadlifts, and Double Unders&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For 4 cycles:&lt;br/&gt;
 AMRAP in 3 mins of:&lt;br/&gt;
 6 Handstand Push-ups&lt;br/&gt;
 12 Deadlifts, 100/70 kg&lt;br/&gt;
@@ -1937,7 +1945,7 @@ For each cycle continue the AMRAP.&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18393823-strict-press-3-70-3-75-3-80-3-75-3-80-3-85?ed=2025-11-05&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-11-05"/>
-    <link href="https://www.beyondthewhiteboard.com/workouts/18393826-5x-amrap-3-mins-handstand-push-ups-deadlifts-and-double-unders?ed=2025-11-05&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-11-05"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18394803-4x-amrap-3-mins-handstand-push-ups-deadlifts-and-double-unders?ed=2025-11-05&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-11-05"/>
     <published>2025-11-02T04:12:18.721341+01:00</published>
   </entry>
   <entry>
