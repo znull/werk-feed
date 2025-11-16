@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-11-16T04:12:44.985784+00:00</updated>
+  <updated>2025-11-16T06:28:26.640914+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -2319,9 +2319,9 @@ Ring Dip&lt;/p&gt;
     <published>2025-11-16T04:14:28.587149+01:00</published>
   </entry>
   <entry>
-    <id>3be4edea-5401-53d1-a8cb-2ff7c0b0dde4</id>
-    <title>Workout for Sun Nov 23, 2025</title>
-    <updated>2025-11-16T04:14:29.587149+01:00</updated>
+    <id>cc65d46a-29da-50fb-ba79-cead0f389522</id>
+    <title>Workout for Sat Nov 22, 2025</title>
+    <updated>2025-11-16T06:30:11.280521+01:00</updated>
     <content type="html">&lt;h3&gt;Part A&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Complete as many rounds as possible in 14 mins of:
 &lt;br/&gt;&lt;br/&gt;
@@ -2335,7 +2335,34 @@ Ring Dip&lt;/p&gt;
 Use the heaviest weight you can for the set.&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/11191012-amrap-14-mins-row-calories-and-box-jump-overs?ed=2025-11-23&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-11-23"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/11191012-amrap-14-mins-row-calories-and-box-jump-overs?ed=2025-11-22&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-11-22"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/537858-thruster-1x3?ed=2025-11-22&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-11-22"/>
+    <published>2025-11-16T06:30:11.280521+01:00</published>
+  </entry>
+  <entry>
+    <id>3be4edea-5401-53d1-a8cb-2ff7c0b0dde4</id>
+    <title>Workout for Sun Nov 23, 2025</title>
+    <updated>2025-11-16T06:30:12.280521+01:00</updated>
+    <content type="html">&lt;h3&gt;Hotshots 19&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;6 rounds for time of:
+&lt;br/&gt;&lt;br/&gt;
+30 Air Squats
+&lt;br/&gt;&lt;br/&gt;
+19 Power Cleans, 135/95 lbs
+&lt;br/&gt;&lt;br/&gt;
+7 Strict Pull-ups
+&lt;br/&gt;&lt;br/&gt;
+Run, 400 m
+&lt;br/&gt;&lt;br/&gt;
+On June 30th, 2013, nineteen members of the Granite Mountain Hotshots firefighting team tragically lost their lives while fighting a fire in Yarnell, Arizona.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;Part B&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Thruster 1x3
+&lt;br/&gt;&lt;br/&gt;
+Use the heaviest weight you can for the set.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/845226-hotshots-19?ed=2025-11-23&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-11-23"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/537858-thruster-1x3?ed=2025-11-23&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-11-23"/>
     <published>2025-11-16T04:14:29.587149+01:00</published>
   </entry>
