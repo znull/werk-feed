@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-11-30T16:40:50.340121+00:00</updated>
+  <updated>2025-11-30T17:06:55.291356+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -2580,11 +2580,11 @@ Rest 1 min&lt;/p&gt;
   <entry>
     <id>83f95748-b1ec-503e-a473-097800ab2cb0</id>
     <title>Workout for Wed Dec 3, 2025</title>
-    <updated>2025-11-30T04:20:49.585331+01:00</updated>
-    <content type="html">&lt;h3&gt;Every 2 mins for 10 mins: Bench Press&lt;/h3&gt;&lt;br/&gt;
+    <updated>2025-11-30T17:08:50.883293+01:00</updated>
+    <content type="html">&lt;h3&gt;Every 2 mins for 8 mins: Bench Press&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;5 Bench Press, 80% 1RM
 &lt;br/&gt;&lt;br/&gt;
-Every 2 mins for 10 mins.&lt;/p&gt;
+Every 2 mins for 8 mins.&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 &lt;h3&gt;AMRAP 12 mins: Dumbbell Push-ups, Wall Balls, and Row Calories&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Complete as many rounds as possible in 12 mins of:&lt;br/&gt;
@@ -2593,7 +2593,7 @@ max rep Dumbbell Push-ups&lt;br/&gt;
 20 Row Calories&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/2497999-every-2-mins-for-10-mins-bench-press?ed=2025-12-03&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-03"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18492196-every-2-mins-for-8-mins-bench-press?ed=2025-12-03&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-03"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18487847-amrap-12-mins-dumbbell-push-ups-wall-balls-and-row-calories?ed=2025-12-03&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-03"/>
     <published>2025-11-30T04:20:49.585331+01:00</published>
   </entry>
