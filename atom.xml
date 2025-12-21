@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-12-20T12:14:38.381037+00:00</updated>
+  <updated>2025-12-21T04:21:32.808585+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -2987,5 +2987,53 @@ He is survived by his sister, Charo; and parents, Alfonso and Mirella.&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/4337173-artie?ed=2025-12-21&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-21"/>
     <published>2025-12-14T08:12:45.145691+01:00</published>
+  </entry>
+  <entry>
+    <id>0261e390-ad9f-5606-afec-eb15648468cf</id>
+    <title>Workout for Mon Dec 22, 2025</title>
+    <updated>2025-12-21T04:23:47.365092+01:00</updated>
+    <content type="html">&lt;h3&gt;Front Squat : 3x5 at 80% 1RM&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Front Squat 3x5 at 80% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;24-21-18-15-12: Pike Leg Lifts and 100 m&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;24-21-18-15-12 reps, for time of:&lt;br/&gt;
+Pike Leg Lift&lt;br/&gt;
+Run, 100 m&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;15-12-9: Row Calories and Weighted Sit-ups&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;15-12-9 reps, for time of:&lt;br/&gt;
+Row Calorie&lt;br/&gt;
+Weighted Sit-up, 15/10 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/2054276-front-squat-3x5-at-80-1rm?ed=2025-12-22&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-22"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18558920-24-21-18-15-12-pike-leg-lifts-and-100-m?ed=2025-12-22&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-22"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18558922-15-12-9-row-calories-and-weighted-sit-ups?ed=2025-12-22&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-22"/>
+    <published>2025-12-21T04:23:47.365092+01:00</published>
+  </entry>
+  <entry>
+    <id>ba4fb3cc-0b5b-5e75-bd34-98aaec9974d9</id>
+    <title>Workout for Tue Dec 23, 2025</title>
+    <updated>2025-12-21T04:23:48.365092+01:00</updated>
+    <content type="html">&lt;h3&gt;12 Days of Christmas&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+1 Burpee&lt;br/&gt;
+2 Push Press, 42.5/30 kg&lt;br/&gt;
+3 Front Squats&lt;br/&gt;
+4 Hang Power Cleans&lt;br/&gt;
+5 Deadlifts&lt;br/&gt;
+6 Pull-ups&lt;br/&gt;
+7 Chest-to-bar Pull-ups&lt;br/&gt;
+8 Sit-ups&lt;br/&gt;
+9 V-ups&lt;br/&gt;
+10 Box Jumps&lt;br/&gt;
+11 Barbell Box Step-ups, 20/15 kg&lt;br/&gt;
+120 Double Unders&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18558925-chipper-burpees-push-press-front-squats-and-9-more?ed=2025-12-23&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-23"/>
+    <published>2025-12-21T04:23:48.365092+01:00</published>
   </entry>
 </feed>
