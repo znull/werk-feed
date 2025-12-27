@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-12-25T12:16:18.962039+00:00</updated>
+  <updated>2025-12-27T12:14:57.162708+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -3035,5 +3035,42 @@ Weighted Sit-up, 15/10 kg&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18558925-chipper-burpees-push-press-front-squats-and-9-more?ed=2025-12-23&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-23"/>
     <published>2025-12-21T04:23:48.365092+01:00</published>
+  </entry>
+  <entry>
+    <id>613f00f6-fee9-54ff-a3cc-b1f77acf8c99</id>
+    <title>Workout for Sat Dec 27, 2025</title>
+    <updated>2025-12-27T12:17:13.719047+01:00</updated>
+    <content type="html">&lt;h3&gt;Oh No Curtis P!&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For Time:
+&lt;br/&gt;&lt;br/&gt;
+100 Curtis Ps 105/70
+&lt;br/&gt;&lt;br/&gt;
+(Power Clean, Lunge both legs, Push Press)
+&lt;br/&gt;&lt;br/&gt;
+Post total time.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/111905-oh-no-curtis-p?ed=2025-12-27&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-27"/>
+    <published>2025-12-27T12:17:13.719047+01:00</published>
+  </entry>
+  <entry>
+    <id>e41dedf6-89da-5b82-891e-c9cedfb2011c</id>
+    <title>Workout for Sun Dec 28, 2025</title>
+    <updated>2025-12-27T12:17:14.719047+01:00</updated>
+    <content type="html">&lt;h3&gt;A) Build to a heavy paused Back Squat double&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Pause Back Squat 2-2-2-2-2
+&lt;br/&gt;&lt;br/&gt;
+Use the heaviest weight you can for each set.
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;B) Dumbbell Version of Hero Randy&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+113 Dumbbell Snatches, 22.5/15 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/1172282-pause-back-squat-2-2-2-2-2?ed=2025-12-28&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-28"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/17262554-dumbbell-snatch-113-reps-for-time?ed=2025-12-28&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-28"/>
+    <published>2025-12-27T12:17:14.719047+01:00</published>
   </entry>
 </feed>
