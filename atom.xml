@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2025-12-30T12:17:00.149583+00:00</updated>
+  <updated>2025-12-31T12:16:30.917883+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -3136,7 +3136,7 @@ Rest as needed between sets.&lt;/p&gt;
   <entry>
     <id>a4541628-f99c-5c6e-8c5b-e25c7356244c</id>
     <title>Workout for Wed Dec 31, 2025</title>
-    <updated>2025-12-28T04:28:31.544098+01:00</updated>
+    <updated>2025-12-31T12:18:51.465383+01:00</updated>
     <content type="html">&lt;h3&gt;Teams of two: Linda&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;13-12-11-10-9-8-7-6-5-4-3-2-1 reps, for time of:&lt;br/&gt;
 Deadlift, 1.5x bodyweight&lt;br/&gt;
@@ -3144,7 +3144,7 @@ Bench Press, 1x bodyweight&lt;br/&gt;
 Squat Clean, 0.75x bodyweight&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/15884164-13-12-11-10-9-8-7-6-5-4-3-2-1-deadlifts-bench-press-and-squat-cleans?ed=2025-12-31&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-31"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18589230-13-12-11-10-9-8-7-6-5-4-3-2-1-deadlifts-bench-press-and-squat-cleans?ed=2025-12-31&amp;g%5B%5D=4491&amp;r=&amp;sd=2025-12-31"/>
     <published>2025-12-28T04:28:31.544098+01:00</published>
   </entry>
   <entry>
@@ -3166,5 +3166,72 @@ Row, 2026 m&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18573957-ft-2025-m-3x-burpees-kettlebell-squat-cleans-single-leg-toes-to-bars?ed=2026-01-01&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-01"/>
     <published>2025-12-28T04:28:32.544098+01:00</published>
+  </entry>
+  <entry>
+    <id>07898e6a-b8cc-5d72-a6ac-b9edaf5a652a</id>
+    <title>Workout for Fri Jan 2, 2026</title>
+    <updated>2025-12-31T12:18:53.465383+01:00</updated>
+    <content type="html">&lt;h3&gt;Complex: Clean Pulls and Hang Power Cleans : 1-1-1-1-1&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;1x [ 2 Clean Pulls + 2 Hang Power Cleans ]
+&lt;br/&gt;&lt;br/&gt;
+1x [ 2 Clean Pulls + 2 Hang Power Cleans ]
+&lt;br/&gt;&lt;br/&gt;
+1x [ 2 Clean Pulls + 2 Hang Power Cleans ]
+&lt;br/&gt;&lt;br/&gt;
+1x [ 2 Clean Pulls + 2 Hang Power Cleans ]
+&lt;br/&gt;&lt;br/&gt;
+1x [ 2 Clean Pulls + 2 Hang Power Cleans ]
+&lt;br/&gt;&lt;br/&gt;
+Use the heaviest weight you can for each set.
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;4x AMRAP 3 mins: Power Cleans, Front Rack Reverse Lunges, and Burpee Over Bars&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For 4 cycles:&lt;br/&gt;
+AMRAP in 3 mins of:&lt;br/&gt;
+2 Power Cleans, 52.5/35 kg&lt;br/&gt;
+4 Front Rack Reverse Lunges, 52.5/35 kg&lt;br/&gt;
+6 Burpee Over Bars
+&lt;br/&gt;&lt;br/&gt;
+Rest 1 min between each cycle.&lt;br/&gt;
+For each cycle restart the AMRAP.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/12408213-complex-clean-pulls-and-hang-power-cleans-1-1-1-1-1?ed=2026-01-02&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-02"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18589010-4x-amrap-3-mins-power-cleans-front-rack-reverse-lunges-and-burpee-over-bars?ed=2026-01-02&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-02"/>
+    <published>2025-12-31T12:18:53.465383+01:00</published>
+  </entry>
+  <entry>
+    <id>357e3a3d-535f-5793-bad1-a3f28b314705</id>
+    <title>Workout for Sat Jan 3, 2026</title>
+    <updated>2025-12-31T12:18:54.465383+01:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for time of:&lt;br/&gt;
+10 Wall Walks&lt;br/&gt;
+24 Deadlifts, 102.5/70 kg&lt;br/&gt;
+28 Toes-to-bars&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18589011-5-rft-wall-walks-deadlifts-and-toes-to-bars?ed=2026-01-03&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-03"/>
+    <published>2025-12-31T12:18:54.465383+01:00</published>
+  </entry>
+  <entry>
+    <id>9c7dd233-2de2-5f88-b670-5d07da3f48b8</id>
+    <title>Workout for Sun Jan 4, 2026</title>
+    <updated>2025-12-31T12:18:55.465383+01:00</updated>
+    <content type="html">&lt;h3&gt;Danny&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 20 mins of:
+&lt;br/&gt;&lt;br/&gt;
+30 Box Jumps, 24/20 in
+&lt;br/&gt;&lt;br/&gt;
+20 Push Press, 115/75 lbs
+&lt;br/&gt;&lt;br/&gt;
+30 Pull-ups
+&lt;br/&gt;&lt;br/&gt;
+Oakland SWAT Sergeant Daniel Sakai, age 35, was killed on March 21, 2009 in the line of duty along with fellow officers Sergeant Ervin Romans, Sergeant Mark Dunakin, and Officer John Hege. Daniel is survived by wife Jenni and daughter Jojiye.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/2491-danny?ed=2026-01-04&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-04"/>
+    <published>2025-12-31T12:18:55.465383+01:00</published>
   </entry>
 </feed>
