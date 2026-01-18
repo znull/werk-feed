@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-01-17T12:14:45.101146+00:00</updated>
+  <updated>2026-01-18T04:24:24.555990+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -3523,5 +3523,180 @@ In honor of Navy Petty Officer 1st Class Jeff Taylor, 30, of Little Creek, VA wh
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/223-j-t?ed=2026-01-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-18"/>
     <published>2026-01-11T04:30:04.985250+01:00</published>
+  </entry>
+  <entry>
+    <id>9ac7c2ac-7993-5f11-ad40-aff121f11fc5</id>
+    <title>Workout for Mon Jan 19, 2026</title>
+    <updated>2026-01-18T04:27:04.068889+01:00</updated>
+    <content type="html">&lt;h3&gt;Complex: Front Squats and Back Squats : 6x1 at 70% 1RM&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;1x [ 2 Front Squats + 4 Back Squats ], 70% 1RM&lt;br/&gt;
+1x [ 2 Front Squats + 4 Back Squats ], 70% 1RM&lt;br/&gt;
+1x [ 2 Front Squats + 4 Back Squats ], 70% 1RM&lt;br/&gt;
+1x [ 2 Front Squats + 4 Back Squats ], 70% 1RM&lt;br/&gt;
+1x [ 2 Front Squats + 4 Back Squats ], 70% 1RM&lt;br/&gt;
+1x [ 2 Front Squats + 4 Back Squats ], 70% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;AMRAP 12:30: Box Step Overs, Every 2:30s, and Dumbbell Lunges&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 12:30 of:&lt;br/&gt;
+max rep Box Step Overs, 24/20 in&lt;br/&gt;
+Every 2:30&lt;br/&gt;
+20 Dumbbell Lunges, 22.5/15 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18652823-complex-front-squats-and-back-squats-6x1-at-70-1rm?ed=2026-01-19&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-19"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18652827-amrap-12-30-box-step-overs-every-2-30s-and-dumbbell-lunges?ed=2026-01-19&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-19"/>
+    <published>2026-01-18T04:27:04.068889+01:00</published>
+  </entry>
+  <entry>
+    <id>1a745693-7d17-5649-bed0-1124ead1572b</id>
+    <title>Workout for Tue Jan 20, 2026</title>
+    <updated>2026-01-18T04:27:05.068889+01:00</updated>
+    <content type="html">&lt;h3&gt;FQ: Row Skill Works&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For quality:&lt;br/&gt;
+Row Skill Work, 10 mins&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;"Tabata" - Pull-ups, Shuttle Runs, and Row Calories : 15 x 45 secs / 15 secs&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Tabata Pull-up&lt;br/&gt;
+Tabata Shuttle Run&lt;br/&gt;
+Tabata Row Calorie
+&lt;br/&gt;&lt;br/&gt;
+The Tabata interval is 45 secs of work followed&lt;br/&gt;
+by 15 secs of rest for 15 intervals.&lt;br/&gt;
+Tabata score is the total reps performed in all of the intervals.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18654958-fq-row-skill-works?ed=2026-01-20&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-20"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18654957-tabata-pull-ups-shuttle-runs-and-row-calories-15-x-45-secs-15-secs?ed=2026-01-20&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-20"/>
+    <published>2026-01-18T04:27:05.068889+01:00</published>
+  </entry>
+  <entry>
+    <id>72bc8dd9-7190-5882-9fff-acac602fedc7</id>
+    <title>Workout for Wed Jan 21, 2026</title>
+    <updated>2026-01-18T04:27:06.068889+01:00</updated>
+    <content type="html">&lt;h3&gt;AMRAP 20 mins: Burpees, Box Jumps, and American Kettlebell Swings&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 20 mins of:&lt;br/&gt;
+12 Burpees&lt;br/&gt;
+15 Box Jumps, 24/20 in&lt;br/&gt;
+18 American Kettlebell Swings, 24/16 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18654961-amrap-20-mins-burpees-box-jumps-and-american-kettlebell-swings?ed=2026-01-21&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-21"/>
+    <published>2026-01-18T04:27:06.068889+01:00</published>
+  </entry>
+  <entry>
+    <id>3a076575-410d-5faa-be1d-65597c49e0b0</id>
+    <title>Workout for Thu Jan 22, 2026</title>
+    <updated>2026-01-18T04:27:07.068889+01:00</updated>
+    <content type="html">&lt;h3&gt;Complex: Power Cleans and Hang Power Cleans : 6 @ 50%, 6 @ 55%, 6 @ 60%, 6 @ 65%&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;6x [ 1 Power Clean + 1 Hang Power Clean ], 50% 1RM&lt;br/&gt;
+6x [ 1 Power Clean + 1 Hang Power Clean ], 55% 1RM&lt;br/&gt;
+6x [ 1 Power Clean + 1 Hang Power Clean ], 60% 1RM&lt;br/&gt;
+6x [ 1 Power Clean + 1 Hang Power Clean ], 65% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;6 RFT: Toes-to-bars, Double Unders, Power Cleans, and 15 more&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;6 rounds for time of:&lt;br/&gt;
+15 Toes-to-bars&lt;br/&gt;
+40 Double Unders&lt;br/&gt;
+18 Power Cleans, 40/30 kg&lt;br/&gt;
+15 Toes-to-bars&lt;br/&gt;
+40 Double Unders&lt;br/&gt;
+15 Power Cleans, 50/35 kg&lt;br/&gt;
+15 Toes-to-bars&lt;br/&gt;
+40 Double Unders&lt;br/&gt;
+12 Power Cleans, 60/40 kg&lt;br/&gt;
+15 Toes-to-bars&lt;br/&gt;
+40 Double Unders&lt;br/&gt;
+9 Power Cleans, 70/45 kg&lt;br/&gt;
+15 Toes-to-bars&lt;br/&gt;
+40 Double Unders&lt;br/&gt;
+6 Power Cleans, 75/50 kg&lt;br/&gt;
+15 Toes-to-bars&lt;br/&gt;
+40 Double Unders&lt;br/&gt;
+3 Power Cleans, 80/55 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18655280-complex-power-cleans-and-hang-power-cleans-6-50-6-55-6-60-6-65?ed=2026-01-22&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-22"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18654990-6-rft-toes-to-bars-double-unders-power-cleans-and-15-more?ed=2026-01-22&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-22"/>
+    <published>2026-01-18T04:27:07.068889+01:00</published>
+  </entry>
+  <entry>
+    <id>431e52b6-f24b-59c2-a2f7-94f3099ab285</id>
+    <title>Workout for Fri Jan 23, 2026</title>
+    <updated>2026-01-18T04:27:08.068889+01:00</updated>
+    <content type="html">&lt;h3&gt;Alt EMOM 18 mins: Every 3 mins, Wall Walks, Hang Power Snatches, and 2 more&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Every 1 min for 18 mins, alternating between:&lt;br/&gt;
+Every 3 mins&lt;br/&gt;
+5 Wall Walks&lt;br/&gt;
+15 Hang Power Snatches, 35/25 lbs&lt;br/&gt;
+Every 3 mins&lt;br/&gt;
+5 Ring Dips&lt;br/&gt;
+15 Thrusters, 35/25 lbs&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18655000-alt-emom-18-mins-every-3-mins-wall-walks-hang-power-snatches-and-2-more?ed=2026-01-23&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-23"/>
+    <published>2026-01-18T04:27:08.068889+01:00</published>
+  </entry>
+  <entry>
+    <id>538bacae-37f5-52b6-b71b-3e784a6ff908</id>
+    <title>Workout for Sat Jan 24, 2026</title>
+    <updated>2026-01-18T04:27:09.068889+01:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 25 mins of:&lt;br/&gt;
+Partner&lt;br/&gt;
+Row&lt;br/&gt;
+Partner&lt;br/&gt;
+10 Hang Dumbbell Snatches, 22.5/15 kg&lt;br/&gt;
+10 Double Dumbbell Deadlifts, 22.5/15 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18655022-amrap-25-mins-partners-rows-partners-and-2-more?ed=2026-01-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-24"/>
+    <published>2026-01-18T04:27:09.068889+01:00</published>
+  </entry>
+  <entry>
+    <id>89de8afa-3174-5890-81c3-0810e80667f7</id>
+    <title>Workout for Sun Jan 25, 2026</title>
+    <updated>2026-01-18T04:27:10.068889+01:00</updated>
+    <content type="html">&lt;h3&gt;Bert&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:
+&lt;br/&gt;&lt;br/&gt;
+50 Burpees
+&lt;br/&gt;&lt;br/&gt;
+Run, 400 m
+&lt;br/&gt;&lt;br/&gt;
+100 Push-ups
+&lt;br/&gt;&lt;br/&gt;
+Run, 400 m
+&lt;br/&gt;&lt;br/&gt;
+150 Walking Lunges
+&lt;br/&gt;&lt;br/&gt;
+Run, 400 m
+&lt;br/&gt;&lt;br/&gt;
+200 Air Squats
+&lt;br/&gt;&lt;br/&gt;
+Run, 400 m
+&lt;br/&gt;&lt;br/&gt;
+150 Walking Lunges
+&lt;br/&gt;&lt;br/&gt;
+Run, 400 m
+&lt;br/&gt;&lt;br/&gt;
+100 Push-ups
+&lt;br/&gt;&lt;br/&gt;
+Run, 400 m
+&lt;br/&gt;&lt;br/&gt;
+50 Burpees
+&lt;br/&gt;&lt;br/&gt;
+U.S. Marine Cpl. Albert Gettings, 27, of New Castle, Pennsylvania, died on Jan. 5, 2009, while conducting counter-sniper operations in Fallujah, Iraq. Cpl. Gettings was serving as a team leader with the 2nd Battalion, 6th Marine Regiment, 2nd Marine Division, II Marine Expeditionary Force, of Camp Lejeune, North Carolina, at the time of his death.
+&lt;br/&gt;&lt;br/&gt;
+Every quarter, Cpl. Gettings’ fellow Marines in Fox Company complete a special CrossFit workout in his honor as part of the Cpl. Albert P. Gettings Award ceremony.
+&lt;br/&gt;&lt;br/&gt;
+He is survived by his wife, Stephanie Palimino; parents, David and Juliet; and sister, Cori.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/7597837-bert?ed=2026-01-25&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-01-25"/>
+    <published>2026-01-18T04:27:10.068889+01:00</published>
   </entry>
 </feed>
