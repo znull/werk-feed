@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-02-01T08:14:04.306562+00:00</updated>
+  <updated>2026-02-01T10:45:39.193576+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -3993,5 +3993,25 @@ Chin Over Bar Hold, 15 secs&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/16279526-amrap-25-mins-wall-balls-bar-muscle-ups-wall-walks-and-burpees?ed=2026-02-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-02-07"/>
     <published>2026-02-01T04:53:03.236448+01:00</published>
+  </entry>
+  <entry>
+    <id>e8ee35aa-824b-55e3-8f32-b054842e9e8b</id>
+    <title>Workout for Sun Feb 8, 2026</title>
+    <updated>2026-02-01T10:48:38.684864+01:00</updated>
+    <content type="html">&lt;h3&gt;Havana&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 25 mins of:&lt;br/&gt;
+150 Double Unders&lt;br/&gt;
+50 Push-ups&lt;br/&gt;
+15 Power Cleans, 185/125 lbs
+&lt;br/&gt;&lt;br/&gt;
+Italian Army C.le Magg. Sc. Roberto Marchini, 28, of Viterbo, Italy, died during a reconnaissance mission in Afghanistan's Bakwa district on July 12, 2011. Marchini served in the 8th Airborne Combat Engineer Regiment, Folgore Brigade.
+&lt;br/&gt;&lt;br/&gt;
+While on base, Marchini used whatever he could find to do CrossFit, often incorporating farmers carries, sandbag runs and tire flips in his workouts. His favorite exercises were double-unders, push-ups and power cleans.
+&lt;br/&gt;&lt;br/&gt;
+Marchini is survived by numerous friends and family members.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/6394994-havana?ed=2026-02-08&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-02-08"/>
+    <published>2026-02-01T10:48:38.684864+01:00</published>
   </entry>
 </feed>
