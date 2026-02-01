@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-02-01T04:50:04.744114+00:00</updated>
+  <updated>2026-02-01T07:28:54.817682+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -3963,15 +3963,21 @@ Hang Power Clean, 52.5/35 kg&lt;/p&gt;
   <entry>
     <id>4db6464e-6e9a-5628-b72e-4bfa617e06dc</id>
     <title>Workout for Fri Feb 6, 2026</title>
-    <updated>2026-02-01T04:53:02.236448+01:00</updated>
+    <updated>2026-02-01T07:31:52.278384+01:00</updated>
     <content type="html">&lt;h3&gt;AMRAP 15 mins: Lateral Burpee Over Bars, Deadlifts, and Toes-to-bars&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Complete as many rounds as possible in 15 mins of:&lt;br/&gt;
 9 Lateral Burpee Over Bars&lt;br/&gt;
 12 Deadlifts, 70/47.5 kg&lt;br/&gt;
 15 Toes-to-bars&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;3 RFQ: Chin Over Bar Holds and Barbell Rows&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds for quality of:&lt;br/&gt;
+Chin Over Bar Hold, 15 secs&lt;br/&gt;
+15 Barbell Rows, pick load&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18703846-amrap-15-mins-lateral-burpee-over-bars-deadlifts-and-toes-to-bars?ed=2026-02-06&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-02-06"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18706882-3-rfq-chin-over-bar-holds-and-barbell-rows?ed=2026-02-06&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-02-06"/>
     <published>2026-02-01T04:53:02.236448+01:00</published>
   </entry>
   <entry>
