@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-02-08T04:51:25.890164+00:00</updated>
+  <updated>2026-02-08T06:32:34.265607+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -4108,14 +4108,20 @@ Rest as needed between sets.&lt;/p&gt;
   <entry>
     <id>c0c0a7cf-6840-539f-b18f-01d894a1f088</id>
     <title>Workout for Fri Feb 13, 2026</title>
-    <updated>2026-02-08T04:54:30.360607+01:00</updated>
+    <updated>2026-02-08T06:35:38.747806+01:00</updated>
     <content type="html">&lt;h3&gt;Every 1 min for 6 mins: Clapping Push-ups and Skater Jumps&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Every 1 min for 6 mins do:&lt;br/&gt;
 4 Clapping Push-ups&lt;br/&gt;
 6 Skater Jumps&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;7 RFT: Box Jump Overs and Ring Muscle-ups&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;7 rounds for time of:&lt;br/&gt;
+8 Box Jump Overs, 24/20 in&lt;br/&gt;
+4 Ring Muscle-ups&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18728803-every-1-min-for-6-mins-clapping-push-ups-and-skater-jumps?ed=2026-02-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-02-13"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18731895-7-rft-box-jump-overs-and-ring-muscle-ups?ed=2026-02-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-02-13"/>
     <published>2026-02-08T04:54:30.360607+01:00</published>
   </entry>
   <entry>
@@ -4149,5 +4155,20 @@ Row Calorie&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18728809-amreps-20-mins-amraps-partners-box-jumps-and-15-more?ed=2026-02-14&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-02-14"/>
     <published>2026-02-08T04:54:31.360607+01:00</published>
+  </entry>
+  <entry>
+    <id>320b5831-04e3-50cb-8e76-0691a9833bae</id>
+    <title>Workout for Sun Feb 15, 2026</title>
+    <updated>2026-02-08T06:35:40.747806+01:00</updated>
+    <content type="html">&lt;h3&gt;Coe&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;10 rounds for time of:&lt;br/&gt;
+10 Thrusters, 95/65 lbs&lt;br/&gt;
+10 Ring Push-ups 
+&lt;br/&gt;&lt;br/&gt;
+Army Sgt. Keith Adam Coe, 30, of Auburndale, Fla., assigned to the 1st Battalion, 37th Field Artillery Regiment, 3rd Stryker Brigade Combat Team, 2nd Infantry Division, Joint Base Lewis-McChord, Wash., died April 27th, 2010, in Khalis, Iraq, of wounds sustained when enemy forces attacked his unit with an explosive device. He is survived by his wife Katrina Coe, two sons, Killian and Keith Jr., and daughter, Klover.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/82521-coe?ed=2026-02-15&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-02-15"/>
+    <published>2026-02-08T06:35:40.747806+01:00</published>
   </entry>
 </feed>
