@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-03-05T12:25:07.837250+00:00</updated>
+  <updated>2026-03-06T12:22:10.038878+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -4642,11 +4642,11 @@ Every 2 mins for 10 mins.&lt;/p&gt;
   <entry>
     <id>4d99a6bb-379d-5e2e-a292-89847fde4ecc</id>
     <title>Workout for Fri Mar 6, 2026</title>
-    <updated>2026-03-01T04:48:29.941306+01:00</updated>
-    <content type="html">&lt;h3&gt;Front Squat : 1 Rep Max&lt;/h3&gt;&lt;br/&gt;
-&lt;p&gt;Log your best Front Squat 1 rep max lift.
+    <updated>2026-03-06T12:25:35.458416+01:00</updated>
+    <content type="html">&lt;h3&gt;Front Squat : 10 Rep Max&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Log your best Front Squat 10 rep max lift.
 &lt;br/&gt;&lt;br/&gt;
-Only log the heaviest 1 rep, do not include sets prior to it.&lt;/p&gt;
+Only log the heaviest 10 rep, do not include sets prior to it.&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 &lt;h3&gt;AMRAP 2 mins: Thrusters, Double Unders, and Chest-to-bar Pull-ups&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Complete as many rounds as possible in 2 mins of:&lt;br/&gt;
@@ -4656,7 +4656,7 @@ max rep Chest-to-bar Pull-ups&lt;br/&gt;
 Rest 2 mins&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/441-front-squat-1-rep-max?ed=2026-03-06&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-06"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/503548-front-squat-10-rep-max?ed=2026-03-06&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-06"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18801393-amrap-2-mins-thrusters-double-unders-and-chest-to-bar-pull-ups?ed=2026-03-06&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-06"/>
     <published>2026-03-01T04:48:29.941306+01:00</published>
   </entry>
