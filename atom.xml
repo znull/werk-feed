@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-03-06T12:22:10.038878+00:00</updated>
+  <updated>2026-03-07T12:17:44.955107+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -4663,7 +4663,7 @@ Rest 2 mins&lt;/p&gt;
   <entry>
     <id>67e289bc-2539-5649-bae8-3b2969e56067</id>
     <title>Workout for Sat Mar 7, 2026</title>
-    <updated>2026-03-01T04:48:30.941306+01:00</updated>
+    <updated>2026-03-07T12:21:11.435329+01:00</updated>
     <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Complete as many rounds as possible in 30 mins of:&lt;br/&gt;
 Row, 500/450 m&lt;br/&gt;
@@ -4671,8 +4671,44 @@ Row, 500/450 m&lt;br/&gt;
 Row, 500/450 m&lt;br/&gt;
 30 Double Dumbbell Power Snatches, 22.5/15 kg&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;Rx'd&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+Dumbbell Overhead Walking Lunge, 80 ft&lt;br/&gt;
+20 Alternating Dumbbell Snatches&lt;br/&gt;
+20 Pull-ups&lt;br/&gt;
+Dumbbell Overhead Walking Lunge, 80 ft&lt;br/&gt;
+20 Alternating Dumbbell Snatches&lt;br/&gt;
+20 Chest-to-bar Pull-ups&lt;br/&gt;
+Dumbbell Overhead Walking Lunge, 80 ft&lt;br/&gt;
+20 Alternating Dumbbell Snatches&lt;br/&gt;
+20 Muscle-ups
+&lt;br/&gt;&lt;br/&gt;
+Time cap: 15 mins
+&lt;br/&gt;&lt;br/&gt;
+♀ 35-lb (15-kg) dumbbell&lt;br/&gt;
+♂ 50-lb (22.5-kg) dumbbell&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;Scaled&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+Dumbbell Overhead Walking Lunge, 80 ft&lt;br/&gt;
+20 Alternating Dumbbell Snatches&lt;br/&gt;
+20 Jumping Pull-ups&lt;br/&gt;
+Dumbbell Overhead Walking Lunge, 80 ft&lt;br/&gt;
+20 Alternating Dumbbell Snatches&lt;br/&gt;
+20 Pull-ups&lt;br/&gt;
+Dumbbell Overhead Walking Lunge, 80 ft&lt;br/&gt;
+20 Alternating Dumbbell Snatches&lt;br/&gt;
+20 Chest-to-bar Pull-ups
+&lt;br/&gt;&lt;br/&gt;
+Time cap: 15 mins
+&lt;br/&gt;&lt;br/&gt;
+♀ 20-lb (10-kg)&lt;br/&gt;
+♂ 35-lb (15-kg)&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18801396-amrap-30-mins-rows-handstand-push-ups-rows-and-double-dumbbell-power-snatches?ed=2026-03-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-07"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18819372-26-2-rx-d-crossfit-games-open?ed=2026-03-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-07"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18819377-26-2-scaled-crossfit-games-open?ed=2026-03-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-07"/>
     <published>2026-03-01T04:48:30.941306+01:00</published>
   </entry>
 </feed>
