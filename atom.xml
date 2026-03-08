@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-03-08T04:38:48.741310+00:00</updated>
+  <updated>2026-03-08T06:00:04.848339+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -4819,7 +4819,7 @@ Rest 2 mins&lt;/p&gt;
   <entry>
     <id>f46f3c1c-4613-54c4-a08f-f34d88649cf3</id>
     <title>Workout for Fri Mar 13, 2026</title>
-    <updated>2026-03-08T04:42:20.173380+01:00</updated>
+    <updated>2026-03-08T06:03:36.278778+01:00</updated>
     <content type="html">&lt;h3&gt;AMRAP 6 mins: Front Squats, Burpee Over Bars, Front Squats, and Burpee Over Bars&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Complete as many rounds as possible in 6 mins of:&lt;br/&gt;
 14 Front Squats, 70/47.5 kg&lt;br/&gt;
@@ -4828,8 +4828,14 @@ Rest 2 mins&lt;br/&gt;
 7 Front Squats, 70/47.5 kg&lt;br/&gt;
 7 Burpee Over Bars&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;Every 1 min for 10 mins: Banded Russian Kettlebell Swings and Supine Chinese Planks&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Every 1 min for 10 mins do:&lt;br/&gt;
+20 Banded Russian Kettlebell Swings&lt;br/&gt;
+Supine Chinese Plank, 40 secs&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18823363-amrap-6-mins-front-squats-burpee-over-bars-front-squats-and-burpee-over-bars?ed=2026-03-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-13"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18825427-every-1-min-for-10-mins-banded-russian-kettlebell-swings-and-supine-chinese-planks?ed=2026-03-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-13"/>
     <published>2026-03-08T04:42:20.173380+01:00</published>
   </entry>
 </feed>
