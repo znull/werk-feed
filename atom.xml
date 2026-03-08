@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-03-08T06:23:24.825571+00:00</updated>
+  <updated>2026-03-08T06:48:32.224768+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -4710,6 +4710,41 @@ Time cap: 15 mins
     <link href="https://www.beyondthewhiteboard.com/workouts/18819372-26-2-rx-d-crossfit-games-open?ed=2026-03-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-07"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18819377-26-2-scaled-crossfit-games-open?ed=2026-03-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-07"/>
     <published>2026-03-01T04:48:30.941306+01:00</published>
+  </entry>
+  <entry>
+    <id>017ccc98-ab48-5640-bb67-002b8b8c7573</id>
+    <title>Workout for Sun Mar 8, 2026</title>
+    <updated>2026-03-08T06:51:59.640321+01:00</updated>
+    <content type="html">&lt;h3&gt;Frauentag Special (3 CrossFit Girls)&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+21 Deadlifts, 102.5/70 kg&lt;br/&gt;
+21 Handstand Push-ups&lt;br/&gt;
+15 Deadlifts, 102.5/70 kg&lt;br/&gt;
+15 Handstand Push-ups&lt;br/&gt;
+9 Deadlifts, 102.5/70 kg&lt;br/&gt;
+9 Handstand Push-ups&lt;br/&gt;
+Rest 3 mins&lt;br/&gt;
+-- then --&lt;br/&gt;
+50 Double Unders&lt;br/&gt;
+50 Sit-ups&lt;br/&gt;
+40 Double Unders&lt;br/&gt;
+40 Sit-ups&lt;br/&gt;
+30 Double Unders&lt;br/&gt;
+30 Sit-ups&lt;br/&gt;
+20 Double Unders&lt;br/&gt;
+20 Sit-ups&lt;br/&gt;
+10 Double Unders&lt;br/&gt;
+10 Sit-ups&lt;br/&gt;
+Rest 3 mins&lt;br/&gt;
+-- then --&lt;br/&gt;
+3 rounds of:&lt;br/&gt;
+Run, 400 m&lt;br/&gt;
+21 Kettlebell Swings, 24/16 kg&lt;br/&gt;
+12 Pull-ups&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18825453-ft-deadlifts-handstand-push-ups-deadlifts-and-3-more-double-unders-s?ed=2026-03-08&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-08"/>
+    <published>2026-03-08T06:51:59.640321+01:00</published>
   </entry>
   <entry>
     <id>f8b1218e-029d-598c-8e5c-52ba4fc56252</id>
