@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-03-08T06:00:04.848339+00:00</updated>
+  <updated>2026-03-08T06:23:24.825571+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -4837,5 +4837,20 @@ Supine Chinese Plank, 40 secs&lt;/p&gt;
     <link href="https://www.beyondthewhiteboard.com/workouts/18823363-amrap-6-mins-front-squats-burpee-over-bars-front-squats-and-burpee-over-bars?ed=2026-03-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-13"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18825427-every-1-min-for-10-mins-banded-russian-kettlebell-swings-and-supine-chinese-planks?ed=2026-03-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-13"/>
     <published>2026-03-08T04:42:20.173380+01:00</published>
+  </entry>
+  <entry>
+    <id>f55c99d6-1d31-55b2-916f-96a0c5eaf2ff</id>
+    <title>Workout for Sat Mar 14, 2026</title>
+    <updated>2026-03-08T06:26:57.146988+01:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for time of:&lt;br/&gt;
+Run, 400 m&lt;br/&gt;
+20 Alternating Dumbbell Snatches, 22.5/15 kg&lt;br/&gt;
+8 Bar Muscle-ups&lt;br/&gt;
+15 Thrusters, 52.5/35 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18825430-5-rft-400-m-alternating-dumbbell-snatches-bar-muscle-ups-and-thrusters?ed=2026-03-14&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-14"/>
+    <published>2026-03-08T06:26:57.146988+01:00</published>
   </entry>
 </feed>
