@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-03-08T11:51:18.089361+00:00</updated>
+  <updated>2026-03-08T12:16:51.875511+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -4887,5 +4887,45 @@ Run, 400 m&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18825430-5-rft-400-m-alternating-dumbbell-snatches-bar-muscle-ups-and-thrusters?ed=2026-03-14&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-14"/>
     <published>2026-03-08T06:26:57.146988+01:00</published>
+  </entry>
+  <entry>
+    <id>5cfa61f3-72fc-5636-bb81-48a99fcb8c28</id>
+    <title>Workout for Sun Mar 15, 2026</title>
+    <updated>2026-03-08T12:20:26.334092+01:00</updated>
+    <content type="html">&lt;h3&gt;Dallas 5&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;As many reps as possible in 5 mins of:&lt;br/&gt;
+Burpee&lt;br/&gt;
+-- Rest 1 min --&lt;br/&gt;
+AMRAP in 5 mins of:&lt;br/&gt;
+7 Deadlifts, 155/115 lbs&lt;br/&gt;
+7 Box Jumps, 24/20 in&lt;br/&gt;
+-- Rest 1 min --&lt;br/&gt;
+As many reps as possible in 5 mins of:&lt;br/&gt;
+Dumbbell Turkish Get-up, 40/20 lbs&lt;br/&gt;
+-- Rest 1 min --&lt;br/&gt;
+AMRAP in 5 mins of:&lt;br/&gt;
+7 Snatches, 75/55 lbs&lt;br/&gt;
+7 Push-ups&lt;br/&gt;
+-- Rest 1 min --&lt;br/&gt;
+As many reps as possible in 5 mins of:&lt;br/&gt;
+Row Calorie
+&lt;br/&gt;&lt;br/&gt;
+Log your total reps completed for each movement.
+&lt;br/&gt;&lt;br/&gt;
+On July 7, 2016, a sniper coordinated an ambush on a group of police officers in Dallas, Texas. Dallas 5 commemorates the five officers who lost their lives in the attack.
+&lt;br/&gt;&lt;br/&gt;
+Dallas Police Officer Patricio “Patrick” Zamarripa, 33, was a member of the force for six years and served active duty with the U.S. Navy for eight years and in the reserves for five. He is survived by his wife, Kristy, and daughter, Lyncoln Rae.
+&lt;br/&gt;&lt;br/&gt;
+Dallas Police Senior Corporal Lorne Ahrens, 48, was a longtime member of the force. He served with the Los Angeles Police Department for 10 years before moving to Texas and joining the Dallas Police Department in 2002. He is survived by his wife, Katrina, and children, Sorcha and Magnus.
+&lt;br/&gt;&lt;br/&gt;
+Dallas Police Officer Michael Krol, 40, was an eight-year veteran of the Dallas Police Department and a dedicated member of the Wayne County Sheriff’s Office in Detroit, Michigan, before that. He is survived by numerous friends and family members.
+&lt;br/&gt;&lt;br/&gt;
+Dallas Police Sergeant Michael Smith, 55, served as a U.S. Army Ranger before joining the police force in 1989. The 27-year veteran of the force is survived by his wife, Heidi, and daughters, Victoria and Caroline.
+&lt;br/&gt;&lt;br/&gt;
+Dallas Area Rapid Transit Officer Brent Thompson, 43, served in the Marine Corps before joining the Corsicana Police Department and then the Dallas Police. He is survived by his wife, Emily, and many other friends and family members.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/5418590-dallas-5?ed=2026-03-15&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-15"/>
+    <published>2026-03-08T12:20:26.334092+01:00</published>
   </entry>
 </feed>
