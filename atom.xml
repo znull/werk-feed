@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-03-22T12:17:51.599568+00:00</updated>
+  <updated>2026-03-22T12:49:19.904713+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -5305,5 +5305,41 @@ Rest as needed between sets.&lt;/p&gt;
     <link href="https://www.beyondthewhiteboard.com/workouts/18871149-press-5-65-5-65-5-65-me-50?ed=2026-03-26&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-26"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18871176-3-rft-double-unders-double-dumbbell-front-squats-and-lateral-burpee-over-dumbbells?ed=2026-03-26&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-26"/>
     <published>2026-03-22T12:21:37.057856+01:00</published>
+  </entry>
+  <entry>
+    <id>aae7dfac-596e-5895-be75-8c7eef4ea6e4</id>
+    <title>Workout for Fri Mar 27, 2026</title>
+    <updated>2026-03-22T12:53:06.309203+01:00</updated>
+    <content type="html">&lt;h3&gt;Every 2 mins for 12 mins: Hang Power Snatch&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 Hang Power Snatches, 70% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Every 2 mins for 12 mins.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/3962245-every-2-mins-for-12-mins-hang-power-snatch?ed=2026-03-27&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-27"/>
+    <published>2026-03-22T12:53:06.309203+01:00</published>
+  </entry>
+  <entry>
+    <id>fd7ebfc6-d2fa-561d-8678-9942545ec50a</id>
+    <title>Workout for Sat Mar 28, 2026</title>
+    <updated>2026-03-22T12:53:07.309203+01:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;As many reps as possible in 24 mins of:&lt;br/&gt;
+AMRAP, 8 mins&lt;br/&gt;
+30 Burpee Pull-ups&lt;br/&gt;
+60 Single Dumbbell Hang Clean &amp; Jerks, 22.5 kg&lt;br/&gt;
+Row Calorie&lt;br/&gt;
+AMRAP, 8 mins&lt;br/&gt;
+30 Burpee Pull-ups&lt;br/&gt;
+60 Single Dumbbell Hang Clean &amp; Jerks, 22.5 kg&lt;br/&gt;
+Row Calorie&lt;br/&gt;
+AMRAP, 8 mins&lt;br/&gt;
+30 Burpee Pull-ups&lt;br/&gt;
+60 Single Dumbbell Hang Clean &amp; Jerks, 22.5 kg&lt;br/&gt;
+Row Calorie&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18871306-amreps-24-mins-amraps-burpee-pull-ups-single-dumbbell-hang-clean-jerks-and-9-more?ed=2026-03-28&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-28"/>
+    <published>2026-03-22T12:53:07.309203+01:00</published>
   </entry>
 </feed>
