@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-03-22T12:49:19.904713+00:00</updated>
+  <updated>2026-03-22T13:22:49.932580+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -5309,14 +5309,22 @@ Rest as needed between sets.&lt;/p&gt;
   <entry>
     <id>aae7dfac-596e-5895-be75-8c7eef4ea6e4</id>
     <title>Workout for Fri Mar 27, 2026</title>
-    <updated>2026-03-22T12:53:06.309203+01:00</updated>
+    <updated>2026-03-22T13:26:36.339815+01:00</updated>
     <content type="html">&lt;h3&gt;Every 2 mins for 12 mins: Hang Power Snatch&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;3 Hang Power Snatches, 70% 1RM
 &lt;br/&gt;&lt;br/&gt;
 Every 2 mins for 12 mins.&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;75 Chest to bar for time&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+Every 2 mins&lt;br/&gt;
+9 Hang Power Snatches, 35/25 kg&lt;br/&gt;
+max rep&lt;br/&gt;
+Chest-to-bar Pull-up&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/3962245-every-2-mins-for-12-mins-hang-power-snatch?ed=2026-03-27&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-27"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18871378-chipper-every-2-mins-hang-power-snatches-max-reps-and-chest-to-bar-pull-ups?ed=2026-03-27&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-27"/>
     <published>2026-03-22T12:53:06.309203+01:00</published>
   </entry>
   <entry>
@@ -5341,5 +5349,21 @@ Row Calorie&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18871306-amreps-24-mins-amraps-burpee-pull-ups-single-dumbbell-hang-clean-jerks-and-9-more?ed=2026-03-28&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-28"/>
     <published>2026-03-22T12:53:07.309203+01:00</published>
+  </entry>
+  <entry>
+    <id>c2fc45b8-e1c0-55e8-bcbc-289651f0471f</id>
+    <title>Workout for Sun Mar 29, 2026</title>
+    <updated>2026-03-22T13:26:38.339815+01:00</updated>
+    <content type="html">&lt;h3&gt;McGhee&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 30 mins of:&lt;br/&gt;
+5 Deadlifts, 275/185 lbs&lt;br/&gt;
+13 Push-ups&lt;br/&gt;
+9 Box Jumps, 24/20 in
+&lt;br/&gt;&lt;br/&gt;
+Corporal Ryan C. McGhee, 21, was killed in action on May 13, 2009 by small arms fire during combat in central Iraq. He served with 3rd Battalion, 75th Ranger Regiment of Fort Benning, Ga. This was his fourth deployment, his first to Iraq. Ryan was engaged to Ashleigh Mitchell of Fredericksburg, VA. He is survived by his father Steven McGhee of Myrtle Beach S.C., his mother Sherrie Battle McGhee, and his brother Zachary.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/54331-mcghee?ed=2026-03-29&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-03-29"/>
+    <published>2026-03-22T13:26:38.339815+01:00</published>
   </entry>
 </feed>
