@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-04-09T12:36:52.705401+00:00</updated>
+  <updated>2026-04-10T12:29:05.940025+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -5611,7 +5611,7 @@ Rest as needed between sets.&lt;/p&gt;
   <entry>
     <id>037875d0-0c34-5b28-a212-d38f8c22dde2</id>
     <title>Workout for Fri Apr 10, 2026</title>
-    <updated>2026-04-05T05:01:14.543153+02:00</updated>
+    <updated>2026-04-10T12:33:06.334742+02:00</updated>
     <content type="html">&lt;h3&gt;Complex: Deadlifts, Power Cleans, and Jerks : 1-1-1-1&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;1x [ 3 Deadlifts + 2 Power Cleans + 1 Jerk ]&lt;br/&gt;
 1x [ 3 Deadlifts + 2 Power Cleans + 1 Jerk ]&lt;br/&gt;
@@ -5629,9 +5629,18 @@ Air Squat, 6 mins&lt;br/&gt;
 Push-up, 3 mins&lt;br/&gt;
 Power Clean, 42.5/30 kg, 3 mins&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;Every 2:30 for 30 mins: Row (Meters)s, Burpee-to-Plates, and Dumbbell Lungesters&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Every 2:30 for 30 mins do:&lt;br/&gt;
+Row (Meters), 500/400 m&lt;br/&gt;
+Burpee-to-Plate&lt;br/&gt;
+Rest 2:30&lt;br/&gt;
+Row (Meters), 500/400 m&lt;br/&gt;
+Dumbbell Lungester&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18257382-complex-deadlifts-power-cleans-and-jerks-1-1-1-1?ed=2026-04-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-10"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18914518-amreps-18-mins-power-cleans-push-ups-air-squats-and-2-more?ed=2026-04-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-10"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18934468-every-2-30-for-30-mins-row-meters-s-burpee-to-plates-and-dumbbell-lungesters?ed=2026-04-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-10"/>
     <published>2026-04-05T05:01:14.543153+02:00</published>
   </entry>
   <entry>
