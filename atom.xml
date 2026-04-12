@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-04-12T05:04:36.519332+00:00</updated>
+  <updated>2026-04-12T07:53:29.763594+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -5720,13 +5720,21 @@ Rest as needed between sets.&lt;/p&gt;
   <entry>
     <id>74d3c747-27b8-5b1b-bc9a-528a795c43d8</id>
     <title>Workout for Tue Apr 14, 2026</title>
-    <updated>2026-04-12T05:08:40.903829+02:00</updated>
+    <updated>2026-04-12T07:57:34.143604+02:00</updated>
     <content type="html">&lt;h3&gt;FQ: Ring Muscle-ups&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;For quality:&lt;br/&gt;
 Ring Muscle-up, 10 mins&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;5x 2 mins RemReps: Front Squats, Ring Muscle-ups, and Lunges&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds, 2 mins each, for max reps of:&lt;br/&gt;
+5 Front Squats, 70/47.5 kg&lt;br/&gt;
+3 Ring Muscle-ups&lt;br/&gt;
+max reps in remaining time Lunges&lt;br/&gt;
+Rest 2 mins&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/8896545-fq-ring-muscle-ups?ed=2026-04-14&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-14"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18940564-5x-2-mins-remreps-front-squats-ring-muscle-ups-and-lunges?ed=2026-04-14&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-14"/>
     <published>2026-04-12T05:08:40.903829+02:00</published>
   </entry>
   <entry>
@@ -5835,5 +5843,19 @@ For each AMRAP, restart from 0.&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18939400-amrapx5-6-mins-of-wall-balls-and-max-rep-devil-press-6-mins-of-push-ups-and-m?ed=2026-04-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-18"/>
     <published>2026-04-12T05:08:44.903829+02:00</published>
+  </entry>
+  <entry>
+    <id>dcec1b0b-76cd-5920-8216-da80af20aa7d</id>
+    <title>Workout for Sun Apr 19, 2026</title>
+    <updated>2026-04-12T07:57:39.143604+02:00</updated>
+    <content type="html">&lt;h3&gt;Jared&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;4 rounds for time of:&lt;br/&gt;
+Run, 800 m&lt;br/&gt;
+40 Pull-ups&lt;br/&gt;
+70 Push-ups&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/427344-jared?ed=2026-04-19&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-19"/>
+    <published>2026-04-12T07:57:39.143604+02:00</published>
   </entry>
 </feed>
