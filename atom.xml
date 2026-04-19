@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-04-19T10:02:42.271646+00:00</updated>
+  <updated>2026-04-19T10:28:46.646618+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -5986,5 +5986,23 @@ Rest as needed between sets.&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/18963569-5-rft-row-calories-strict-pull-ups-and-dumbbell-snatches?ed=2026-04-25&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-25"/>
     <published>2026-04-19T05:11:48.262401+02:00</published>
+  </entry>
+  <entry>
+    <id>4275649f-2c26-5f57-be74-bf61b9c4d2b6</id>
+    <title>Workout for Sun Apr 26, 2026</title>
+    <updated>2026-04-19T10:33:03.020548+02:00</updated>
+    <content type="html">&lt;h3&gt;Wood&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for time of:&lt;br/&gt;
+Run, 400 m&lt;br/&gt;
+10 Burpee Box Jumps, 24/20 in&lt;br/&gt;
+10 Sumo Deadlift High-pulls, 95/65 lbs&lt;br/&gt;
+10 Thrusters, 95/65 lbs&lt;br/&gt;
+Rest 1 min
+&lt;br/&gt;&lt;br/&gt;
+Australian Army Sergeant Brett Wood, 32, of Ferntree Gully, Victoria, assigned to the 2nd Commando Regiment, based in Sydney, New South Wales, died on May 23, 2011, in Helmand province, Afghanistan, after insurgents attacked him with an improvised explosive device. He is survived by his wife Elvi, his mother Allison, and his father David. Donations can be made in his name to the Commando Welfare Trust.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/271773-wood?ed=2026-04-26&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-26"/>
+    <published>2026-04-19T10:33:03.020548+02:00</published>
   </entry>
 </feed>
