@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-04-23T12:35:56.273996+00:00</updated>
+  <updated>2026-04-24T12:35:18.430374+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -5950,7 +5950,7 @@ Every Break&lt;br/&gt;
   <entry>
     <id>1ccc92ad-7ffd-53a0-8f02-389d72eac739</id>
     <title>Workout for Fri Apr 24, 2026</title>
-    <updated>2026-04-19T05:11:47.262401+02:00</updated>
+    <updated>2026-04-24T12:39:32.799418+02:00</updated>
     <content type="html">&lt;h3&gt;Snatch Balance : 4x3 at 90% 1RM&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Snatch Balance 4x3 at 90% 1RM
 &lt;br/&gt;&lt;br/&gt;
@@ -5968,9 +5968,22 @@ Rest as needed between sets.&lt;/p&gt;
 10 Hang Power Snatches, 35/25 kg&lt;br/&gt;
 10 Box Jumps, 24/20 in&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;FT: 1000 m; 3x Rows, Wall Balls, Burpee-to-Plates, and Synchronized Kettle...&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+Run, 1000 m&lt;br/&gt;
+-- then --&lt;br/&gt;
+3 rounds of:&lt;br/&gt;
+750/600 Rows&lt;br/&gt;
+50 Wall Balls, 9/6 kg&lt;br/&gt;
+30 Burpee-to-Plates&lt;br/&gt;
+20 Synchronized Kettlebell Swings, 24/16 kg&lt;br/&gt;
+-- then --&lt;br/&gt;
+Run, 1000 m&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/2517504-snatch-balance-4x3-at-90-1rm?ed=2026-04-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-24"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18963565-ft-toes-to-bars-hang-power-snatches-box-jumps-and-6-more?ed=2026-04-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-24"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18982626-ft-1000-m-3x-rows-wall-balls-burpee-to-plates-and-synchronized-kettle?ed=2026-04-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-04-24"/>
     <published>2026-04-19T05:11:47.262401+02:00</published>
   </entry>
   <entry>
