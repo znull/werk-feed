@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-05-23T12:33:35.593491+00:00</updated>
+  <updated>2026-05-24T05:28:39.271385+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -6601,5 +6601,142 @@ We're asking the CrossFit community to make donations to the "Nate Hardy Memoria
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/32-nate?ed=2026-05-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-24"/>
     <published>2026-05-17T05:30:16.606764+02:00</published>
+  </entry>
+  <entry>
+    <id>a9215abd-5017-5786-9e00-39c973a7206a</id>
+    <title>Workout for Mon May 25, 2026</title>
+    <updated>2026-05-24T05:33:24.571665+02:00</updated>
+    <content type="html">&lt;h3&gt;Deadlift&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Deadlift 4x3 at 90% 1RM&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;3 RFT: Front Rack Reverse Lunges, Alternating Single Leg V-ups, and Double Unders&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds for time of:&lt;br/&gt;
+20 Front Rack Reverse Lunges, 42.5/30 kg&lt;br/&gt;
+40 Alternating Single Leg V-ups&lt;br/&gt;
+60 Double Unders&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/17209079-deadlift?ed=2026-05-25&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-25"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19076488-3-rft-front-rack-reverse-lunges-alternating-single-leg-v-ups-and-double-unders?ed=2026-05-25&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-25"/>
+    <published>2026-05-24T05:33:24.571665+02:00</published>
+  </entry>
+  <entry>
+    <id>d418bcc9-35be-5ee7-9b15-3689fe755f09</id>
+    <title>Workout for Tue May 26, 2026</title>
+    <updated>2026-05-24T05:33:25.571665+02:00</updated>
+    <content type="html">&lt;h3&gt;FQ: Rope Climbs&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For quality:
+&lt;br/&gt;&lt;br/&gt;
+Rope Climb, 10 mins&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;AMReps 15 mins: Rope Climbs, Air Squats, Toes-to-bars, and 2 more&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;As many reps as possible in 15 mins of:&lt;br/&gt;
+Rope Climb, 50 secs&lt;br/&gt;
+Rest 10 secs&lt;br/&gt;
+Air Squat, 50 secs&lt;br/&gt;
+Rest 10 secs&lt;br/&gt;
+Toes-to-bar, 50 secs&lt;br/&gt;
+Rest 10 secs&lt;br/&gt;
+Thruster, 20/15 kg, 50 secs&lt;br/&gt;
+Rest 10 secs&lt;br/&gt;
+Row Calorie, 50 secs&lt;br/&gt;
+Rest 10 secs&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/9877618-fq-rope-climbs?ed=2026-05-26&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-26"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19076489-amreps-15-mins-rope-climbs-air-squats-toes-to-bars-and-2-more?ed=2026-05-26&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-26"/>
+    <published>2026-05-24T05:33:25.571665+02:00</published>
+  </entry>
+  <entry>
+    <id>8ba62f6e-ead0-5b4b-bbc6-38cae2bad0e2</id>
+    <title>Workout for Wed May 27, 2026</title>
+    <updated>2026-05-24T05:33:26.571665+02:00</updated>
+    <content type="html">&lt;h3&gt;5 RFT: 600 m, Strict Pull-ups, Burpees, and Farmers Carries&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for time of:&lt;br/&gt;
+Run, 600 m&lt;br/&gt;
+5 Strict Pull-ups&lt;br/&gt;
+12 Burpees&lt;br/&gt;
+Farmers Carry, 22.5/15 kg, 45 m&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19077382-5-rft-600-m-strict-pull-ups-burpees-and-farmers-carries?ed=2026-05-27&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-27"/>
+    <published>2026-05-24T05:33:26.571665+02:00</published>
+  </entry>
+  <entry>
+    <id>889ec317-82a3-55c7-a2ab-8238d50768e0</id>
+    <title>Workout for Thu May 28, 2026</title>
+    <updated>2026-05-24T05:33:27.571665+02:00</updated>
+    <content type="html">&lt;h3&gt;Press : 4x3 at 90% 1RM&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Press 4x3 at 90% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;Chipper: Partition However You'd Likes, Push-ups, Sit-ups, and Kettlebell Swings&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+Partition However You'd Like&lt;br/&gt;
+100 Push-ups&lt;br/&gt;
+100 Sit-ups&lt;br/&gt;
+100 Kettlebell Swings, 24/16 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/3118892-press-4x3-at-90-1rm?ed=2026-05-28&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-28"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19076492-chipper-partition-however-you-d-likes-push-ups-sit-ups-and-kettlebell-swings?ed=2026-05-28&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-28"/>
+    <published>2026-05-24T05:33:27.571665+02:00</published>
+  </entry>
+  <entry>
+    <id>1aad5e98-0b66-505d-ad42-1f3282ee478c</id>
+    <title>Workout for Fri May 29, 2026</title>
+    <updated>2026-05-24T05:33:28.571665+02:00</updated>
+    <content type="html">&lt;h3&gt;3 RFQ: Pogo Jumps and Pogo Jumps&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds for quality of:&lt;br/&gt;
+20 Pogo Jumps&lt;br/&gt;
+Rest 15 secs&lt;br/&gt;
+20 Pogo Jumps&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;AMRAP 12 mins: Box Jump Overs, Dumbbell Squat Cleans, and Wall Walks&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 12 mins of:&lt;br/&gt;
+9 Box Jump Overs, 24/20 in&lt;br/&gt;
+6 Dumbbell Squat Cleans, 22.5/15 kg&lt;br/&gt;
+1 Wall Walk&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18893439-3-rfq-pogo-jumps-and-pogo-jumps?ed=2026-05-29&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-29"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19076493-amrap-12-mins-box-jump-overs-dumbbell-squat-cleans-and-wall-walks?ed=2026-05-29&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-29"/>
+    <published>2026-05-24T05:33:28.571665+02:00</published>
+  </entry>
+  <entry>
+    <id>b0baf612-900a-5ff4-9ea1-a134b2b80c1c</id>
+    <title>Workout for Sat May 30, 2026</title>
+    <updated>2026-05-24T05:33:29.571665+02:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;In 30 mins do:&lt;br/&gt;
+Row, 1000/900 m&lt;br/&gt;
+50 Box Jumps, 24/20 in&lt;br/&gt;
+50 Toes-to-bars&lt;br/&gt;
+then in the remaining time, AMRAP of:&lt;br/&gt;
+12 Deadlifts, 70/47.5 kg&lt;br/&gt;
+9 Hang Power Cleans, 70/47.5 kg&lt;br/&gt;
+6 Push Jerks, 70/47.5 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19076496-amrap-30-mins-w-buy-in-rows-box-jumps-toes-to-bars-and-3-more?ed=2026-05-30&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-30"/>
+    <published>2026-05-24T05:33:29.571665+02:00</published>
+  </entry>
+  <entry>
+    <id>63953297-fdfa-5ab5-8cad-c982eaca59de</id>
+    <title>Workout for Sun May 31, 2026</title>
+    <updated>2026-05-24T05:33:30.571665+02:00</updated>
+    <content type="html">&lt;h3&gt;Bradshaw&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;10 rounds for time of:&lt;br/&gt;
+3 Handstand Push-ups&lt;br/&gt;
+6 Deadlifts, 225/155 lbs&lt;br/&gt;
+12 Pull-ups&lt;br/&gt;
+24 Double Unders
+&lt;br/&gt;&lt;br/&gt;
+U.S. Army First Lieutenant Brian Bradshaw, 24, of Steilacoom, Washington, assigned to the 1st Battalion, 501st Parachute Infantry Regiment, 4th Airborne Brigade Combat Team, 25th Infantry Division, based in Fort Richardson, Alaska, died in Kheyl, Afghanistan, on June 25th, 2009, from wounds suffered when insurgents detonated a roadside bomb near his vehicle. He is survived by his parents, Paul and Mary, and brother Robert.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/247622-bradshaw?ed=2026-05-31&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-31"/>
+    <published>2026-05-24T05:33:30.571665+02:00</published>
   </entry>
 </feed>
