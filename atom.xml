@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-05-30T12:39:20.876927+00:00</updated>
+  <updated>2026-05-31T05:40:07.955153+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -6738,5 +6738,117 @@ U.S. Army First Lieutenant Brian Bradshaw, 24, of Steilacoom, Washington, assign
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/247622-bradshaw?ed=2026-05-31&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-05-31"/>
     <published>2026-05-24T05:33:30.571665+02:00</published>
+  </entry>
+  <entry>
+    <id>2d8f9bbc-5d89-5c10-8e72-061819e371bf</id>
+    <title>Workout for Mon Jun 1, 2026</title>
+    <updated>2026-05-31T05:45:00.266946+02:00</updated>
+    <content type="html">&lt;h3&gt;Every 3 mins for 27 mins: 200 m, Air Squats, Push-ups, and Max Rep Pull Ups&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Every 3 mins for 27 mins do:&lt;br/&gt;
+Run, 200 m&lt;br/&gt;
+15 Air Squats&lt;br/&gt;
+10 Push-ups&lt;br/&gt;
+Max Rep Pull Up&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19097862-every-3-mins-for-27-mins-200-m-air-squats-push-ups-and-max-rep-pull-ups?ed=2026-06-01&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-01"/>
+    <published>2026-05-31T05:45:00.266946+02:00</published>
+  </entry>
+  <entry>
+    <id>5edb3af6-71d0-520d-a44c-70044d4cfc98</id>
+    <title>Workout for Tue Jun 2, 2026</title>
+    <updated>2026-05-31T05:45:01.266946+02:00</updated>
+    <content type="html">&lt;h3&gt;5 RFT: Burpee Over Dumbbells and Double Dumbbell Hang Snatches&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for time of:&lt;br/&gt;
+12 Burpee Over Dumbbells&lt;br/&gt;
+12 Double Dumbbell Hang Snatches, 15/10 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;Back Squat : 1-2-3-4-5-6-7-8-9-10 at 40% 1RM&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Back Squat 1-2-3-4-5-6-7-8-9-10 at 40% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19097874-5-rft-burpee-over-dumbbells-and-double-dumbbell-hang-snatches?ed=2026-06-02&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-02"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/17701642-back-squat-1-2-3-4-5-6-7-8-9-10-at-40-1rm?ed=2026-06-02&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-02"/>
+    <published>2026-05-31T05:45:01.266946+02:00</published>
+  </entry>
+  <entry>
+    <id>1bbccaec-a60c-5ff3-94e0-c8c6733a467e</id>
+    <title>Workout for Wed Jun 3, 2026</title>
+    <updated>2026-05-31T05:45:02.266946+02:00</updated>
+    <content type="html">&lt;h3&gt;AMReps 20 mins: Double Unders, Sit-ups, Row Calories, and Russian Kettlebell Swings&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;As many reps as possible in 20 mins of:&lt;br/&gt;
+Double Under, 1 min&lt;br/&gt;
+Sit-up, 1 min&lt;br/&gt;
+Row Calorie, 1 min&lt;br/&gt;
+Russian Kettlebell Swing, 24/16 kg, 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19097897-amreps-20-mins-double-unders-sit-ups-row-calories-and-russian-kettlebell-swings?ed=2026-06-03&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-03"/>
+    <published>2026-05-31T05:45:02.266946+02:00</published>
+  </entry>
+  <entry>
+    <id>ee01e520-9fe4-5078-bc96-c1c149ec1e9d</id>
+    <title>Workout for Thu Jun 4, 2026</title>
+    <updated>2026-05-31T05:45:03.266946+02:00</updated>
+    <content type="html">&lt;h3&gt;3 RFT: Box Jumps, Single Arm Dumbbell Push Press, Dumbbell Front Rack Lunges, and Air Squats&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds for time of:&lt;br/&gt;
+30 Box Jumps, 24/20 in&lt;br/&gt;
+20 Single Arm Dumbbell Push Press, 22.5/15 kg&lt;br/&gt;
+10x [ Dumbbell Front Rack Lunge + Air Squat ], 22.5/15 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;3 RFQ: Dumbbell Zottman Curls and Banded Lat Pull Downs&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds for quality of:&lt;br/&gt;
+10 Dumbbell Zottman Curls, pick load&lt;br/&gt;
+20 Banded Lat Pull Downs&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19097902-3-rft-box-jumps-single-arm-dumbbell-push-press-dumbbell-front-rack-lunges-and-air-squats?ed=2026-06-04&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-04"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/17595138-3-rfq-dumbbell-zottman-curls-and-banded-lat-pull-downs?ed=2026-06-04&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-04"/>
+    <published>2026-05-31T05:45:03.266946+02:00</published>
+  </entry>
+  <entry>
+    <id>83e365f6-2460-5c79-bb2f-e9ef82d77bb2</id>
+    <title>Workout for Fri Jun 5, 2026</title>
+    <updated>2026-05-31T05:45:04.266946+02:00</updated>
+    <content type="html">&lt;h3&gt;Every 2 mins for 10 mins: Deadlifts, Hang Power Cleans, and Power Cleans&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;1x [ 1 Deadlift + 1 Hang Power Clean + 1 Power Clean ], pick load
+&lt;br/&gt;&lt;br/&gt;
+Every 2 mins for 10 mins.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;4x RFT: Slowest Rounds, 400 m, Power Cleans, and No Push-up Burpees&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;4 rounds, each round for time, of:&lt;br/&gt;
+Slowest Round&lt;br/&gt;
+Run, 400 m&lt;br/&gt;
+7 Power Cleans, 60/42.5 kg&lt;br/&gt;
+7 No Push-up Burpees
+&lt;br/&gt;&lt;br/&gt;
+Rest 0.5 secs between each round.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/15913632-every-2-mins-for-10-mins-deadlifts-hang-power-cleans-and-power-cleans?ed=2026-06-05&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-05"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19098247-4x-rft-slowest-rounds-400-m-power-cleans-and-no-push-up-burpees?ed=2026-06-05&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-05"/>
+    <published>2026-05-31T05:45:04.266946+02:00</published>
+  </entry>
+  <entry>
+    <id>fa7a9a10-b010-5b81-bddd-61eb24ca8160</id>
+    <title>Workout for Sat Jun 6, 2026</title>
+    <updated>2026-05-31T05:45:05.266946+02:00</updated>
+    <content type="html">&lt;h3&gt;Murph&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+Run, 1 mi&lt;br/&gt;
+100 Pull-ups&lt;br/&gt;
+200 Push-ups&lt;br/&gt;
+300 Air Squats&lt;br/&gt;
+Run, 1 mi
+&lt;br/&gt;&lt;br/&gt;
+In memory of Navy Lieutenant Michael Murphy, 29, of Patchogue, N.Y., who was killed in Afghanistan June 28th, 2005.
+&lt;br/&gt;&lt;br/&gt;
+This workout was one of Mike's favorites and he'd named it "Body Armor." From here on it will be referred to as "Murph" in honor of the focused warrior and great American who wanted nothing more in life than to serve this great country and the beautiful people who make it what it is.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/5-murph?ed=2026-06-06&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-06"/>
+    <published>2026-05-31T05:45:05.266946+02:00</published>
   </entry>
 </feed>
