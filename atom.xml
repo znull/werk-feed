@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-05-31T14:11:27.351426+00:00</updated>
+  <updated>2026-05-31T16:41:51.014388+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -6850,5 +6850,19 @@ This workout was one of Mike's favorites and he'd named it "Body Armor." From he
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/5-murph?ed=2026-06-06&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-06"/>
     <published>2026-05-31T05:45:05.266946+02:00</published>
+  </entry>
+  <entry>
+    <id>0a9c4a98-c250-59cc-894d-6ec2d9b0bd23</id>
+    <title>Workout for Sun Jun 7, 2026</title>
+    <updated>2026-05-31T16:46:49.328967+02:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;10 rounds for time of:&lt;br/&gt;
+6 Thrusters, 52.5/35 kg&lt;br/&gt;
+30 Double Unders&lt;br/&gt;
+15/12 Row Calories&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19100692-10-rft-thrusters-double-unders-and-row-calories?ed=2026-06-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-07"/>
+    <published>2026-05-31T16:46:49.328967+02:00</published>
   </entry>
 </feed>
