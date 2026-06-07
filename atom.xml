@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-06-06T12:41:52.020429+00:00</updated>
+  <updated>2026-06-07T05:41:13.963763+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -6864,5 +6864,131 @@ This workout was one of Mike's favorites and he'd named it "Body Armor." From he
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/19100692-10-rft-thrusters-double-unders-and-row-calories?ed=2026-06-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-07"/>
     <published>2026-05-31T16:46:49.328967+02:00</published>
+  </entry>
+  <entry>
+    <id>217567af-78ce-57e3-8090-c5e88330dd84</id>
+    <title>Workout for Mon Jun 8, 2026</title>
+    <updated>2026-06-07T05:46:13.293605+02:00</updated>
+    <content type="html">&lt;h3&gt;Deadlift : 1 Rep Max&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Log your best Deadlift 1 rep max lift.
+&lt;br/&gt;&lt;br/&gt;
+Only log the heaviest 1 rep. Do not include sets prior to it.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;5 RFT: Dumbbell Floor Press, Burpee Over Bars, and Deadlifts&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for time of:&lt;br/&gt;
+6 Dumbbell Floor Press, 22.5/15 kg&lt;br/&gt;
+7 Burpee Over Bars&lt;br/&gt;
+8 Deadlifts, 102.5/70 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/413-deadlift-1-rep-max?ed=2026-06-08&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-08"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19119730-5-rft-dumbbell-floor-press-burpee-over-bars-and-deadlifts?ed=2026-06-08&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-08"/>
+    <published>2026-06-07T05:46:13.293605+02:00</published>
+  </entry>
+  <entry>
+    <id>a734c41c-1e6f-5346-a31a-6661869e7cd1</id>
+    <title>Workout for Tue Jun 9, 2026</title>
+    <updated>2026-06-07T05:46:14.293605+02:00</updated>
+    <content type="html">&lt;h3&gt;FQ: Double Unders&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For quality:&lt;br/&gt;
+Double Under, 10 mins&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;Annie&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;50-40-30-20-10 reps, for time of:
+&lt;br/&gt;&lt;br/&gt;
+Double Under
+&lt;br/&gt;&lt;br/&gt;
+Sit-up&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/8532686-fq-double-unders?ed=2026-06-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-09"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/99-annie?ed=2026-06-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-09"/>
+    <published>2026-06-07T05:46:14.293605+02:00</published>
+  </entry>
+  <entry>
+    <id>2076bfd2-f375-56be-9374-03dab842119b</id>
+    <title>Workout for Wed Jun 10, 2026</title>
+    <updated>2026-06-07T05:46:15.293605+02:00</updated>
+    <content type="html">&lt;h3&gt;10 RFT: Power Cleans, Burpees, and 200 m&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;10 rounds for time of:&lt;br/&gt;
+5 Power Cleans, 80/50 kg&lt;br/&gt;
+7 Burpees&lt;br/&gt;
+Run, 200 m&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19119732-10-rft-power-cleans-burpees-and-200-m?ed=2026-06-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-10"/>
+    <published>2026-06-07T05:46:15.293605+02:00</published>
+  </entry>
+  <entry>
+    <id>22734dc0-fbcc-5b16-a2ba-948ac69ccef5</id>
+    <title>Workout for Thu Jun 11, 2026</title>
+    <updated>2026-06-07T05:46:16.293605+02:00</updated>
+    <content type="html">&lt;h3&gt;Press : 1 Rep Max&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Find your Press 1 Rep Max.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;5 RFQ: Hang Snatches, Hang Snatches, Push Press, and 2 more&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for quality of:&lt;br/&gt;
+4 Hang Snatches, 32/24 kg&lt;br/&gt;
+4 Hang Snatches, 32/24 kg&lt;br/&gt;
+6 Push Press, 32/24 kg&lt;br/&gt;
+6 Push Press, 32/24 kg&lt;br/&gt;
+16 V-ups&lt;br/&gt;
+Rest 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/503101-press-1-rep-max?ed=2026-06-11&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-11"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19119733-5-rfq-hang-snatches-hang-snatches-push-press-and-2-more?ed=2026-06-11&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-11"/>
+    <published>2026-06-07T05:46:16.293605+02:00</published>
+  </entry>
+  <entry>
+    <id>ef115921-cb0e-5e6c-9abe-b4cb7299728a</id>
+    <title>Workout for Fri Jun 12, 2026</title>
+    <updated>2026-06-07T05:46:17.293605+02:00</updated>
+    <content type="html">&lt;h3&gt;3 RFQ: Broad Jumps&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds for quality of:&lt;br/&gt;
+3 Broad Jumps&lt;br/&gt;
+Rest 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;24-21-18-15-12: Chest-to-bar Pull-ups and Goblet Squats&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;24-21-18-15-12 reps, for time of:&lt;br/&gt;
+Chest-to-bar Pull-up&lt;br/&gt;
+Goblet Squat, 24/16 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/9852370-3-rfq-broad-jumps?ed=2026-06-12&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-12"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19119737-24-21-18-15-12-chest-to-bar-pull-ups-and-goblet-squats?ed=2026-06-12&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-12"/>
+    <published>2026-06-07T05:46:17.293605+02:00</published>
+  </entry>
+  <entry>
+    <id>57b53509-5def-5ac1-8a3b-ad489c3ed3c9</id>
+    <title>Workout for Sat Jun 13, 2026</title>
+    <updated>2026-06-07T05:46:18.293605+02:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 30 mins of:&lt;br/&gt;
+Row, 500/400 m&lt;br/&gt;
+30 Toes-to-bars&lt;br/&gt;
+Run, 200 m&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19119738-amrap-30-mins-rows-toes-to-bars-and-200-m?ed=2026-06-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-13"/>
+    <published>2026-06-07T05:46:18.293605+02:00</published>
+  </entry>
+  <entry>
+    <id>4711a363-eec4-571f-9cd7-e01896e88072</id>
+    <title>Workout for Sun Jun 14, 2026</title>
+    <updated>2026-06-07T05:46:19.293605+02:00</updated>
+    <content type="html">&lt;h3&gt;Glen&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+30 Clean &amp; Jerks, 135/95 lbs&lt;br/&gt;
+Run, 1 mi&lt;br/&gt;
+10 Rope Climbs, 15 ft&lt;br/&gt;
+Run, 1 mi&lt;br/&gt;
+100 Burpees
+&lt;br/&gt;&lt;br/&gt;
+Former U.S. Navy SEAL Glen Doherty, 42, of Winchester, Massachusetts, assigned to a State Department security detail in Benghazi, Libya, died in an attack on a U.S. consulate on September 11, 2012. He is survived by his parents, Ben and Barbara, sister Katie, and brother Greg.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/471007-glen?ed=2026-06-14&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-14"/>
+    <published>2026-06-07T05:46:19.293605+02:00</published>
   </entry>
 </feed>
