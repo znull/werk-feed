@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-06-21T05:46:46.270636+00:00</updated>
+  <updated>2026-06-21T07:52:30.208789+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -7234,7 +7234,7 @@ Rest as needed between sets.&lt;/p&gt;
   <entry>
     <id>963980a0-97fe-5978-9a05-7cc8b4201ab7</id>
     <title>Workout for Thu Jun 25, 2026</title>
-    <updated>2026-06-21T05:52:02.500943+02:00</updated>
+    <updated>2026-06-21T07:57:46.468207+02:00</updated>
     <content type="html">&lt;h3&gt;Every 2 mins for 6 mins: Power Cleans and High Jumps&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Every 2 mins for 6 mins do:&lt;br/&gt;
 3 Power Cleans, 85% 1RM&lt;br/&gt;
@@ -7248,14 +7248,14 @@ Dumbbell Farmers Carry, 22.5/15 kg, 200 m&lt;br/&gt;
 3 rounds of:&lt;br/&gt;
 8 Single Dumbbell Hang Clean &amp; Jerks, 22.5/15 kg&lt;br/&gt;
 8 Single Dumbbell Hang Clean &amp; Jerks, 22.5/15 kg&lt;br/&gt;
-12 Dumbbell Deadlifts, 22.5/15 kg&lt;br/&gt;
-16 Burpee Over Dumbbells&lt;br/&gt;
+8 Dumbbell Deadlifts, 22.5/15 kg&lt;br/&gt;
+8 Burpee Over Dumbbells&lt;br/&gt;
 -- then --&lt;br/&gt;
 Dumbbell Farmers Carry, 22.5/15 kg, 200 m&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/19165056-every-2-mins-for-6-mins-power-cleans-and-high-jumps?ed=2026-06-25&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-25"/>
-    <link href="https://www.beyondthewhiteboard.com/workouts/19165067-ft-dumbbell-farmers-carries-3x-single-dumbbell-hang-clean-jerks-singl?ed=2026-06-25&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-25"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19166838-ft-dumbbell-farmers-carries-3x-single-dumbbell-hang-clean-jerks-singl?ed=2026-06-25&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-25"/>
     <published>2026-06-21T05:52:02.500943+02:00</published>
   </entry>
   <entry>
@@ -7291,5 +7291,21 @@ Rest 20 secs&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/19165091-8-rft-row-calories-chest-to-bar-pull-ups-push-ups-and-v-ups?ed=2026-06-27&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-27"/>
     <published>2026-06-21T05:52:04.500943+02:00</published>
+  </entry>
+  <entry>
+    <id>ba601178-c9cb-5504-bfa2-60327d1a2c2f</id>
+    <title>Workout for Sun Jun 28, 2026</title>
+    <updated>2026-06-21T07:57:49.468207+02:00</updated>
+    <content type="html">&lt;h3&gt;Zimmerman&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 25 mins of:&lt;br/&gt;
+11 Chest-to-bar Pull-ups&lt;br/&gt;
+2 Deadlifts, 315/215 lbs&lt;br/&gt;
+10 Handstand Push-ups
+&lt;br/&gt;&lt;br/&gt;
+U.S. Marine Corps First Lieutenant James R. Zimmerman, 25, of Aroostook, Maine, assigned to 2nd Battalion, 6th Marine Regiment, 2nd Marine Division, II Marine Expeditionary Force, based in Camp Lejeune, North Carolina, died on November 2, 2010, while conducting combat operations in Helmand province, Afghanistan. He is survived by his wife Lynel Winters, parents Tom and Jane, sister Megan, and brother Christian.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/319552-zimmerman?ed=2026-06-28&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-06-28"/>
+    <published>2026-06-21T07:57:49.468207+02:00</published>
   </entry>
 </feed>
