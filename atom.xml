@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-07-04T12:35:05.081741+00:00</updated>
+  <updated>2026-07-05T05:25:20.699018+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -7420,14 +7420,13 @@ Rest 1 min&lt;/p&gt;
   <entry>
     <id>444486f1-5986-55f8-8290-c60d4cc3ef0e</id>
     <title>Workout for Sat Jul 4, 2026</title>
-    <updated>2026-07-03T12:54:22.697447+02:00</updated>
-    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
-&lt;p&gt;Complete as many rounds as possible in 30 mins of:&lt;br/&gt;
-Partner&lt;br/&gt;
-max rep Rows&lt;br/&gt;
-Partner&lt;br/&gt;
-12 Devil Press, 22.5/15 kg&lt;br/&gt;
-12 Dumbbell Box Step-ups, 22.5/15 kg&lt;/p&gt;
+    <updated>2026-07-05T05:30:46.112579+02:00</updated>
+    <content type="html">&lt;h3&gt;World's Toughest Mile&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+Burpee Broad Jump, 400 m&lt;br/&gt;
+Walking Lunge, 400 m&lt;br/&gt;
+Bear Crawl, 400 m&lt;br/&gt;
+Run, 400 m&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 &lt;h3&gt;World's Toughest Mile&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;For time:&lt;br/&gt;
@@ -7437,7 +7436,7 @@ Bear Crawl, 400 m&lt;br/&gt;
 Run, 400 m&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/19188520-amrap-30-mins-partners-rows-partners-and-2-more?ed=2026-07-04&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-04"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/9732534-chipper-burpee-broad-jumps-walking-lunges-bear-crawls-and-400-m?ed=2026-07-04&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-04"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/9732534-chipper-burpee-broad-jumps-walking-lunges-bear-crawls-and-400-m?ed=2026-07-04&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-04"/>
     <published>2026-06-28T07:13:17.485823+02:00</published>
   </entry>
@@ -7459,5 +7458,162 @@ U.S. Marine Corps Lance Corporal Philip P. Clark, 19, of Gainesville, Florida, a
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/343664-pheezy?ed=2026-07-05&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-05"/>
     <published>2026-06-28T07:13:18.485823+02:00</published>
+  </entry>
+  <entry>
+    <id>c289244c-f82d-53a8-8338-37ca475f25b3</id>
+    <title>Workout for Mon Jul 6, 2026</title>
+    <updated>2026-07-05T05:30:48.112579+02:00</updated>
+    <content type="html">&lt;h3&gt;Wendler Bench Press: Week 1&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Bench Press 1x5 at 65% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Bench Press 1x5 at 75% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Bench Press 1x5+ at 85% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;4 RF-ME: Wall Balls, Deadlifts, Sit-ups, and Row Calories&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;4 rounds for max reps of:&lt;br/&gt;
+max rep Wall Balls, 9/6 kg, 1 min&lt;br/&gt;
+max rep Deadlifts, 70/47.5 kg, 1 min&lt;br/&gt;
+max rep Sit-ups, 1 min&lt;br/&gt;
+max rep Row Calories, 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/73796-wendler-bench-press-week-1?ed=2026-07-06&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-06"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19209506-4-rf-me-wall-balls-deadlifts-sit-ups-and-row-calories?ed=2026-07-06&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-06"/>
+    <published>2026-07-05T05:30:48.112579+02:00</published>
+  </entry>
+  <entry>
+    <id>3f8d5416-05bb-52ea-851c-b99834f81689</id>
+    <title>Workout for Tue Jul 7, 2026</title>
+    <updated>2026-07-05T05:30:49.112579+02:00</updated>
+    <content type="html">&lt;h3&gt;Weighted Strict Pull-ups : 4-4-4-ME&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Weighted Strict Pull-ups 4-4-4-ME
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;5 RFT: Strict Pull-ups, Push-ups, and Toes-to-bars&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for time of:&lt;br/&gt;
+8 Strict Pull-ups&lt;br/&gt;
+12 Push-ups&lt;br/&gt;
+14 Toes-to-bars&lt;br/&gt;
+Rest 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19209526-weighted-strict-pull-ups-4-4-4-me?ed=2026-07-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-07"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19209514-5-rft-strict-pull-ups-push-ups-and-toes-to-bars?ed=2026-07-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-07"/>
+    <published>2026-07-05T05:30:49.112579+02:00</published>
+  </entry>
+  <entry>
+    <id>a0e2cf81-0ce5-5900-bfe5-99ac445ec9a7</id>
+    <title>Workout for Wed Jul 8, 2026</title>
+    <updated>2026-07-05T05:30:50.112579+02:00</updated>
+    <content type="html">&lt;h3&gt;Wendler Back Squat: Week 1&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Back Squat 1x5 at 65% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Back Squat 1x5 at 75% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Back Squat 1x5+ at 85% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;AMRAP 14 mins: Dumbbell Thrusters, Dumbbell Box Step-ups, and Double Unders&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 14 mins of:&lt;br/&gt;
+10 Dumbbell Thrusters, 15/10 kg&lt;br/&gt;
+10 Dumbbell Box Step-ups, 15/10 kg, 24/20 in&lt;br/&gt;
+50 Double Unders&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/73795-wendler-back-squat-week-1?ed=2026-07-08&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-08"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19181363-amrap-14-mins-dumbbell-thrusters-dumbbell-box-step-ups-and-double-unders?ed=2026-07-08&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-08"/>
+    <published>2026-07-05T05:30:50.112579+02:00</published>
+  </entry>
+  <entry>
+    <id>58639003-3415-5834-93f3-456b1ca91069</id>
+    <title>Workout for Thu Jul 9, 2026</title>
+    <updated>2026-07-05T05:30:51.112579+02:00</updated>
+    <content type="html">&lt;h3&gt;Complex: Clean Pulls and Power Cleans : 1-1-1-1-1&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;1x [ 2 Clean Pulls + 2 Power Cleans ]
+&lt;br/&gt;&lt;br/&gt;
+1x [ 2 Clean Pulls + 2 Power Cleans ]
+&lt;br/&gt;&lt;br/&gt;
+1x [ 2 Clean Pulls + 2 Power Cleans ]
+&lt;br/&gt;&lt;br/&gt;
+1x [ 2 Clean Pulls + 2 Power Cleans ]
+&lt;br/&gt;&lt;br/&gt;
+1x [ 2 Clean Pulls + 2 Power Cleans ]
+&lt;br/&gt;&lt;br/&gt;
+Use the heaviest weight you can for each set.
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;3x 3 mins RemReps: Power Cleans, 200 m, and Burpee Pull-ups&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds, 3 mins each, for max reps of:&lt;br/&gt;
+14 Power Cleans, 42.5/30 kg&lt;br/&gt;
+Run, 200 m&lt;br/&gt;
+max reps in remaining time Burpee Pull-ups&lt;br/&gt;
+Rest 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/10754025-complex-clean-pulls-and-power-cleans-1-1-1-1-1?ed=2026-07-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-09"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19209536-3x-3-mins-remreps-power-cleans-200-m-and-burpee-pull-ups?ed=2026-07-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-09"/>
+    <published>2026-07-05T05:30:51.112579+02:00</published>
+  </entry>
+  <entry>
+    <id>082e4663-182a-5d9e-945d-a4d42497188e</id>
+    <title>Workout for Fri Jul 10, 2026</title>
+    <updated>2026-07-05T05:30:52.112579+02:00</updated>
+    <content type="html">&lt;h3&gt;AMReps 20 mins: Minute 1s, Split Jerks, Minutes, and 3 more&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;As many reps as possible in 20 mins of:&lt;br/&gt;
+Minute 1&lt;br/&gt;
+5 Split Jerks, 75% 1RM&lt;br/&gt;
+2 Minutes&lt;br/&gt;
+3 Bar Muscle-ups&lt;br/&gt;
+max rep&lt;br/&gt;
+Wall Walk&lt;br/&gt;
+Rest 2 mins&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19209549-amreps-20-mins-minute-1s-split-jerks-minutes-and-3-more?ed=2026-07-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-10"/>
+    <published>2026-07-05T05:30:52.112579+02:00</published>
+  </entry>
+  <entry>
+    <id>043b96b7-339a-5423-8d58-e0cc185c7333</id>
+    <title>Workout for Sat Jul 11, 2026</title>
+    <updated>2026-07-05T05:30:53.112579+02:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 30 mins of:&lt;br/&gt;
+Partner&lt;br/&gt;
+max rep Rows&lt;br/&gt;
+Partner&lt;br/&gt;
+12 Devil Press, 22.5/15 kg&lt;br/&gt;
+12 Dumbbell Box Step-ups, 22.5/15 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19188520-amrap-30-mins-partners-rows-partners-and-2-more?ed=2026-07-11&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-11"/>
+    <published>2026-07-05T05:30:53.112579+02:00</published>
+  </entry>
+  <entry>
+    <id>357a7d98-d781-57bf-ae81-210b0dfb519c</id>
+    <title>Workout for Sun Jul 12, 2026</title>
+    <updated>2026-07-05T05:30:54.112579+02:00</updated>
+    <content type="html">&lt;h3&gt;The Seven&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;7 rounds for time of:&lt;br/&gt;
+7 Handstand Push-ups&lt;br/&gt;
+7 Thrusters, 135/95 lbs&lt;br/&gt;
+7 Knees-to-elbows&lt;br/&gt;
+7 Deadlifts, 245/165 lbs&lt;br/&gt;
+7 Burpees&lt;br/&gt;
+7 Kettlebell Swings, 2/1.5 pood&lt;br/&gt;
+7 Pull-ups
+&lt;br/&gt;&lt;br/&gt;
+A suicide bomber killed seven CIA officers and one Jordanian officer at a remote base in southeastern Afghanistan on December 30, 2009 after posing as a potential informant reporting on Al Qaeda. Seven new stars will be etched onto the memorial wall at the CIA where every star represents grieving friends, family and colleagues dedicated to fight against the enemy, forever in their name.
+&lt;br/&gt;&lt;br/&gt;
+Killed in the attack were CIA officers Jennifer Lynne Matthews, 45; Scott Michael Roberson, 39; Harold E. Brown Jr., 37; Darren LaBonte, 35; Elizabeth Hanson, 30; and security contractors Jeremy Jason Wise, 35, and Dane Clark Paresi, 46.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/64599-the-seven?ed=2026-07-12&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-12"/>
+    <published>2026-07-05T05:30:54.112579+02:00</published>
   </entry>
 </feed>
