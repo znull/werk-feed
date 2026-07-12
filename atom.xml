@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-07-11T12:27:25.038893+00:00</updated>
+  <updated>2026-07-12T05:10:06.378970+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -7615,5 +7615,158 @@ Killed in the attack were CIA officers Jennifer Lynne Matthews, 45; Scott Michae
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/64599-the-seven?ed=2026-07-12&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-12"/>
     <published>2026-07-05T05:30:54.112579+02:00</published>
+  </entry>
+  <entry>
+    <id>84c42b03-9e14-5e88-be97-8857445d524c</id>
+    <title>Workout for Mon Jul 13, 2026</title>
+    <updated>2026-07-12T05:15:40.788168+02:00</updated>
+    <content type="html">&lt;h3&gt;Wendler Bench Press: Week 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Bench Press 1x3 at 70% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Bench Press 1x3 at 80% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Bench Press 1x3+ at 90% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;5x RFT: Every 3 mins, Double Unders, Hand Release Push-ups, and Front Rack Lunges&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds, each round for time, of:&lt;br/&gt;
+Every 3 mins&lt;br/&gt;
+50 Double Unders&lt;br/&gt;
+12 Hand Release Push-ups&lt;br/&gt;
+8 Front Rack Lunges, 42.5/30 kg
+&lt;br/&gt;&lt;br/&gt;
+Rest 0.001 secs between each round.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/73801-wendler-bench-press-week-2?ed=2026-07-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-13"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19230387-5x-rft-every-3-mins-double-unders-hand-release-push-ups-and-front-rack-lunges?ed=2026-07-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-13"/>
+    <published>2026-07-12T05:15:40.788168+02:00</published>
+  </entry>
+  <entry>
+    <id>55726c6a-c432-5cee-b06a-9a0498db6889</id>
+    <title>Workout for Tue Jul 14, 2026</title>
+    <updated>2026-07-12T05:15:41.788168+02:00</updated>
+    <content type="html">&lt;h3&gt;Power Clean : 4 @ 60%, 3 @ 70%, 2+ @ 80%&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Power Clean 1x4 at 60% 1RM&lt;br/&gt;
+Power Clean 1x3 at 70% 1RM&lt;br/&gt;
+Power Clean 1x2+ at 80% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;FT: Bar Facing Burpees, Deadlifts, and Burpee Over Bars&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+20 Bar Facing Burpees&lt;br/&gt;
+40 Deadlifts, 70/47.5 kg&lt;br/&gt;
+20 Burpee Over Bars&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19230388-power-clean-4-60-3-70-2-80?ed=2026-07-14&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-14"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19230389-ft-bar-facing-burpees-deadlifts-and-burpee-over-bars?ed=2026-07-14&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-14"/>
+    <published>2026-07-12T05:15:41.788168+02:00</published>
+  </entry>
+  <entry>
+    <id>8b723824-b40e-5e0d-ab90-e9e6bf1d5bff</id>
+    <title>Workout for Wed Jul 15, 2026</title>
+    <updated>2026-07-12T05:15:42.788168+02:00</updated>
+    <content type="html">&lt;h3&gt;Wendler Back Squat: Week 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Back Squat 1x3 at 70% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Back Squat 1x3 at 80% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Back Squat 1x3+ at 90% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;AMReps 12 mins (3,6,9,...): Toes-to-bars, Box Jumps, and Dumbbell Front Squats&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;As many reps as possible in 12 mins of:&lt;br/&gt;
+3 Toes-to-bars&lt;br/&gt;
+3 Box Jumps, 24/20 in&lt;br/&gt;
+3 Dumbbell Front Squats, 22.5/15 kg&lt;br/&gt;
+6 Toes-to-bars&lt;br/&gt;
+6 Box Jumps, 24/20 in&lt;br/&gt;
+6 Dumbbell Front Squats, 22.5/15 kg&lt;br/&gt;
+9 Toes-to-bars&lt;br/&gt;
+9 Box Jumps, 24/20 in&lt;br/&gt;
+9 Dumbbell Front Squats, 22.5/15 kg&lt;br/&gt;
+...
+&lt;br/&gt;&lt;br/&gt;
+Continue adding 3 reps each round to each movement until time expires.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/73799-wendler-back-squat-week-2?ed=2026-07-15&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-15"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18560582-amreps-12-mins-3-6-9-toes-to-bars-box-jumps-and-dumbbell-front-squats?ed=2026-07-15&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-15"/>
+    <published>2026-07-12T05:15:42.788168+02:00</published>
+  </entry>
+  <entry>
+    <id>213ddb37-477b-576f-b63a-aae43b5c2f36</id>
+    <title>Workout for Thu Jul 16, 2026</title>
+    <updated>2026-07-12T05:15:43.788168+02:00</updated>
+    <content type="html">&lt;h3&gt;10 RFT: Pull-ups, Single Arm Farmer Carries, and 200 m&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;10 rounds for time of:&lt;br/&gt;
+10 Pull-ups&lt;br/&gt;
+Single Arm Farmer Carry, 32/24 kg, 30 secs&lt;br/&gt;
+Run, 200 m&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19230390-10-rft-pull-ups-single-arm-farmer-carries-and-200-m?ed=2026-07-16&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-16"/>
+    <published>2026-07-12T05:15:43.788168+02:00</published>
+  </entry>
+  <entry>
+    <id>40dc22d4-8241-5c21-8169-199927c404d0</id>
+    <title>Workout for Fri Jul 17, 2026</title>
+    <updated>2026-07-12T05:15:44.788168+02:00</updated>
+    <content type="html">&lt;h3&gt;FQ: Squat Cleans&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For quality:&lt;br/&gt;
+10 Squat Cleans, pick load&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;5 RF-ME / 40 secs Stations: Row Calories, Box Jump Overs, and Squat Cleans&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds, 40 secs per station, for max reps of:&lt;br/&gt;
+Row Calorie&lt;br/&gt;
+Box Jump Over, 24/20 in&lt;br/&gt;
+Squat Clean, 80/55 lbs&lt;br/&gt;
+Rest 20 secs
+&lt;br/&gt;&lt;br/&gt;
+Rotate immediately to the next station every 40 secs,&lt;br/&gt;
+the clock does not stop or reset between stations.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19230394-fq-squat-cleans?ed=2026-07-17&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-17"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19230391-5-rf-me-40-secs-stations-row-calories-box-jump-overs-and-squat-cleans?ed=2026-07-17&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-17"/>
+    <published>2026-07-12T05:15:44.788168+02:00</published>
+  </entry>
+  <entry>
+    <id>ee4cbd9f-9769-531d-bccf-67f2984bfe4c</id>
+    <title>Workout for Sat Jul 18, 2026</title>
+    <updated>2026-07-12T05:15:45.788168+02:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+Run, 800 m&lt;br/&gt;
+75 Wall Balls, 9/6 kg&lt;br/&gt;
+50 Crossovers&lt;br/&gt;
+10 Ring Muscle-ups&lt;br/&gt;
+50 Crossovers&lt;br/&gt;
+75 Wall Balls, 9/6 kg&lt;br/&gt;
+Run, 800 m&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19230393-chipper-800-m-wall-balls-crossovers-and-4-more?ed=2026-07-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-18"/>
+    <published>2026-07-12T05:15:45.788168+02:00</published>
+  </entry>
+  <entry>
+    <id>91124e8a-cc65-5832-9179-56cf4ae96f77</id>
+    <title>Workout for Sun Jul 19, 2026</title>
+    <updated>2026-07-12T05:15:46.788168+02:00</updated>
+    <content type="html">&lt;h3&gt;Holleyman&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;30 rounds for time of:&lt;br/&gt;
+5 Wall Balls, 20/14 lbs&lt;br/&gt;
+3 Handstand Push-ups&lt;br/&gt;
+1 Power Clean, 225/155 lbs
+&lt;br/&gt;&lt;br/&gt;
+U.S. Army Staff Sergeant Aaron N. Holleyman, 27, of Glasgow, Montana, assigned to the 1st Battalion, 5th Special Forces Group, based in Fort Campbell, Kentucky, was killed on August 30, 2004, when his military vehicle hit an improvised explosive device in Khutayiah, Iraq. He is survived by his daughters Shelby and Erin, son Zachary, parents Ross and Glenda, and siblings Kelly and Daniel.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/442179-holleyman?ed=2026-07-19&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-19"/>
+    <published>2026-07-12T05:15:46.788168+02:00</published>
   </entry>
 </feed>
