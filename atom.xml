@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-07-16T12:43:56.255859+00:00</updated>
+  <updated>2026-07-17T12:35:33.324055+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -7715,7 +7715,7 @@ Run, 200 m&lt;/p&gt;
   <entry>
     <id>40dc22d4-8241-5c21-8169-199927c404d0</id>
     <title>Workout for Fri Jul 17, 2026</title>
-    <updated>2026-07-12T05:15:44.788168+02:00</updated>
+    <updated>2026-07-17T12:41:11.549940+02:00</updated>
     <content type="html">&lt;h3&gt;FQ: Squat Cleans&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;For quality:&lt;br/&gt;
 10 Squat Cleans, pick load&lt;/p&gt;
@@ -7723,8 +7723,10 @@ Run, 200 m&lt;/p&gt;
 &lt;h3&gt;5 RF-ME / 40 secs Stations: Row Calories, Box Jump Overs, and Squat Cleans&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;5 rounds, 40 secs per station, for max reps of:&lt;br/&gt;
 Row Calorie&lt;br/&gt;
+Rest 20 secs&lt;br/&gt;
 Box Jump Over, 24/20 in&lt;br/&gt;
-Squat Clean, 80/55 lbs&lt;br/&gt;
+Rest 20 secs&lt;br/&gt;
+Squat Clean, 80/55 kg&lt;br/&gt;
 Rest 20 secs
 &lt;br/&gt;&lt;br/&gt;
 Rotate immediately to the next station every 40 secs,&lt;br/&gt;
@@ -7732,7 +7734,7 @@ the clock does not stop or reset between stations.&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/19230394-fq-squat-cleans?ed=2026-07-17&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-17"/>
-    <link href="https://www.beyondthewhiteboard.com/workouts/19230391-5-rf-me-40-secs-stations-row-calories-box-jump-overs-and-squat-cleans?ed=2026-07-17&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-17"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19248677-5-rf-me-40-secs-stations-row-calories-box-jump-overs-and-squat-cleans?ed=2026-07-17&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-17"/>
     <published>2026-07-12T05:15:44.788168+02:00</published>
   </entry>
   <entry>
