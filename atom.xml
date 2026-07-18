@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-07-17T12:35:33.324055+00:00</updated>
+  <updated>2026-07-18T12:26:30.811298+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -7740,7 +7740,7 @@ the clock does not stop or reset between stations.&lt;/p&gt;
   <entry>
     <id>ee4cbd9f-9769-531d-bccf-67f2984bfe4c</id>
     <title>Workout for Sat Jul 18, 2026</title>
-    <updated>2026-07-12T09:45:44.267587+02:00</updated>
+    <updated>2026-07-18T12:32:10.053059+02:00</updated>
     <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;In 35 mins do:&lt;br/&gt;
 100 Alternating Lunges, 15/10 kg&lt;br/&gt;
@@ -7750,8 +7750,20 @@ Row, 500/400 m&lt;br/&gt;
 12 Front Squats, 15/10 kg&lt;br/&gt;
 8 Burpee-to-Plates&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;PrideWOD (Teams of 4)&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+100 Synchronized Lunges, 15/10 kg&lt;br/&gt;
+-- then --&lt;br/&gt;
+4 rounds of:&lt;br/&gt;
+Row, 1000 m&lt;br/&gt;
+[ 16 Plate Ground-to-Overheads + 12 Bottom Squat Plate Press + 8 Burpee-to-Plates ]&lt;br/&gt;
+20 Synchronized Sit-ups&lt;br/&gt;
+-- then --&lt;br/&gt;
+100 Synchronized Lunges, 15/10 kg&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/19233280-amrap-35-mins-w-buy-in-alternating-lunges-rows-plate-ground-to-overheads-and-2-more?ed=2026-07-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-18"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19253239-ft-synchronized-lunges-4x-rows-plate-ground-to-overheads-bottom-squat?ed=2026-07-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-18"/>
     <published>2026-07-12T05:15:45.788168+02:00</published>
   </entry>
   <entry>
