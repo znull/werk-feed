@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-07-25T12:28:56.235617+00:00</updated>
+  <updated>2026-07-26T05:13:11.444572+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -7937,5 +7937,32 @@ U.S. Army First Lieutenant Omar Vazquez, 25, of Hamilton, New Jersey, assigned t
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/709235-omar?ed=2026-07-26&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-07-26"/>
     <published>2026-07-19T05:15:15.555373+02:00</published>
+  </entry>
+  <entry>
+    <id>44463f38-6a35-524b-a28a-7fd0e7d441c4</id>
+    <title>Workout for Sun Aug 2, 2026</title>
+    <updated>2026-07-26T05:18:59.648594+02:00</updated>
+    <content type="html">&lt;h3&gt;ADAMBROWN&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;2 rounds for time of:
+&lt;br/&gt;&lt;br/&gt;
+24 Deadlifts, 295/185 lbs
+&lt;br/&gt;&lt;br/&gt;
+24 Box Jumps, 24 in
+&lt;br/&gt;&lt;br/&gt;
+24 Wall Balls, 20/14 lbs
+&lt;br/&gt;&lt;br/&gt;
+24 Bench Press, 195/120 lbs
+&lt;br/&gt;&lt;br/&gt;
+24 Box Jumps, 24 in
+&lt;br/&gt;&lt;br/&gt;
+24 Wall Balls, 20/14 lbs
+&lt;br/&gt;&lt;br/&gt;
+24 Power Cleans, 145/100 lbs
+&lt;br/&gt;&lt;br/&gt;
+Navy Chief Special Warfare Operator (SEAL) Adam Lee Brown, 36, of Hot Springs, Arkansas, was killed on March 17th, 2010 in Komar Province, Afghanistan, in a battle against heavily armed militants. He is survived by his wife, Kelley, two children, Nathan and Savannah, and by his parents.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/351550-adambrown?ed=2026-08-02&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-02"/>
+    <published>2026-07-26T05:18:59.648594+02:00</published>
   </entry>
 </feed>
