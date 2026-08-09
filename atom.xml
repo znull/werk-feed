@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-08-09T04:31:59.565879+00:00</updated>
+  <updated>2026-08-09T05:10:23.787229+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -8242,5 +8242,78 @@ Bear Crawl, 50 m&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/2661613-pike?ed=2026-08-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-09"/>
     <published>2026-08-02T05:15:55.283926+02:00</published>
+  </entry>
+  <entry>
+    <id>4f488836-b5cc-5b2f-a295-37297d1a9c68</id>
+    <title>Workout for Mon Aug 10, 2026</title>
+    <updated>2026-08-09T05:16:25.951306+02:00</updated>
+    <content type="html">&lt;h3&gt;Wendler Bench Press: Week 3&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Bench Press 1x5 at 75% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Bench Press 1x3 at 85% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Bench Press 1x1+ at 95% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;10 RFT: Ring Dips, Dumbbell Bench Press, and Double Unders&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;10 rounds for time of:&lt;br/&gt;
+10 Ring Dips&lt;br/&gt;
+10 Dumbbell Bench Press, 22.5/15 kg&lt;br/&gt;
+30 Double Unders&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/73835-wendler-bench-press-week-3?ed=2026-08-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-10"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19322392-10-rft-ring-dips-dumbbell-bench-press-and-double-unders?ed=2026-08-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-10"/>
+    <published>2026-08-09T05:16:25.951306+02:00</published>
+  </entry>
+  <entry>
+    <id>6d9ddfff-d964-5ade-b4e9-970372e98261</id>
+    <title>Workout for Tue Aug 11, 2026</title>
+    <updated>2026-08-09T05:16:26.951306+02:00</updated>
+    <content type="html">&lt;h3&gt;Power Clean : 5 @ 70%, 3 @ 80%, 1+ @ 85%&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Power Clean 1x5 at 70% 1RM&lt;br/&gt;
+Power Clean 1x3 at 80% 1RM&lt;br/&gt;
+Power Clean 1x1+ at 85% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;4x AMRAP 3 mins: Alternating Dumbbell Snatches, Toes-to-bars, and Box Jumps&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For 4 cycles:&lt;br/&gt;
+AMRAP in 3 mins of:&lt;br/&gt;
+12 Alternating Dumbbell Snatches, 32/22.5 kg&lt;br/&gt;
+12 Toes-to-bars&lt;br/&gt;
+12 Box Jumps, 30/24 in
+&lt;br/&gt;&lt;br/&gt;
+Rest 1 min between each cycle.&lt;br/&gt;
+For each cycle continue the AMRAP.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19322404-power-clean-5-70-3-80-1-85?ed=2026-08-11&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-11"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19322400-4x-amrap-3-mins-alternating-dumbbell-snatches-toes-to-bars-and-box-jumps?ed=2026-08-11&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-11"/>
+    <published>2026-08-09T05:16:26.951306+02:00</published>
+  </entry>
+  <entry>
+    <id>807a3329-2153-56db-8447-81ea0d73d8a8</id>
+    <title>Workout for Wed Aug 12, 2026</title>
+    <updated>2026-08-09T05:16:27.951306+02:00</updated>
+    <content type="html">&lt;h3&gt;Wendler Back Squat: Week 3&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Back Squat 1x5 at 75% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Back Squat 1x3 at 85% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Back Squat 1x1+ at 95% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;5 RFT: Front Rack Lunges and Burpee Over Bars&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for time of:&lt;br/&gt;
+10 Front Rack Lunges, 52.5/35 kg&lt;br/&gt;
+10 Burpee Over Bars&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/106633-wendler-back-squat-week-3?ed=2026-08-12&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-12"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19322406-5-rft-front-rack-lunges-and-burpee-over-bars?ed=2026-08-12&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-12"/>
+    <published>2026-08-09T05:16:27.951306+02:00</published>
   </entry>
 </feed>
