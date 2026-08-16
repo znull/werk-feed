@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-08-16T04:16:21.857815+00:00</updated>
+  <updated>2026-08-16T04:45:17.192729+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -8445,7 +8445,7 @@ Rest 1 min&lt;/p&gt;
   <entry>
     <id>092d0f90-69b1-5ae5-98d7-56301cef42e7</id>
     <title>Workout for Tue Aug 18, 2026</title>
-    <updated>2026-08-16T04:22:32.010495+02:00</updated>
+    <updated>2026-08-16T04:51:27.402850+02:00</updated>
     <content type="html">&lt;h3&gt;AMRAP 15 mins: Dumbbell Pull Overs and Double Unders&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Complete as many rounds as possible in 15 mins of:
 &lt;br/&gt;&lt;br/&gt;
@@ -8453,8 +8453,17 @@ Rest 1 min&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 40 Double Unders&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;2 RFQ: Wide Grip Pull-ups, -- then --s, and Alternating Dumbbell Curls&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;2 rounds for quality of:&lt;br/&gt;
+10 Wide Grip Pull-ups&lt;br/&gt;
+Rest 1 min&lt;br/&gt;
+-- then --&lt;br/&gt;
+20 Alternating Dumbbell Curls, pick load&lt;br/&gt;
+Rest 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/15807741-amrap-15-mins-dumbbell-pull-overs-and-double-unders?ed=2026-08-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-18"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19344635-2-rfq-wide-grip-pull-ups-then-s-and-alternating-dumbbell-curls?ed=2026-08-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-18"/>
     <published>2026-08-16T04:22:32.010495+02:00</published>
   </entry>
   <entry>
@@ -8503,5 +8512,61 @@ Every 1 min for 10 mins.&lt;/p&gt;
     <link href="https://www.beyondthewhiteboard.com/workouts/7210467-every-1-min-for-10-mins-push-jerk?ed=2026-08-20&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-20"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/19344617-ft-5x-sit-ups-deadlifts-hang-power-cleans-and-push-jerks?ed=2026-08-20&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-20"/>
     <published>2026-08-16T04:22:34.010495+02:00</published>
+  </entry>
+  <entry>
+    <id>364d9c53-50c3-5f98-8fb3-0c3623bff648</id>
+    <title>Workout for Fri Aug 21, 2026</title>
+    <updated>2026-08-16T04:51:30.402850+02:00</updated>
+    <content type="html">&lt;h3&gt;4x AMRAP 4 mins: Buy Ins, 400 m, -- then --s, and 2 more&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For 4 cycles:&lt;br/&gt;
+AMRAP in 4 mins of:&lt;br/&gt;
+Buy In&lt;br/&gt;
+Run, 400 m&lt;br/&gt;
+-- then --&lt;br/&gt;
+8 Thrusters, 35/25 kg&lt;br/&gt;
+8 Burpee Over Bars
+&lt;br/&gt;&lt;br/&gt;
+Rest 4 mins between each cycle.&lt;br/&gt;
+For each cycle continue the AMRAP.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19344620-4x-amrap-4-mins-buy-ins-400-m-then-s-and-2-more?ed=2026-08-21&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-21"/>
+    <published>2026-08-16T04:51:30.402850+02:00</published>
+  </entry>
+  <entry>
+    <id>64db77a4-97a8-57c5-8df6-4ad7c311b3fc</id>
+    <title>Workout for Sat Aug 22, 2026</title>
+    <updated>2026-08-16T04:51:31.402850+02:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;12 rounds for time of:&lt;br/&gt;
+Partner&lt;br/&gt;
+3 Power Cleans, 70/47.5 kg&lt;br/&gt;
+6 Handstand Push-ups&lt;br/&gt;
+Partner&lt;br/&gt;
+Max Cal Row&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19344623-12-rft-partners-power-cleans-handstand-push-ups-and-2-more?ed=2026-08-22&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-22"/>
+    <published>2026-08-16T04:51:31.402850+02:00</published>
+  </entry>
+  <entry>
+    <id>406e9bdd-9ce2-5201-a69f-07e75bf0dec2</id>
+    <title>Workout for Sun Aug 23, 2026</title>
+    <updated>2026-08-16T04:51:32.402850+02:00</updated>
+    <content type="html">&lt;h3&gt;Daniel&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+50 Pull-ups&lt;br/&gt;
+Run, 400 m&lt;br/&gt;
+21 Thrusters, 95/65 lbs&lt;br/&gt;
+Run, 800 m&lt;br/&gt;
+21 Thrusters, 95/65 lbs&lt;br/&gt;
+Run, 400 m&lt;br/&gt;
+50 Pull-ups
+&lt;br/&gt;&lt;br/&gt;
+With heavy hearts we dedicate this workout to Army Sgt 1st Class Daniel Crabtree who was killed in Al Kut, Iraq on Thursday June 8th, 2006. To Daniel's family and friends, we express our sorrow; to his wife Kathy and daughter Mallory, we tearfully acknowledge your loss as the true cost of freedom. Fair Winds, Daniel.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/408-daniel?ed=2026-08-23&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-23"/>
+    <published>2026-08-16T04:51:32.402850+02:00</published>
   </entry>
 </feed>
