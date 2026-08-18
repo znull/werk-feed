@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-08-17T12:13:40.269856+00:00</updated>
+  <updated>2026-08-18T12:14:43.626983+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -8445,12 +8445,10 @@ Rest 1 min&lt;/p&gt;
   <entry>
     <id>092d0f90-69b1-5ae5-98d7-56301cef42e7</id>
     <title>Workout for Tue Aug 18, 2026</title>
-    <updated>2026-08-16T04:51:27.402850+02:00</updated>
-    <content type="html">&lt;h3&gt;AMRAP 15 mins: Dumbbell Pull Overs and Double Unders&lt;/h3&gt;&lt;br/&gt;
-&lt;p&gt;Complete as many rounds as possible in 15 mins of:
-&lt;br/&gt;&lt;br/&gt;
-20 Dumbbell Pull Overs, 22.5/15 kg
-&lt;br/&gt;&lt;br/&gt;
+    <updated>2026-08-18T12:20:53.829819+02:00</updated>
+    <content type="html">&lt;h3&gt;AMRAP 15 mins: Plank Dumbbell Pull Throughs and Double Unders&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 15 mins of:&lt;br/&gt;
+20 Plank Dumbbell Pull Throughs, 22.5/15 kg&lt;br/&gt;
 40 Double Unders&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 &lt;h3&gt;2 RFQ: Wide Grip Pull-ups, -- then --s, and Alternating Dumbbell Curls&lt;/h3&gt;&lt;br/&gt;
@@ -8462,14 +8460,14 @@ Rest 1 min&lt;br/&gt;
 Rest 1 min&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/15807741-amrap-15-mins-dumbbell-pull-overs-and-double-unders?ed=2026-08-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-18"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19350649-amrap-15-mins-plank-dumbbell-pull-throughs-and-double-unders?ed=2026-08-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-18"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/19344635-2-rfq-wide-grip-pull-ups-then-s-and-alternating-dumbbell-curls?ed=2026-08-18&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-18"/>
     <published>2026-08-16T04:22:32.010495+02:00</published>
   </entry>
   <entry>
     <id>59259205-f74f-591c-a62e-67ec05e006db</id>
     <title>Workout for Wed Aug 19, 2026</title>
-    <updated>2026-08-16T04:22:33.010495+02:00</updated>
+    <updated>2026-08-18T12:20:54.829819+02:00</updated>
     <content type="html">&lt;h3&gt;Back Squat : 2 @ 80%, 1 @ 85%, 1+ @ 90%&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Back Squat 1x2 at 80% 1RM&lt;br/&gt;
 Back Squat 1x1 at 85% 1RM&lt;br/&gt;
@@ -8477,19 +8475,19 @@ Back Squat 1x1+ at 90% 1RM
 &lt;br/&gt;&lt;br/&gt;
 Rest as needed between sets.&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
-&lt;h3&gt;FT: Box Jump Overs, Single Arm Ruck Overhead Press, Box Jump Overs, and 4 more&lt;/h3&gt;&lt;br/&gt;
+&lt;h3&gt;Chipper: Box Jump Overs, Dumbbell Suitcase Lunges, Box Jump Overs, and 4 more&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;For time:&lt;br/&gt;
 30 Box Jump Overs, 24/20 in&lt;br/&gt;
-30 Single Arm Ruck Overhead Press, 22.5/15 kg&lt;br/&gt;
+30 Dumbbell Suitcase Lunges, 22.5/15 kg&lt;br/&gt;
 30 Box Jump Overs, 24/20 in&lt;br/&gt;
-30 Single Arm Ruck Overhead Press, 22.5/15 kg&lt;br/&gt;
+30 Single Arm Front Rack Lunges, 22.5/15 kg&lt;br/&gt;
 30 Box Jump Overs, 24/20 in&lt;br/&gt;
-30 Single Arm Ruck Overhead Press, 22.5/15 kg&lt;br/&gt;
+30 Single Arm Overhead Lunges, 22.5/15 kg&lt;br/&gt;
 30 Box Jump Overs, 24/20 in&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/19344615-back-squat-2-80-1-85-1-90?ed=2026-08-19&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-19"/>
-    <link href="https://www.beyondthewhiteboard.com/workouts/19344616-ft-box-jump-overs-single-arm-ruck-overhead-press-box-jump-overs-and-4-more?ed=2026-08-19&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-19"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19349952-chipper-box-jump-overs-dumbbell-suitcase-lunges-box-jump-overs-and-4-more?ed=2026-08-19&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-08-19"/>
     <published>2026-08-16T04:22:33.010495+02:00</published>
   </entry>
   <entry>
