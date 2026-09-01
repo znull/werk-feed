@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-08-31T12:32:26.255178+00:00</updated>
+  <updated>2026-09-01T12:31:13.897721+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -8822,31 +8822,13 @@ Run, 200 m&lt;br/&gt;
   <entry>
     <id>8adf5f4b-97f3-5270-b995-1c42900dd420</id>
     <title>Workout for Fri Sep 4, 2026</title>
-    <updated>2026-08-30T04:27:11.117294+02:00</updated>
-    <content type="html">&lt;h3&gt;AMRAPx2: 12 mins of 200 m, Wall Balls, and Single Unders; 12 mins of Kettlebell...&lt;/h3&gt;&lt;br/&gt;
-&lt;p&gt;For total rounds and reps:&lt;br/&gt;
-AMRAP in 12 mins of:&lt;br/&gt;
-Run, 200 m&lt;br/&gt;
-15 Wall Balls&lt;br/&gt;
-60 Single Unders&lt;br/&gt;
--- then --&lt;br/&gt;
-Rest 3 mins&lt;br/&gt;
--- then --&lt;br/&gt;
-AMRAP in 12 mins of:&lt;br/&gt;
-12 Kettlebell Swings, 24/16 kg&lt;br/&gt;
-10 Goblet Reverse Lunges&lt;br/&gt;
-8 Burpee Box Step Overs, 20 in&lt;br/&gt;
-Kettlebell Farmers Walk, 30 m
-&lt;br/&gt;&lt;br/&gt;
-For each AMRAP, restart from 0.&lt;/p&gt;
-&lt;br/&gt;&lt;br/&gt;
-&lt;h3&gt;Alt EMOM 20 mins: Squat Cleans, Alternating Single Leg V-ups, and Mountain Climbers&lt;/h3&gt;&lt;br/&gt;
+    <updated>2026-09-01T12:37:41.202981+02:00</updated>
+    <content type="html">&lt;h3&gt;Alt EMOM 20 mins: Squat Cleans, Alternating Single Leg V-ups, and Mountain Climbers&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Every 1 min for 20 mins, alternating between:&lt;br/&gt;
 3 Squat Cleans, 70/47.5 kg&lt;br/&gt;
 [ 20 Alternating Single Leg V-ups + 20 Mountain Climbers ]&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/19368399-amrapx2-12-mins-of-200-m-wall-balls-and-single-unders-12-mins-of-kettlebell?ed=2026-09-04&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-04"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/19387772-alt-emom-20-mins-squat-cleans-alternating-single-leg-v-ups-and-mountain-climbers?ed=2026-09-04&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-04"/>
     <published>2026-08-30T04:27:11.117294+02:00</published>
   </entry>
