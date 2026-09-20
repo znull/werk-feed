@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-09-20T12:25:09.663183+00:00</updated>
+  <updated>2026-09-20T12:43:34.021985+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -9250,11 +9250,11 @@ Tabata score is the total reps performed in all of the intervals.&lt;/p&gt;
   <entry>
     <id>09a6486f-5c59-5da1-bd94-963aa77e3719</id>
     <title>Workout for Thu Sep 24, 2026</title>
-    <updated>2026-09-20T05:56:38.719760+02:00</updated>
+    <updated>2026-09-20T12:50:21.199096+02:00</updated>
     <content type="html">&lt;h3&gt;5x 2 mins RemReps: Pull Up Bar Complexes, Air Squats, and Ket...&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;5 rounds, 2 mins each, for max reps of:&lt;br/&gt;
 3 Pull Up Bar Complexes&lt;br/&gt;
-30 Air Squats&lt;br/&gt;
+15 Air Squats&lt;br/&gt;
 max reps in remaining time Kettlebell Swings, 24/16 kg&lt;br/&gt;
 Rest 1 min&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
@@ -9264,15 +9264,20 @@ Wall Sit, 30 secs&lt;br/&gt;
 Wall Sit March, 30 secs&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/19455910-5x-2-mins-remreps-pull-up-bar-complexes-air-squats-and-ket?ed=2026-09-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-24"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19456592-5x-2-mins-remreps-pull-up-bar-complexes-air-squats-and-ket?ed=2026-09-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-24"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/18295676-4-rfq-wall-sits-and-wall-sit-marches?ed=2026-09-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-24"/>
     <published>2026-09-20T05:44:52.717291+02:00</published>
   </entry>
   <entry>
     <id>04b8c646-c8d7-51db-bda9-e893fa30094d</id>
     <title>Workout for Fri Sep 25, 2026</title>
-    <updated>2026-09-20T05:56:39.719760+02:00</updated>
-    <content type="html">&lt;h3&gt;AMReps 11 mins: AMRAPs, Hang Power Cleans, Burpee Box Jumps, and 6 more&lt;/h3&gt;&lt;br/&gt;
+    <updated>2026-09-20T12:50:22.199096+02:00</updated>
+    <content type="html">&lt;h3&gt;Every 1 min for 8 mins: Alternating Lunges and Plyo Push-ups&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Every 1 min for 8 mins do:&lt;br/&gt;
+8 Alternating Lunges&lt;br/&gt;
+4 Plyo Push-ups&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;AMReps 11 mins: AMRAPs, Hang Power Cleans, Burpee Box Jumps, and 6 more&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;As many reps as possible in 11 mins of:&lt;br/&gt;
 AMRAP, 2 mins&lt;br/&gt;
 3 Hang Power Cleans, 42.5/30 kg&lt;br/&gt;
@@ -9287,6 +9292,7 @@ AMRAP, 4 mins&lt;br/&gt;
 3 Burpee Box Jumps, 24/20 in&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18272264-every-1-min-for-8-mins-alternating-lunges-and-plyo-push-ups?ed=2026-09-25&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-25"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/19455924-amreps-11-mins-amraps-hang-power-cleans-burpee-box-jumps-and-6-more?ed=2026-09-25&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-25"/>
     <published>2026-09-20T05:56:39.719760+02:00</published>
   </entry>
