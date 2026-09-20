@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-09-20T04:21:19.855084+00:00</updated>
+  <updated>2026-09-20T05:38:05.434354+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -9166,5 +9166,89 @@ He is survived by his wife Mila; children Mike Jr., Jacob, and Johanna; mother D
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/158031-hammer?ed=2026-09-20&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-20"/>
     <published>2026-09-13T04:27:56.051062+02:00</published>
+  </entry>
+  <entry>
+    <id>24e58959-d587-56c5-a5d8-5263ff0fd3b8</id>
+    <title>Workout for Mon Sep 21, 2026</title>
+    <updated>2026-09-20T05:44:49.717291+02:00</updated>
+    <content type="html">&lt;h3&gt;Every 2 mins for 10 mins: Front Squat&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 Front Squats, 70% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Every 2 mins for 10 mins.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;5 RFT: Front Squats and Strict Pull-ups&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for time of:&lt;br/&gt;
+9 Front Squats, 60/42.5 kg&lt;br/&gt;
+7 Strict Pull-ups&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/3053192-every-2-mins-for-10-mins-front-squat?ed=2026-09-21&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-21"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19455899-5-rft-front-squats-and-strict-pull-ups?ed=2026-09-21&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-21"/>
+    <published>2026-09-20T05:44:49.717291+02:00</published>
+  </entry>
+  <entry>
+    <id>c3106f99-5195-53e3-beb7-d758cf96311a</id>
+    <title>Workout for Tue Sep 22, 2026</title>
+    <updated>2026-09-20T05:44:50.717291+02:00</updated>
+    <content type="html">&lt;h3&gt;4x 2 mins RemReps: 200 m and Sit-ups; 4x 2 mins RemReps: Row ...&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;4 rounds, 2 mins each, for max reps of:&lt;br/&gt;
+Run, 200 m&lt;br/&gt;
+max reps in remaining time Sit-ups&lt;br/&gt;
+Rest 15 secs&lt;br/&gt;
+-- then --&lt;br/&gt;
+4 rounds, 2 mins each, for max reps of:&lt;br/&gt;
+20/16 Row Calories&lt;br/&gt;
+max reps in remaining time Farmer Carry Holds&lt;br/&gt;
+Rest 15 secs&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;"Tabata" - Hollow Rocks and Supermen : 8 x 20 secs / 10 secs&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Tabata Hollow Rock
+&lt;br/&gt;&lt;br/&gt;
+Tabata Superman
+&lt;br/&gt;&lt;br/&gt;
+The Tabata interval is 20 secs of work followed
+&lt;br/&gt;&lt;br/&gt;
+by 10 secs of rest for 8 intervals.
+&lt;br/&gt;&lt;br/&gt;
+Tabata score is the total reps performed in all of the intervals.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19455905-4x-2-mins-remreps-200-m-and-sit-ups-4x-2-mins-remreps-row?ed=2026-09-22&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-22"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/1271843-tabata-hollow-rocks-and-supermen-8-x-20-secs-10-secs?ed=2026-09-22&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-22"/>
+    <published>2026-09-20T05:44:50.717291+02:00</published>
+  </entry>
+  <entry>
+    <id>e7b801a3-1e01-50e6-b5e4-279d7c2995f5</id>
+    <title>Workout for Wed Sep 23, 2026</title>
+    <updated>2026-09-20T05:44:51.717291+02:00</updated>
+    <content type="html">&lt;h3&gt;Z Press&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Z Press 5x3 at 45% 1RM&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19455907-z-press?ed=2026-09-23&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-23"/>
+    <published>2026-09-20T05:44:51.717291+02:00</published>
+  </entry>
+  <entry>
+    <id>09a6486f-5c59-5da1-bd94-963aa77e3719</id>
+    <title>Workout for Thu Sep 24, 2026</title>
+    <updated>2026-09-20T05:44:52.717291+02:00</updated>
+    <content type="html">&lt;h3&gt;5x 2 mins RemReps: Pull Up Bar Complexes, Air Squats, and Ket...&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds, 2 mins each, for max reps of:&lt;br/&gt;
+3 Pull Up Bar Complexes&lt;br/&gt;
+30 Air Squats&lt;br/&gt;
+max reps in remaining time Kettlebell Swings, 24/16 kg&lt;br/&gt;
+Rest 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;3 RFQ: Curtsy Squats, Russian Twists, and Suitcase Carries&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds for quality of:&lt;br/&gt;
+15 Curtsy Squats&lt;br/&gt;
+30 Russian Twists&lt;br/&gt;
+Suitcase Carry, pick load, 50 m&lt;br/&gt;
+Rest 2 mins&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19455910-5x-2-mins-remreps-pull-up-bar-complexes-air-squats-and-ket?ed=2026-09-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-24"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/18248691-3-rfq-curtsy-squats-russian-twists-and-suitcase-carries?ed=2026-09-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-24"/>
+    <published>2026-09-20T05:44:52.717291+02:00</published>
   </entry>
 </feed>
