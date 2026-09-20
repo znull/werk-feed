@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-09-20T10:50:06.621022+00:00</updated>
+  <updated>2026-09-20T11:14:21.683228+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -9220,12 +9220,31 @@ Tabata score is the total reps performed in all of the intervals.&lt;/p&gt;
   <entry>
     <id>e7b801a3-1e01-50e6-b5e4-279d7c2995f5</id>
     <title>Workout for Wed Sep 23, 2026</title>
-    <updated>2026-09-20T05:44:51.717291+02:00</updated>
+    <updated>2026-09-20T11:21:08.125944+02:00</updated>
     <content type="html">&lt;h3&gt;Z Press&lt;/h3&gt;&lt;br/&gt;
 &lt;p&gt;Z Press 5x3 at 45% 1RM&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;FT: Burpees, Ring Dips, Double Unders, and 12 more&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:&lt;br/&gt;
+5 Burpees&lt;br/&gt;
+5 Ring Dips&lt;br/&gt;
+10 Double Unders&lt;br/&gt;
+10 Burpees&lt;br/&gt;
+10 Ring Dips&lt;br/&gt;
+20 Double Unders&lt;br/&gt;
+15 Burpees&lt;br/&gt;
+15 Ring Dips&lt;br/&gt;
+30 Double Unders&lt;br/&gt;
+20 Burpees&lt;br/&gt;
+20 Ring Dips&lt;br/&gt;
+40 Double Unders&lt;br/&gt;
+25 Burpees&lt;br/&gt;
+25 Ring Dips&lt;br/&gt;
+50 Double Unders&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/19455907-z-press?ed=2026-09-23&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-23"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19456425-ft-burpees-ring-dips-double-unders-and-12-more?ed=2026-09-23&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-23"/>
     <published>2026-09-20T05:44:51.717291+02:00</published>
   </entry>
   <entry>
@@ -9290,5 +9309,28 @@ Run, 400 m&lt;br/&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/19455930-ft-400-m-thrusters-wall-walks-and-6-more?ed=2026-09-26&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-26"/>
     <published>2026-09-20T06:36:05.719937+02:00</published>
+  </entry>
+  <entry>
+    <id>6cd76e8c-4917-5c4b-b916-b18ff1a0e416</id>
+    <title>Workout for Sun Sep 27, 2026</title>
+    <updated>2026-09-20T11:21:12.125944+02:00</updated>
+    <content type="html">&lt;h3&gt;Nukes&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;In 8 mins, for max reps:&lt;br/&gt;
+Run, 1 mi&lt;br/&gt;
+max reps in remaining time Deadlifts, 315/215 lbs&lt;br/&gt;
+-- then -- &lt;br/&gt;
+In 10 mins, for max reps:&lt;br/&gt;
+Run, 1 mi&lt;br/&gt;
+max reps in remaining time Power Cleans, 225/155 lbs&lt;br/&gt;
+-- then -- &lt;br/&gt;
+In 12 mins, for max reps:&lt;br/&gt;
+Run, 1 mi&lt;br/&gt;
+max reps in remaining time Overhead Squats, 135/95 lbs
+&lt;br/&gt;&lt;br/&gt;
+U.S. Marine Corps Capt. Matthew "Nukes" Manoukian, 29, of Los Altos Hills, Calif., assigned to the 1st Marine Special Operations Battalion, based in Camp Pendleton, Calif., died Aug. 10, 2012, in Sangin District, Afghanistan, after being shot by an Afghan policeman. He is survived by his parents, Socrates Peter and Patricia Manoukian, and his brothers, Mike and Marty Manoukian.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/4435565-nukes?ed=2026-09-27&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-09-27"/>
+    <published>2026-09-20T11:21:12.125944+02:00</published>
   </entry>
 </feed>
