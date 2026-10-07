@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-10-06T12:33:29.256767+00:00</updated>
+  <updated>2026-10-07T12:35:18.085004+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -9533,13 +9533,13 @@ Rest 2 mins&lt;/p&gt;
   <entry>
     <id>c055bd60-eb2b-5cb6-879d-36b351342657</id>
     <title>Workout for Wed Oct 7, 2026</title>
-    <updated>2026-10-04T05:49:46.624980+02:00</updated>
-    <content type="html">&lt;h3&gt;Strict Press : 5 @ 65%, 5 @ 70%, 5 @ 75%&lt;/h3&gt;&lt;br/&gt;
-&lt;p&gt;Strict Press 1x5 at 65% 1RM
-&lt;br/&gt;&lt;br/&gt;
-Strict Press 1x5 at 70% 1RM
-&lt;br/&gt;&lt;br/&gt;
-Strict Press 1x5 at 75% 1RM
+    <updated>2026-10-07T12:42:18.386198+02:00</updated>
+    <content type="html">&lt;h3&gt;Push Press : 3 @ 68%, 3 @ 73%, 2 @ 78%, 2 @ 81%, 1 @ 83%&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Push Press 1x3 at 68% 1RM&lt;br/&gt;
+Push Press 1x3 at 73% 1RM&lt;br/&gt;
+Push Press 1x2 at 78% 1RM&lt;br/&gt;
+Push Press 1x2 at 81% 1RM&lt;br/&gt;
+Push Press 1x1 at 83% 1RM
 &lt;br/&gt;&lt;br/&gt;
 Rest as needed between sets.&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
@@ -9550,7 +9550,7 @@ Push-up&lt;br/&gt;
 Strict Pull-up&lt;/p&gt;
 &lt;br/&gt;&lt;br/&gt;
 </content>
-    <link href="https://www.beyondthewhiteboard.com/workouts/3339624-strict-press-5-65-5-70-5-75?ed=2026-10-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-10-07"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19509134-push-press-3-68-3-73-2-78-2-81-1-83?ed=2026-10-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-10-07"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/19498239-15-12-9-6-3-push-press-push-ups-and-strict-pull-ups?ed=2026-10-07&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-10-07"/>
     <published>2026-10-04T05:49:46.624980+02:00</published>
   </entry>
