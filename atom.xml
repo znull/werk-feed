@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-10-18T12:24:06.561089+00:00</updated>
+  <updated>2026-10-18T12:45:02.046259+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -9932,5 +9932,23 @@ Marston is survived by his girlfriend, Christine Clark; parents, Bill and Nancy;
     <link href="https://www.beyondthewhiteboard.com/workouts/19553868-amrap-30-mins-row-calories-burpee-over-rowers-toes-to-bars-and-3-more?ed=2026-10-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-10-24"/>
     <link href="https://www.beyondthewhiteboard.com/workouts/2019472-marston?ed=2026-10-24&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-10-24"/>
     <published>2026-10-18T04:27:01.642831+02:00</published>
+  </entry>
+  <entry>
+    <id>9cc62cc5-a38e-561a-a764-485f475b920a</id>
+    <title>Workout for Sun Oct 25, 2026</title>
+    <updated>2026-10-18T12:52:20.118805+02:00</updated>
+    <content type="html">&lt;h3&gt;Marston&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 20 mins of:&lt;br/&gt;
+1 Deadlift, 405/285 lbs&lt;br/&gt;
+10 Toes-to-bars&lt;br/&gt;
+15 Bar Facing Burpees
+&lt;br/&gt;&lt;br/&gt;
+Special Warfare Operator 1st Class William Blake Marston, 31, of Concord, New Hampshire, died Jan. 10, 2015, in DeLand, Florida, during military parachute training. Marston was assigned to an East Coast-based SEAL Team and served in the Navy for six years.  
+&lt;br/&gt;&lt;br/&gt;
+Marston is survived by his girlfriend, Christine Clark; parents, Bill and Nancy; three siblings, Chris, Jeffrey and Emily; and many other friends and family.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/2019472-marston?ed=2026-10-25&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-10-25"/>
+    <published>2026-10-18T12:52:20.118805+02:00</published>
   </entry>
 </feed>
