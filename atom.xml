@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://znull.github.io/werk-feed/workouts.atom</id>
   <title>Crossfit Werk WODs</title>
-  <updated>2026-11-07T12:17:23.502649+00:00</updated>
+  <updated>2026-11-08T04:13:22.652739+00:00</updated>
   <link href="https://znull.github.io/werk-feed/workouts.atom" rel="self"/>
   <link href="https://crossfitwerk.de/workout-of-the-day" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10236,5 +10236,170 @@ Rest 1 min&lt;/p&gt;
 </content>
     <link href="https://www.beyondthewhiteboard.com/workouts/19606306-ft-power-cleans-alternating-front-rack-lunges-burpee-over-bars-and-9-m?ed=2026-11-08&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-08"/>
     <published>2026-11-01T04:21:15.345124+01:00</published>
+  </entry>
+  <entry>
+    <id>bb7d955c-b2a2-5817-89bb-d9f80c006613</id>
+    <title>Workout for Mon Nov 9, 2026</title>
+    <updated>2026-11-08T04:20:55.769480+01:00</updated>
+    <content type="html">&lt;h3&gt;Back Squat : 2 @ 80%, 2 @ 84%, 2 @ 88%, 2 @ 88%&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Back Squat 1x2 at 80% 1RM&lt;br/&gt;
+Back Squat 1x2 at 84% 1RM&lt;br/&gt;
+Back Squat 1x2 at 88% 1RM&lt;br/&gt;
+Back Squat 1x2 at 88% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;AMReps 14 mins (3,6,9,...): Double Dumbbell Front Squats, Pull-ups, Every 2 Min (Start At 00:00)s, and Double Unders&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;As many reps as possible in 14 mins of:&lt;br/&gt;
+3 Double Dumbbell Front Squats, 22.5/15 kg&lt;br/&gt;
+3 Pull-ups&lt;br/&gt;
+3 Every 2 Min (Start At 00:00)s&lt;br/&gt;
+3 Double Unders&lt;br/&gt;
+6 Double Dumbbell Front Squats, 22.5/15 kg&lt;br/&gt;
+6 Pull-ups&lt;br/&gt;
+6 Every 2 Min (Start At 00:00)s&lt;br/&gt;
+6 Double Unders&lt;br/&gt;
+9 Double Dumbbell Front Squats, 22.5/15 kg&lt;br/&gt;
+9 Pull-ups&lt;br/&gt;
+9 Every 2 Min (Start At 00:00)s&lt;br/&gt;
+9 Double Unders&lt;br/&gt;
+...
+&lt;br/&gt;&lt;br/&gt;
+Continue adding 3 reps each round to each movement until time expires.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19633902-back-squat-2-80-2-84-2-88-2-88?ed=2026-11-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-09"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19633905-amreps-14-mins-3-6-9-double-dumbbell-front-squats-pull-ups-every-2-min-start-at-00-00-s-and-doub?ed=2026-11-09&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-09"/>
+    <published>2026-11-08T04:20:55.769480+01:00</published>
+  </entry>
+  <entry>
+    <id>26851dfa-e427-57dd-aff4-1fa716db4732</id>
+    <title>Workout for Tue Nov 10, 2026</title>
+    <updated>2026-11-08T04:20:56.769480+01:00</updated>
+    <content type="html">&lt;h3&gt;5x RFT: Every 5 mins, 400 m, Sit-ups, and Suitcase Carries&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds, each round for time, of:&lt;br/&gt;
+Every 5 mins&lt;br/&gt;
+Run, 400 m&lt;br/&gt;
+30 Sit-ups&lt;br/&gt;
+Suitcase Carry, 32/24 kg, 100 m
+&lt;br/&gt;&lt;br/&gt;
+Rest 0 secs between each round.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19633908-5x-rft-every-5-mins-400-m-sit-ups-and-suitcase-carries?ed=2026-11-10&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-10"/>
+    <published>2026-11-08T04:20:56.769480+01:00</published>
+  </entry>
+  <entry>
+    <id>0e9b9a7c-76ed-5fd3-85d6-c46298f6a407</id>
+    <title>Workout for Wed Nov 11, 2026</title>
+    <updated>2026-11-08T04:20:57.769480+01:00</updated>
+    <content type="html">&lt;h3&gt;Press : 2 @ 80%, 2 @ 84%, 2 @ 88%, 2 @ 88%&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Press 1x2 at 80% 1RM&lt;br/&gt;
+Press 1x2 at 84% 1RM&lt;br/&gt;
+Press 1x2 at 88% 1RM&lt;br/&gt;
+Press 1x2 at 88% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;5 RFT: Wall Walks, Alternating Dumbbell Snatches, and Box Jumps&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;5 rounds for time of:&lt;br/&gt;
+3 Wall Walks&lt;br/&gt;
+20 Alternating Dumbbell Snatches, 22.5/15 kg&lt;br/&gt;
+15 Box Jumps, 24/20 in&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19633912-press-2-80-2-84-2-88-2-88?ed=2026-11-11&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-11"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19633914-5-rft-wall-walks-alternating-dumbbell-snatches-and-box-jumps?ed=2026-11-11&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-11"/>
+    <published>2026-11-08T04:20:57.769480+01:00</published>
+  </entry>
+  <entry>
+    <id>515ef2e4-71b7-5317-a82e-39c9ad25b3b0</id>
+    <title>Workout for Thu Nov 12, 2026</title>
+    <updated>2026-11-08T04:20:58.769480+01:00</updated>
+    <content type="html">&lt;h3&gt;FT: Wall Balls and Burpees&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;For time:
+&lt;br/&gt;&lt;br/&gt;
+30 Wall Balls, 9/6 kg
+&lt;br/&gt;&lt;br/&gt;
+15 Burpees
+&lt;br/&gt;&lt;br/&gt;
+24 Wall Balls, 9/6 kg
+&lt;br/&gt;&lt;br/&gt;
+12 Burpees
+&lt;br/&gt;&lt;br/&gt;
+18 Wall Balls, 9/6 kg
+&lt;br/&gt;&lt;br/&gt;
+9 Burpees&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;3 RFQ: Dumbbell Hammer Curls, Wall Sits, and Side Planks&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds for quality of:&lt;br/&gt;
+15 Dumbbell Hammer Curls, pick load&lt;br/&gt;
+Wall Sit, 45 secs&lt;br/&gt;
+Side Plank, 1 min&lt;br/&gt;
+Rest 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/5262094-ft-wall-balls-and-burpees?ed=2026-11-12&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-12"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19633923-3-rfq-dumbbell-hammer-curls-wall-sits-and-side-planks?ed=2026-11-12&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-12"/>
+    <published>2026-11-08T04:20:58.769480+01:00</published>
+  </entry>
+  <entry>
+    <id>17b651fb-6567-5974-8d12-6ec50f4a73b2</id>
+    <title>Workout for Fri Nov 13, 2026</title>
+    <updated>2026-11-08T04:20:59.769480+01:00</updated>
+    <content type="html">&lt;h3&gt;Complex: Power Cleans and Push Jerks : 1 @ 75%, 1 @ 80%, 1 @ 85%, 1 @ 85%, 1 @ 85%&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;1x [ 1 Power Clean + 2 Push Jerks ], 75% 1RM&lt;br/&gt;
+1x [ 1 Power Clean + 2 Push Jerks ], 80% 1RM&lt;br/&gt;
+1x [ 1 Power Clean + 2 Push Jerks ], 85% 1RM&lt;br/&gt;
+1x [ 1 Power Clean + 2 Push Jerks ], 85% 1RM&lt;br/&gt;
+1x [ 1 Power Clean + 2 Push Jerks ], 85% 1RM
+&lt;br/&gt;&lt;br/&gt;
+Rest as needed between sets.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;3 RF-ME: Row Calories, Push Jerks, Toes-to-bars, and Push-ups&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;3 rounds for max reps of:&lt;br/&gt;
+max rep Row Calories, 1 min&lt;br/&gt;
+max rep Push Jerks, 42.5/30 kg, 1 min&lt;br/&gt;
+max rep Toes-to-bars, 1 min&lt;br/&gt;
+max rep Push-ups, 1 min&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19633917-complex-power-cleans-and-push-jerks-1-75-1-80-1-85-1-85-1-85?ed=2026-11-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-13"/>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19633918-3-rf-me-row-calories-push-jerks-toes-to-bars-and-push-ups?ed=2026-11-13&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-13"/>
+    <published>2026-11-08T04:20:59.769480+01:00</published>
+  </entry>
+  <entry>
+    <id>933876b8-3393-5031-bb9b-d888cc28441d</id>
+    <title>Workout for Sat Nov 14, 2026</title>
+    <updated>2026-11-08T04:21:00.769480+01:00</updated>
+    <content type="html">&lt;h3&gt;Teams of 2&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;Complete as many rounds as possible in 30 mins of:&lt;br/&gt;
+1 Partner&lt;br/&gt;
+8 Hang Power Snatches, 35/25 kg&lt;br/&gt;
+10 Kettlebell Goblet Squats, 24/16 kg&lt;br/&gt;
+12 V-ups&lt;br/&gt;
+1 Partner&lt;br/&gt;
+max rep Row Calories&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/19633921-amrap-30-mins-partners-hang-power-snatches-kettlebell-goblet-squats-and-3-more?ed=2026-11-14&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-14"/>
+    <published>2026-11-08T04:21:00.769480+01:00</published>
+  </entry>
+  <entry>
+    <id>7595e439-2130-54c3-8aea-bee840db431e</id>
+    <title>Workout for Sun Nov 15, 2026</title>
+    <updated>2026-11-08T04:21:01.769480+01:00</updated>
+    <content type="html">&lt;h3&gt;Sean&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;10 rounds for time of:&lt;br/&gt;
+11 Chest-to-bar Pull-ups&lt;br/&gt;
+22 Front Squats, 75/55 lbs
+&lt;br/&gt;&lt;br/&gt;
+U.S. Army Staff Sgt. Sean M. Flannery, 29, of Wyomissing, Pennsylvania, assigned to the 2nd Battalion, 502nd Infantry Regiment, 2nd Brigade Combat Team, 101st Airborne Division (Air Assault), based in Fort Campbell, Kentucky, was killed on Nov. 22, 2010, in Kandahar Province, Afghanistan, when insurgents attacked his unit with an improvised explosive device.
+&lt;br/&gt;&lt;br/&gt;
+He is survived by his fiancee, Christina Martin; mother, Charlene; and brothers, Sgt. Brian Flannery and Devin.&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;
+</content>
+    <link href="https://www.beyondthewhiteboard.com/workouts/562839-sean?ed=2026-11-15&amp;g%5B%5D=4491&amp;r=&amp;sd=2026-11-15"/>
+    <published>2026-11-08T04:21:01.769480+01:00</published>
   </entry>
 </feed>
